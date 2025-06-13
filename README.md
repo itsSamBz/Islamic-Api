@@ -1,2 +1,2 @@
 # Islamic-Api
-Repo for Trusted Islamic Resources for Dev's
+Repository of Trusted Islamic Resources for Developers
