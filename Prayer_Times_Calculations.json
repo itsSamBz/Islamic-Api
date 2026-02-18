@@ -10,16 +10,16 @@
                 "id": "algeria",
                 "fajr_angle": 18,
                 "fajr_advancement_minutes": 0,
-                "asr_shadow_factor": 0,
+                "asr_shadow_factor": 1,
+                "maghrib_selector": 1,
+                "maghrib_value": 0,
                 "maghrib_sunset_delay_minutes": 0,
                 "maghrib_post_sunset_angle": 0,
-                "isha_angle": 0,
-                "isha_post_sunset_delay_minutes": 0,
-                "isha_post_maghrib_delay_minutes": 0,
-                "maghrib_selector": 1,
-                "maghrib_value": 4,
                 "isha_selector": 0,
-                "isha_value": 17
+                "isha_angle": 17,
+                "isha_value": 17,
+                "isha_post_sunset_delay_minutes": 0,
+                "isha_post_maghrib_delay_minutes": 0
             }
         },
         {
