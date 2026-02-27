@@ -1,14 +1,14 @@
 {
   "livetv": [
     {
-      "id": 3,
+      "id": 1,
       "name": "قناة القرآن الكريم",
-      "url": "https://www.youtube.com/watch?v=Or-QSLm7G5k"
+      "url": "https://win.holol.com/live/quran/playlist.m3u8"
     },
     {
-      "id": 4,
+      "id": 2,
       "name": "قناة السنة النبوية",
-      "url": "https://www.youtube.com/watch?v=RIjzPn8MpDA"
+      "url": "https://win.holol.com/live/sunnah/playlist.m3u8"
     }
   ]
 }
