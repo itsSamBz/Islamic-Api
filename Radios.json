@@ -1,0 +1,1048 @@
+{
+  "radios": [
+    {
+      "id": 1,
+      "name": "Radio Ibrahim Al-Akdar",
+      "url": "https://backup.qurango.net/radio/ibrahim_alakdar",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 2,
+      "name": "Radio Shaik Abu Bakr Al Shatri",
+      "url": "https://backup.qurango.net/radio/shaik_abu_bakr_al_shatri",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 3,
+      "name": "Radio Ahmad Al-Ajmy",
+      "url": "https://backup.qurango.net/radio/ahmad_alajmy",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 4,
+      "name": "Radio Ahmad Al-Hawashi",
+      "url": "https://backup.qurango.net/radio/ahmad_alhawashi",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 5,
+      "name": "Radio Ahmad Saber",
+      "url": "https://backup.qurango.net/radio/ahmad_saber",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 6,
+      "name": "Radio Ahmad Nauina",
+      "url": "https://backup.qurango.net/radio/ahmad_nauina",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 7,
+      "name": "Radio Akram Alalaqmi",
+      "url": "https://backup.qurango.net/radio/akram_alalaqmi",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 8,
+      "name": "Radio Idrees Abkr",
+      "url": "https://backup.qurango.net/radio/idrees_abkr",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 9,
+      "name": "Radio Alzain Mohammad Ahmad",
+      "url": "https://backup.qurango.net/radio/alzain_mohammad_ahmad",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 10,
+      "name": "Radio Al-Qaria Yassen",
+      "url": "https://backup.qurango.net/radio/alqaria_yassen",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 11,
+      "name": "Radio Aloyoon Al-Koshi",
+      "url": "https://backup.qurango.net/radio/aloyoon_alkoshi",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 12,
+      "name": "Radio Tawfeeq As-Sayegh",
+      "url": "https://backup.qurango.net/radio/tawfeeq_assayegh",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 13,
+      "name": "Radio Jamal Shaker Abdullah",
+      "url": "https://backup.qurango.net/radio/jamal_shaker_abdullah",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 14,
+      "name": "Radio Khaled Al-Qahtani",
+      "url": "https://backup.qurango.net/radio/khaled_alqahtani",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 15,
+      "name": "Radio Khalid Abdulkafi",
+      "url": "https://backup.qurango.net/radio/khalid_abdulkafi",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 16,
+      "name": "Radio Khalifa Altunaiji",
+      "url": "https://backup.qurango.net/radio/khalifa_altunaiji",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 17,
+      "name": "Radio Saad Al-Ghamdi",
+      "url": "https://backup.qurango.net/radio/saad_alghamdi",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 18,
+      "name": "Radio Saud Al-Shuraim",
+      "url": "https://backup.qurango.net/radio/saud_alshuraim",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 19,
+      "name": "Radio Sahl Yassin",
+      "url": "https://backup.qurango.net/radio/sahl_yassin",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 20,
+      "name": "Radio Zaki Daghistani",
+      "url": "https://backup.qurango.net/radio/zaki_daghistani",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 21,
+      "name": "Radio Sayeed Ramadan",
+      "url": "https://backup.qurango.net/radio/sayeed_ramadan",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 22,
+      "name": "Radio Shirazad Taher",
+      "url": "https://backup.qurango.net/radio/shirazad_taher",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 23,
+      "name": "Radio Saber Abdulhakm",
+      "url": "https://backup.qurango.net/radio/saber_abdulhakm",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 24,
+      "name": "Radio Salah Albudair",
+      "url": "https://backup.qurango.net/radio/salah_albudair",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 25,
+      "name": "Radio Salah Alhashim",
+      "url": "https://backup.qurango.net/radio/salah_alhashim",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 26,
+      "name": "Radio Slaah Bukhatir",
+      "url": "https://backup.qurango.net/radio/slaah_bukhatir",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 27,
+      "name": "Radio Adel Ryyan",
+      "url": "https://backup.qurango.net/radio/adel_ryyan",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 28,
+      "name": "Radio Abdelbari Al-Thoubayti",
+      "url": "https://backup.qurango.net/radio/abdelbari_altoubayti",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 29,
+      "name": "Radio Abdulbari Mohammad",
+      "url": "https://backup.qurango.net/radio/abdulbari_mohammad",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 30,
+      "name": "Radio Abdulbasit Abdulsamad",
+      "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 31,
+      "name": "Radio Abdulbasit Abdulsamad",
+      "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_warsh",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 32,
+      "name": "Radio Abdulbasit Abdulsamad",
+      "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 33,
+      "name": "Radio Abdulrahman Alsudaes",
+      "url": "https://backup.qurango.net/radio/abdulrahman_alsudaes",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 34,
+      "name": "Radio Abdul Aziz Al-Ahmad",
+      "url": "https://backup.qurango.net/radio/abdul_aziz_alahmad",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 35,
+      "name": "Radio Abdullah Al-Mattrod",
+      "url": "https://backup.qurango.net/radio/abdullah_almattrod",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 36,
+      "name": "Radio Abdullah Basfer",
+      "url": "https://backup.qurango.net/radio/abdullah_basfer",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 37,
+      "name": "Radio Abdullah Khayyat",
+      "url": "https://backup.qurango.net/radio/abdullah_khayyat",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 38,
+      "name": "Radio Abdullah Al-Johany",
+      "url": "https://backup.qurango.net/radio/abdullah_aljohany",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 39,
+      "name": "Radio Abdulrasheed Soufi",
+      "url": "https://backup.qurango.net/radio/abdulrasheed_soufi_khalaf",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 40,
+      "name": "Radio Abdulrasheed Soufi",
+      "url": "https://backup.qurango.net/radio/abdulrasheed_soufi_assosi",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 41,
+      "name": "Radio Abdulmohsin Al-Harthy",
+      "url": "https://backup.qurango.net/radio/abdulmohsin_alharthy",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 42,
+      "name": "Radio Abdulmohsen Al-Qasim",
+      "url": "https://backup.qurango.net/radio/abdulmohsen_alqasim",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 43,
+      "name": "Radio Abdulmohsin Al-Obaikan",
+      "url": "https://backup.qurango.net/radio/abdulmohsin_alobaikan",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 44,
+      "name": "Radio Abdulhadi Kanakeri",
+      "url": "https://backup.qurango.net/radio/abdulhadi_kanakeri",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 45,
+      "name": "Radio Abdulwadood Haneef",
+      "url": "https://backup.qurango.net/radio/abdulwadood_haneef",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 46,
+      "name": "Radio Ali Alhuthaifi",
+      "url": "https://backup.qurango.net/radio/ali_alhuthaifi",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 47,
+      "name": "Radio Ali Alhuthaifi",
+      "url": "https://backup.qurango.net/radio/ali_alhuthaifi_qalon",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 48,
+      "name": "Radio Ali Jaber",
+      "url": "https://backup.qurango.net/radio/ali_jaber",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 49,
+      "name": "Radio Ali Hajjaj Alsouasi",
+      "url": "https://backup.qurango.net/radio/ali_hajjaj_alsouasi",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 50,
+      "name": "Radio Emad Hafez",
+      "url": "https://backup.qurango.net/radio/emad_hafez",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 51,
+      "name": "Radio Omar Al-Qazabri",
+      "url": "https://backup.qurango.net/radio/omar_alqazabri",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 52,
+      "name": "Radio Fares Abbad",
+      "url": "https://backup.qurango.net/radio/fares_abbad",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 53,
+      "name": "Radio Nasser Alqatami",
+      "url": "https://backup.qurango.net/radio/nasser_alqatami",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 54,
+      "name": "Radio Nabil Al Rifay",
+      "url": "https://backup.qurango.net/radio/nabil_al_rifay",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 55,
+      "name": "Radio Neamah Al-Hassan",
+      "url": "https://backup.qurango.net/radio/neamah_alhassan",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 56,
+      "name": "Radio Hani Arrifai",
+      "url": "https://backup.qurango.net/radio/hani_arrifai",
+      "recent_date": "2020-04-25 22:04:04"
+    },
+    {
+      "id": 57,
+      "name": "Radio Waleed Alnaehi",
+      "url": "https://backup.qurango.net/radio/waleed_alnaehi",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 58,
+      "name": "Radio Yasser Al-Dosari",
+      "url": "https://backup.qurango.net/radio/yasser_aldosari",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 59,
+      "name": "Radio Yasser Al-Qurashi",
+      "url": "https://backup.qurango.net/radio/yasser_alqurashi",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 60,
+      "name": "Radio Yasser Al-Mazroyee",
+      "url": "https://backup.qurango.net/radio/yasser_almazroyee",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 61,
+      "name": "Radio Yahya Hawwa",
+      "url": "https://backup.qurango.net/radio/yahya_hawwa",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 62,
+      "name": "Radio Yousef Alshoaey",
+      "url": "https://backup.qurango.net/radio/yousef_alshoaey",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 63,
+      "name": "Radio Maher Al Meaqli",
+      "url": "https://backup.qurango.net/radio/maher",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 64,
+      "name": "Radio Mohammad Al-Tablaway",
+      "url": "https://backup.qurango.net/radio/mohammad_altablaway",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 65,
+      "name": "Radio Mohammed Al-Lohaidan",
+      "url": "https://backup.qurango.net/radio/mohammed_allohaidan",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 66,
+      "name": "Radio Mohammed Ayyub",
+      "url": "https://backup.qurango.net/radio/mohammed_ayyub",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 67,
+      "name": "Radio Mohammad Saleh Alim Shah",
+      "url": "https://backup.qurango.net/radio/mohammad_saleh_alim_shah",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 68,
+      "name": "Radio Mohammed Jibreel",
+      "url": "https://backup.qurango.net/radio/mohammed_jibreel",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 69,
+      "name": "Radio Mohammed Siddiq Al-Minshawi",
+      "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 70,
+      "name": "Radio Mohammed Siddiq Al-Minshawi",
+      "url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 71,
+      "name": "Radio Mohammad Abdullkarem",
+      "url": "https://backup.qurango.net/radio/mohammad_abdullkarem",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 72,
+      "name": "Radio Mohammad Al-Abdullah",
+      "url": "https://backup.qurango.net/radio/mohammad_alabdullah_albizi",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 73,
+      "name": "Radio Mohammad Al-Abdullah",
+      "url": "https://backup.qurango.net/radio/mohammad_alabdullah_aldorai",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 74,
+      "name": "Radio Mahmoud Khalil Al-Hussary",
+      "url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 75,
+      "name": "Radio Mahmoud Khalil Al-Hussary",
+      "url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_mojawwad",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 76,
+      "name": "Radio Mahmoud Khalil Al-Hussary",
+      "url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 77,
+      "name": "Radio Mahmoud Ali  Albanna",
+      "url": "https://backup.qurango.net/radio/mahmoud_ali__albanna",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 78,
+      "name": "Radio Mahmoud Ali  Albanna",
+      "url": "https://backup.qurango.net/radio/mahmoud_ali__albanna_mojawwad",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 79,
+      "name": "Radio Mishary Alafasi",
+      "url": "https://backup.qurango.net/radio/mishary_alafasi",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 80,
+      "name": "Radio Mustafa Ismail",
+      "url": "https://backup.qurango.net/radio/mustafa_ismail",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 81,
+      "name": "Radio Mustafa Al-Lahoni",
+      "url": "https://backup.qurango.net/radio/mustafa_allahoni",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 82,
+      "name": "Radio Mustafa raad Alazawy",
+      "url": "https://backup.qurango.net/radio/mustafa_raad_alazawy",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 83,
+      "name": "Radio Muftah Alsaltany",
+      "url": "https://backup.qurango.net/radio/muftah_alsaltany_aldori_an_abi_amr ",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 84,
+      "name": "Radio Maher Shakhashero",
+      "url": "https://backup.qurango.net/radio/maher_shakhashero",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 85,
+      "name": "Radio Mahmood AlSheimy",
+      "url": "https://backup.qurango.net/radio/mahmood_alsheimy",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 86,
+      "name": "Radio Khalid Almohana",
+      "url": "https://backup.qurango.net/radio/khalid_almohana",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 87,
+      "name": "Radio Adel Al-Khalbany",
+      "url": "https://backup.qurango.net/radio/adel_alkhalbany",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 88,
+      "name": "Radio Mousa Bilal",
+      "url": "https://backup.qurango.net/radio/mousa_bilal",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 89,
+      "name": "Radio Hatem Fareed Alwaer",
+      "url": "https://backup.qurango.net/radio/hatem_fareed_alwaer",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 90,
+      "name": "Radio Mahmood Al rifai",
+      "url": "https://backup.qurango.net/radio/mahmood_al_rifai",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 91,
+      "name": "Radio Ibrahim Aldosari",
+      "url": "https://backup.qurango.net/radio/ibrahim_aldosari",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 92,
+      "name": "Radio Muftah Alsaltany",
+      "url": "https://backup.qurango.net/radio/muftah_alsaltany_aldorai",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 93,
+      "name": "Radio Jamaan Alosaimi",
+      "url": "https://backup.qurango.net/radio/jamaan_alosaimi",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 94,
+      "name": "Radio Muftah Alsaltany",
+      "url": "https://backup.qurango.net/radio/muftah_alsaltany",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 95,
+      "name": "Radio Yousef Bin Noah Ahmad",
+      "url": "https://backup.qurango.net/radio/yousef_bin_noah_ahmad",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 96,
+      "name": "Radio Muftah Alsaltany",
+      "url": "https://backup.qurango.net/radio/muftah_alsaltany_ibn_thakwan_an_ibn_amr",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 97,
+      "name": "Radio Moeedh Alharthi",
+      "url": "https://backup.qurango.net/radio/moeedh_alharthi",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 98,
+      "name": "Radio Mohammad Rashad Alshareef",
+      "url": "https://backup.qurango.net/radio/mohammad_rashad_alshareef",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 99,
+      "name": "Radio Ahmad Khader Al-Tarabulsi",
+      "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 100,
+      "name": "Radio Ahmed Al-trabulsi",
+      "url": "https://backup.qurango.net/radio/ahmed_altrabulsi",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 101,
+      "name": "Radio Abdullah Al-Kandari",
+      "url": "https://backup.qurango.net/radio/abdullah_alkandari",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 102,
+      "name": "Radio Ahmed Amer",
+      "url": "https://backup.qurango.net/radio/ahmed_amer",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 103,
+      "name": "Radio Mohammed Osman Khan",
+      "url": "https://backup.qurango.net/radio/mohammed_osman_khan",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 104,
+      "name": "Radio Addokali Mohammad Alalim",
+      "url": "https://backup.qurango.net/radio/addokali_mohammad_alalim",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 105,
+      "name": "Radio Mohammad Abdullkarem",
+      "url": "https://backup.qurango.net/radio/mohammad_abdullkarem_alasbahani",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 106,
+      "name": "Radio Alfateh Alzubair",
+      "url": "https://backup.qurango.net/radio/alfateh_alzubair",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 107,
+      "name": "Radio Tareq Abdulgani daawob",
+      "url": "https://backup.qurango.net/radio/tareq_abdulgani_daawob",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 108,
+      "name": "-Main Radio-",
+      "url": "https://backup.qurango.net/radio/mix",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 109,
+      "name": "-Beautiful Recitations-",
+      "url": "https://backup.qurango.net/radio/salma",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 110,
+      "name": "Eid Takbeer",
+      "url": "https://backup.qurango.net/radio/eid",
+      "recent_date": "2020-06-27 02:41:26"
+    },
+    {
+      "id": 111,
+      "name": "Radio Abdulrahman Al-Majed",
+      "url": "https://backup.qurango.net/radio/abdulrahman_almajed",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 113,
+      "name": "General Fatwa Radio",
+      "url": "https://backup.qurango.net/radio/fatwa",
+      "recent_date": "2020-06-27 02:39:55"
+    },
+    {
+      "id": 114,
+      "name": "Sharia ruqyah",
+      "url": "https://backup.qurango.net/radio/roqiah",
+      "recent_date": "2020-06-27 02:38:21"
+    },
+    {
+      "id": 115,
+      "name": "-Surah Al-Baqarah - Many Reciters-",
+      "url": "https://backup.qurango.net/radio/albaqarah",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 116,
+      "name": "--Quran Tafseer--",
+      "url": "https://backup.qurango.net/radio/tafseer",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 117,
+      "name": "Khalid Al-Jileel",
+      "url": "https://backup.qurango.net/radio/khalid_aljileel",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 118,
+      "name": "Nasser Almajed",
+      "url": "https://backup.qurango.net/radio/nasser_almajed",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 119,
+      "name": "Haitham Aljudaany",
+      "url": "https://backup.qurango.net/radio/hitham_aljadani",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 120,
+      "name": "Ahmad Shaheen",
+      "url": "https://backup.qurango.net/radio/ahmad_shaheen",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 121,
+      "name": "Abdullah Al-Mousa - Radio",
+      "url": "https://backup.qurango.net/radio/abdullah_almousa",
+      "recent_date": "2020-06-27 02:46:31"
+    },
+    {
+      "id": 122,
+      "name": "Abdullah Al-Khalaf",
+      "url": "https://backup.qurango.net/radio/abdullah_alkhalaf",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 123,
+      "name": "---Amazing short Recitations---",
+      "url": "https://backup.qurango.net/radio/tarateel",
+      "recent_date": "2020-04-25 22:04:05"
+    },
+    {
+      "id": 139,
+      "name": "Radio Majed Al-Zamil",
+      "url": "https://backup.qurango.net/radio/majed_alzamel",
+      "recent_date": "2020-06-27 01:43:46"
+    },
+    {
+      "id": 217,
+      "name": "Radio Bandar Balilah",
+      "url": "https://backup.qurango.net/radio/bandar_balilah",
+      "recent_date": "2021-09-06 22:14:27"
+    },
+    {
+      "id": 248,
+      "name": "Radio Nasser Alosfor",
+      "url": "https://backup.qurango.net/radio/nasser_alosfor",
+      "recent_date": "2020-05-05 02:27:02"
+    },
+    {
+      "id": 261,
+      "name": "Radio Muhammad Ayoub - Distinctive reading",
+      "url": "https://backup.qurango.net/radio/ayyoub2",
+      "recent_date": "2020-06-27 02:35:33"
+    },
+    {
+      "id": 265,
+      "name": "Ahmad Deban",
+      "url": "https://backup.qurango.net/radio/ahmad_deban",
+      "recent_date": "2020-06-27 01:46:13"
+    },
+    {
+      "id": 274,
+      "name": "Radio Muhammad Abu Sneina",
+      "url": "https://backup.qurango.net/radio/sneineh",
+      "recent_date": "2022-08-17 16:40:49"
+    },
+    {
+      "id": 275,
+      "name": "Radio Mohammed Al-Amin Qeniwa",
+      "url": "https://backup.qurango.net/radio/qeniwa",
+      "recent_date": "2022-08-17 16:44:08"
+    },
+    {
+      "id": 287,
+      "name": "Radio Abdulrahman Alshahhat",
+      "url": "https://backup.qurango.net/radio/a_alshahhat",
+      "recent_date": "2022-09-20 17:28:01"
+    },
+    {
+      "id": 307,
+      "name": "Abdulaziz Sheim",
+      "url": "https://backup.qurango.net/radio/a_sheim",
+      "recent_date": "2023-10-11 04:18:00"
+    },
+    {
+      "id": 10902,
+      "name": "Verses of serenity",
+      "url": "https://backup.qurango.net/radio/sakeenah",
+      "recent_date": "2020-07-17 14:39:15"
+    },
+    {
+      "id": 10903,
+      "name": "Stories from the lives of the SAHABAH and TABE'EEN, may ALLAH be pleased with them",
+      "url": "https://backup.qurango.net/radio/sahabah",
+      "recent_date": "2020-07-17 14:40:45"
+    },
+    {
+      "id": 10904,
+      "name": "A summary of the interpretation of the Holy Quran",
+      "url": "https://backup.qurango.net/radio/mukhtasartafsir",
+      "recent_date": "2021-03-25 17:28:18"
+    },
+    {
+      "id": 10906,
+      "name": "Words of remembrance for morning",
+      "url": "https://backup.qurango.net/radio/athkar_sabah",
+      "recent_date": "2021-08-27 12:48:42"
+    },
+    {
+      "id": 10907,
+      "name": "Words of remembrance for evening",
+      "url": "https://backup.qurango.net/radio/athkar_masa",
+      "recent_date": "2021-08-27 12:49:07"
+    },
+    {
+      "id": 21114,
+      "name": "In the shadows of the Prophet’s PBUH biography",
+      "url": "https://backup.qurango.net/radio/fi_zilal_alsiyra",
+      "recent_date": "2021-09-27 01:36:41"
+    },
+    {
+      "id": 21115,
+      "name": "The Abridged Biography of the Prophet",
+      "url": "https://backup.qurango.net/radio/almukhtasar_fi_alsiyra",
+      "recent_date": "2025-05-30 11:38:35"
+    },
+    {
+      "id": 21116,
+      "name": "The book of jurisprudential choices in matters of worship and transactions",
+      "url": "https://backup.qurango.net/radio/alaikhtiarat_alfiqhayh_bin_baz",
+      "recent_date": "2022-02-13 23:48:06"
+    },
+    {
+      "id": 21117,
+      "name": "Interpretation of the Holy Qur’an - Conclusion from Tafsir al-Tabari",
+      "url": "https://backup.qurango.net/radio/tabri",
+      "recent_date": "2023-12-02 20:42:00"
+    },
+    {
+      "id": 109038,
+      "name": "Saleh Al-Habdan",
+      "url": "https://backup.qurango.net/radio/saleh_alhabdan",
+      "recent_date": "2020-06-27 01:47:04"
+    },
+    {
+      "id": 109039,
+      "name": "Quran translation into Urdu - Abdulbasit",
+      "url": "https://backup.qurango.net/radio/translation_quran_urdu_basit",
+      "recent_date": "2024-04-13 04:18:10"
+    },
+    {
+      "id": 109040,
+      "name": "Quran translation into Spanish",
+      "url": "https://backup.qurango.net/radio/translation_quran_spanish_afs",
+      "recent_date": "2024-04-13 04:21:03"
+    },
+    {
+      "id": 109041,
+      "name": "Quran translation into Albanian",
+      "url": "https://backup.qurango.net/radio/translation_quran_albanian",
+      "recent_date": "2024-04-13 04:22:03"
+    },
+    {
+      "id": 109042,
+      "name": "Quran translation into German",
+      "url": "https://backup.qurango.net/radio/translation_quran_german",
+      "recent_date": "2024-04-13 04:23:33"
+    },
+    {
+      "id": 109043,
+      "name": "Quran translation into Amazigh",
+      "url": "https://backup.qurango.net/radio/translation_quran_tamazight",
+      "recent_date": "2024-04-13 04:25:33"
+    },
+    {
+      "id": 109044,
+      "name": "Quran in Urdu - Al-Sharim and Al-Sadis",
+      "url": "https://backup.qurango.net/radio/translation_quran_urdu_sds_shur",
+      "recent_date": "2024-04-13 04:26:22"
+    },
+    {
+      "id": 109045,
+      "name": "Quran in Urdu - Qari Muhammad Manshawi",
+      "url": "https://backup.qurango.net/radio/translation_quran_urdu_minsh",
+      "recent_date": "2024-04-13 04:27:09"
+    },
+    {
+      "id": 109046,
+      "name": "Quran translation into English - AbdulBasit Abdul Samad",
+      "url": "https://backup.qurango.net/radio/translation_quran_english_basit",
+      "recent_date": "2024-04-13 04:28:32"
+    },
+    {
+      "id": 109047,
+      "name": "Quran translation into English - Abdullah Basfar",
+      "url": "https://backup.qurango.net/radio/translation_quran_english_bsfr",
+      "recent_date": "2024-04-13 04:29:17"
+    },
+    {
+      "id": 109048,
+      "name": "Quran translation into English - translated by Walk",
+      "url": "https://backup.qurango.net/radio/translation_quran_english_walk_basit",
+      "recent_date": "2024-04-13 04:30:25"
+    },
+    {
+      "id": 109049,
+      "name": "Quran translation into Portuguese",
+      "url": "https://backup.qurango.net/radio/translation_quran_portuguese",
+      "recent_date": "2024-04-13 04:31:18"
+    },
+    {
+      "id": 109050,
+      "name": "Quran translation into Bosnian",
+      "url": "https://backup.qurango.net/radio/translation_quran_bosnia",
+      "recent_date": "2024-04-13 04:32:27"
+    },
+    {
+      "id": 109051,
+      "name": "Quran translation into Turkish",
+      "url": "https://backup.qurango.net/radio/translation_quran_turkish",
+      "recent_date": "2024-04-13 04:33:38"
+    },
+    {
+      "id": 109052,
+      "name": "Quran translation into Russian",
+      "url": "https://backup.qurango.net/radio/translation_quran_Russia",
+      "recent_date": "2024-04-13 04:35:33"
+    },
+    {
+      "id": 109053,
+      "name": "Quran translation into Chinese",
+      "url": "https://backup.qurango.net/radio/translation_quran_chinese",
+      "recent_date": "2024-04-13 04:36:48"
+    },
+    {
+      "id": 109054,
+      "name": "Quran translation into Persian",
+      "url": "https://backup.qurango.net/radio/translation_quran_farsi",
+      "recent_date": "2024-04-13 05:07:34"
+    },
+    {
+      "id": 109055,
+      "name": "Quran translation into French",
+      "url": "https://backup.qurango.net/radio/translation_quran_french",
+      "recent_date": "2024-04-13 05:08:08"
+    },
+    {
+      "id": 109056,
+      "name": "Quran translation into Kurdish",
+      "url": "https://backup.qurango.net/radio/translation_quran_kurdish",
+      "recent_date": "2024-04-13 05:10:28"
+    },
+    {
+      "id": 109057,
+      "name": "Quran translation into Korean",
+      "url": "https://backup.qurango.net/radio/translation_quran_Korean",
+      "recent_date": "2024-04-13 05:10:52"
+    },
+    {
+      "id": 109058,
+      "name": "Quran translation into Hungarian",
+      "url": "https://backup.qurango.net/radio/translation_quran_hungarian",
+      "recent_date": "2024-04-13 05:16:54"
+    },
+    {
+      "id": 109059,
+      "name": "Quran translation into Greek",
+      "url": "https://backup.qurango.net/radio/translation_quran_greek",
+      "recent_date": "2024-04-13 05:17:34"
+    },
+    {
+      "id": 109060,
+      "name": "Al-Mulk Surah",
+      "url": "https://backup.qurango.net/radio/Surah_Al-Mulk",
+      "recent_date": "2024-04-13 05:32:01"
+    },
+    {
+      "id": 109061,
+      "name": "The virtue of the month of Ramadan",
+      "url": "https://backup.qurango.net/radio/ramadan",
+      "recent_date": "2024-04-13 05:33:01"
+    },
+    {
+      "id": 109062,
+      "name": "Translation of the meanings of the Quran in Hausa",
+      "url": "https://backup.qurango.net/radio/Translation_Quran_Hausa",
+      "recent_date": "2024-09-26 00:18:57"
+    },
+    {
+      "id": 109066,
+      "name": "Sahih Muslim",
+      "url": "https://backup.qurango.net/radio/saheh-muslim",
+      "recent_date": "2025-05-20 18:30:06"
+    },
+    {
+      "id": 109067,
+      "name": "Sahih al-Bukhari",
+      "url": "https://backup.qurango.net/radio/saheh-bokharee",
+      "recent_date": "2025-05-20 18:34:32"
+    },
+    {
+      "id": 109069,
+      "name": "Stories of the Prophets",
+      "url": "https://backup.qurango.net/radio/alanbiya",
+      "recent_date": "2025-07-04 18:34:32"
+    },
+    {
+      "id": 109074,
+      "name": "Abdullah Albuajan",
+      "url": "https://backup.qurango.net/radio/buajan",
+      "recent_date": "2025-07-20 19:47:08"
+    },
+    {
+      "id": 109075,
+      "name": "Ahmad Talib bin Humaid",
+      "url": "https://backup.qurango.net/radio/a_binhameed",
+      "recent_date": "2025-07-20 19:54:30"
+    },
+    {
+      "id": 109076,
+      "name": "تفسير غريب القرآن",
+      "url": "https://backup.qurango.net/radio/gareeb-quran",
+      "recent_date": "2025-09-06 11:00:48"
+    },
+    {
+      "id": 109077,
+      "name": "Bader Alturki",
+      "url": "https://backup.qurango.net/radio/bader",
+      "recent_date": "2025-09-12 19:09:35"
+    },
+    {
+      "id": 109078,
+      "name": "Hazza Al-Balushi",
+      "url": "https://backup.qurango.net/radio/hazza",
+      "recent_date": "2025-09-12 19:22:27"
+    },
+    {
+      "id": 109082,
+      "name": "Holy Quran from Saudia Arabia",
+      "url": "https://stream.radiojar.com/0tpy1h0kxtzuv",
+      "recent_date": "2026-02-13 17:41:50"
+    }
+  ]
+}
