@@ -1,0 +1,347 @@
+[
+  {
+    "verse_id": 5932,
+    "elements": [
+      {
+        "text_uthmani": "وَالسَّمَاء وَالطَّارِقِ",
+        "verse_number": 1,
+        "chapter_id": 86,
+        "name_arabic": "الطارق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5933,
+    "elements": [
+      {
+        "text_uthmani": "وَمَا أَدْرَاكَ مَا الطَّارِقُ",
+        "verse_number": 2,
+        "chapter_id": 86,
+        "name_arabic": "الطارق"
+      },
+      {
+        "sim_chapter_name": "الأحزاب",
+        "sim_chapter_id": 33,
+        "sim_verse_number": 63,
+        "content": [
+          {
+            "black": "يَسْأَلُكَ النَّاسُ عَنِ السَّاعَةِ ۖ قُلْ إِنَّمَا عِلْمُهَا عِندَ اللَّـهِ ۚ"
+          },
+          {
+            "red": "وَمَا يُدْرِيكَ لَعَلَّ السَّاعَةَ"
+          },
+          {
+            "black": "تَكُونُ"
+          },
+          {
+            "red": "قَرِيب"
+          },
+          {
+            "dimgray": "ًا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الشورى",
+        "sim_chapter_id": 42,
+        "sim_verse_number": 17,
+        "content": [
+          {
+            "black": "اللَّـهُ الَّذِي أَنزَلَ الْكِتَابَ بِالْحَقِّ وَالْمِيزَانَ ۗ"
+          },
+          {
+            "red": "وَمَا يُدْرِيكَ لَعَلَّ السَّاعَةَ قَرِيبٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "عبس",
+        "sim_chapter_id": 80,
+        "sim_verse_number": 3,
+        "content": [
+          {
+            "red": "وَمَا يُدْرِيكَ لَعَلَّهُ"
+          },
+          {
+            "black": "يَزَّكَّىٰ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الانفطار",
+        "sim_chapter_id": 82,
+        "sim_verse_number": 18,
+        "content": [
+          {
+            "red": "ثُمَّ مَا أَدْرَاكَ"
+          },
+          {
+            "black": "مَا يَوْمُ الدِّينِ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "وباقي المواضع: ﴿وَمَا أَدْرَاكَ﴾, تكررت 12 مرة في القرآن.",
+      "ما الفرق بين: (مَا أَدْرَاكَ) و(مَا يُدْرِيكَ)؟ الجواب: إذا قال تعالى: (مَا أَدْرَاكَ)؛ فإنه يذكر هذا الشيء بعد ذلك ويفسره ويوضحه, كما في وصف أهوال القيامة: (الْقَارِعَةُ * مَا الْقَارِعَةُ * وَمَا أَدْرَاكَ مَا الْقَارِعَةُ * يَوْمَ يَكُونُ النَّاسُ), أما إذا قال: (مَا يُدْرِيكَ)؛ فإنه لا يوضحه ولا يفسره؛ لأنه لا سبيل إلى إدراكه والعلم به, كما في شأن موعد يوم القيامة, وقد وردت (مَا أَدْرَاكَ) 13 مرة, بينما وردت (وَمَا يُدْرِيكَ) 3 مرات فقط."
+    ]
+  },
+  {
+    "verse_id": 5934,
+    "elements": [
+      {
+        "text_uthmani": "النَّجْمُ الثَّاقِبُ",
+        "verse_number": 3,
+        "chapter_id": 86,
+        "name_arabic": "الطارق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5935,
+    "elements": [
+      {
+        "text_uthmani": "إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ",
+        "verse_number": 4,
+        "chapter_id": 86,
+        "name_arabic": "الطارق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5936,
+    "elements": [
+      {
+        "text_uthmani": "فَلْيَنظُرِ الْإِنسَانُ مِمَّ خُلِقَ",
+        "name_arabic": "الطارق",
+        "chapter_id": 86,
+        "verse_number": 5,
+        "content": [
+          {
+            "red": "فَلْيَنظُرِ الْإِنسَانُ"
+          },
+          {
+            "black": "مِمَّ خُلِقَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "عبس",
+        "sim_chapter_id": 80,
+        "sim_verse_number": 24,
+        "content": [
+          {
+            "red": "فَلْيَنظُرِ الْإِنسَانُ"
+          },
+          {
+            "black": "إِلَىٰ طَعَامِهِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5937,
+    "elements": [
+      {
+        "text_uthmani": "خُلِقَ مِن مَّاء دَافِقٍ",
+        "name_arabic": "الطارق",
+        "chapter_id": 86,
+        "verse_number": 6,
+        "content": [
+          {
+            "black": "خُلِقَ"
+          },
+          {
+            "red": "مِن مَّاءٍ"
+          },
+          {
+            "dimgray": "دَافِقٍ"
+          }
+        ],
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "السجدة",
+        "sim_chapter_id": 32,
+        "sim_verse_number": 8,
+        "content": [
+          {
+            "black": "ثُمَّ جَعَلَ نَسْلَهُ مِن سُلَالَةٍ"
+          },
+          {
+            "red": "مِّن مَّاءٍ مَّهِينٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المرسلات",
+        "sim_chapter_id": 77,
+        "sim_verse_number": 20,
+        "content": [
+          {
+            "black": "أَلَمْ نَخْلُقكُّم"
+          },
+          {
+            "red": "مِّن مَّاءٍ مَّهِينٍ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5938,
+    "elements": [
+      {
+        "text_uthmani": "يَخْرُجُ مِن بَيْنِ الصُّلْبِ وَالتَّرَائِبِ",
+        "verse_number": 7,
+        "chapter_id": 86,
+        "name_arabic": "الطارق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5939,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّهُ عَلَى رَجْعِهِ لَقَادِرٌ",
+        "verse_number": 8,
+        "chapter_id": 86,
+        "name_arabic": "الطارق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5940,
+    "elements": [
+      {
+        "text_uthmani": "يَوْمَ تُبْلَى السَّرَائِرُ",
+        "verse_number": 9,
+        "chapter_id": 86,
+        "name_arabic": "الطارق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5941,
+    "elements": [
+      {
+        "text_uthmani": "فَمَا لَهُ مِن قُوَّةٍ وَلَا نَاصِرٍ",
+        "verse_number": 10,
+        "chapter_id": 86,
+        "name_arabic": "الطارق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5942,
+    "elements": [
+      {
+        "text_uthmani": "وَالسَّمَاء ذَاتِ الرَّجْعِ",
+        "name_arabic": "الطارق",
+        "chapter_id": 86,
+        "verse_number": 11,
+        "content": [
+          {
+            "red": "وَالسَّمَاءِ ذَاتِ"
+          },
+          {
+            "black": "الرَّجْعِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الذاريات",
+        "sim_chapter_id": 51,
+        "sim_verse_number": 7,
+        "content": [
+          {
+            "red": "وَالسَّمَاءِ ذَاتِ"
+          },
+          {
+            "black": "الْحُبُكِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "البروج",
+        "sim_chapter_id": 85,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "وَالسَّمَاءِ ذَاتِ"
+          },
+          {
+            "black": "الْبُرُوجِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5943,
+    "elements": [
+      {
+        "text_uthmani": "وَالْأَرْضِ ذَاتِ الصَّدْعِ",
+        "verse_number": 12,
+        "chapter_id": 86,
+        "name_arabic": "الطارق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5944,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّهُ لَقَوْلٌ فَصْلٌ",
+        "verse_number": 13,
+        "chapter_id": 86,
+        "name_arabic": "الطارق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5945,
+    "elements": [
+      {
+        "text_uthmani": "وَمَا هُوَ بِالْهَزْلِ",
+        "verse_number": 14,
+        "chapter_id": 86,
+        "name_arabic": "الطارق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5946,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
+        "verse_number": 15,
+        "chapter_id": 86,
+        "name_arabic": "الطارق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5947,
+    "elements": [
+      {
+        "text_uthmani": "وَأَكِيدُ كَيْدًا",
+        "verse_number": 16,
+        "chapter_id": 86,
+        "name_arabic": "الطارق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5948,
+    "elements": [
+      {
+        "text_uthmani": "فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا",
+        "verse_number": 17,
+        "chapter_id": 86,
+        "name_arabic": "الطارق"
+      }
+    ]
+  }
+]

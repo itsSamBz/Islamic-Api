@@ -1,0 +1,35 @@
+[
+  {
+    "verse_id": 6205,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+        "verse_number": 1,
+        "chapter_id": 108,
+        "name_arabic": "الكوثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 6206,
+    "elements": [
+      {
+        "text_uthmani": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+        "verse_number": 2,
+        "chapter_id": 108,
+        "name_arabic": "الكوثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 6207,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+        "verse_number": 3,
+        "chapter_id": 108,
+        "name_arabic": "الكوثر"
+      }
+    ]
+  }
+]

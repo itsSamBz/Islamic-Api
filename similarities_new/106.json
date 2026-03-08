@@ -1,0 +1,46 @@
+[
+  {
+    "verse_id": 6194,
+    "elements": [
+      {
+        "text_uthmani": "لِإِيلَافِ قُرَيْشٍ",
+        "verse_number": 1,
+        "chapter_id": 106,
+        "name_arabic": "قريش"
+      }
+    ]
+  },
+  {
+    "verse_id": 6195,
+    "elements": [
+      {
+        "text_uthmani": "إِيلَافِهِمْ رِحْلَةَ الشِّتَاء وَالصَّيْفِ",
+        "verse_number": 2,
+        "chapter_id": 106,
+        "name_arabic": "قريش"
+      }
+    ]
+  },
+  {
+    "verse_id": 6196,
+    "elements": [
+      {
+        "text_uthmani": "فَلْيَعْبُدُوا رَبَّ هَذَا الْبَيْتِ",
+        "verse_number": 3,
+        "chapter_id": 106,
+        "name_arabic": "قريش"
+      }
+    ]
+  },
+  {
+    "verse_id": 6197,
+    "elements": [
+      {
+        "text_uthmani": "الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ",
+        "verse_number": 4,
+        "chapter_id": 106,
+        "name_arabic": "قريش"
+      }
+    ]
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "verse_id": 6231,
+    "elements": [
+      {
+        "text_uthmani": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+        "name_arabic": "الناس",
+        "chapter_id": 114,
+        "verse_number": 1,
+        "content": [
+          {
+            "red": "قُلْ أَعُوذُ بِرَبِّ"
+          },
+          {
+            "dimgray": "النَّاسِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الفلق",
+        "sim_chapter_id": 113,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "قُلْ أَعُوذُ بِرَبِّ"
+          },
+          {
+            "dimgray": "الْفَلَقِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 6232,
+    "elements": [
+      {
+        "text_uthmani": "مَلِكِ النَّاسِ",
+        "verse_number": 2,
+        "chapter_id": 114,
+        "name_arabic": "الناس"
+      }
+    ]
+  },
+  {
+    "verse_id": 6233,
+    "elements": [
+      {
+        "text_uthmani": "إِلَهِ النَّاسِ",
+        "verse_number": 3,
+        "chapter_id": 114,
+        "name_arabic": "الناس"
+      }
+    ]
+  },
+  {
+    "verse_id": 6234,
+    "elements": [
+      {
+        "text_uthmani": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+        "verse_number": 4,
+        "chapter_id": 114,
+        "name_arabic": "الناس"
+      }
+    ]
+  },
+  {
+    "verse_id": 6235,
+    "elements": [
+      {
+        "text_uthmani": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+        "verse_number": 5,
+        "chapter_id": 114,
+        "name_arabic": "الناس"
+      }
+    ]
+  },
+  {
+    "verse_id": 6236,
+    "elements": [
+      {
+        "text_uthmani": "مِنَ الْجِنَّةِ وَ النَّاسِ",
+        "name_arabic": "الناس",
+        "chapter_id": 114,
+        "verse_number": 6,
+        "content": [
+          {
+            "red": "مِنَ الْجِنَّةِ وَالنَّاسِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "هود",
+        "sim_chapter_id": 11,
+        "sim_verse_number": 119,
+        "content": [
+          {
+            "black": "... وَتَمَّتْ كَلِمَةُ رَبِّكَ لَأَمْلَأَنَّ جَهَنَّمَ"
+          },
+          {
+            "red": "مِنَ الْجِنَّةِ وَالنَّاسِ أَجْمَعِينَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "السجدة",
+        "sim_chapter_id": 32,
+        "sim_verse_number": 13,
+        "content": [
+          {
+            "black": "وَلَوْ شِئْنَا لَآتَيْنَا كُلَّ نَفْسٍ هُدَاهَا وَلَـٰكِنْ حَقَّ الْقَوْلُ مِنِّي لَأَمْلَأَنَّ جَهَنَّمَ"
+          },
+          {
+            "red": "مِنَ الْجِنَّةِ وَالنَّاسِ أَجْمَعِينَ"
+          }
+        ]
+      }
+    ]
+  }
+]

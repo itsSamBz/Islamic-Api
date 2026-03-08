@@ -1,0 +1,2987 @@
+[
+  {
+    "verse_id": 4980,
+    "elements": [
+      {
+        "text_uthmani": "إِذَا وَقَعَتِ الْوَاقِعَةُ",
+        "verse_number": 1,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 4981,
+    "elements": [
+      {
+        "text_uthmani": "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ",
+        "verse_number": 2,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 4982,
+    "elements": [
+      {
+        "text_uthmani": "خَافِضَةٌ رَّافِعَةٌ",
+        "verse_number": 3,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 4983,
+    "elements": [
+      {
+        "text_uthmani": "إِذَا رُجَّتِ الْأَرْضُ رَجًّا",
+        "verse_number": 4,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 4984,
+    "elements": [
+      {
+        "text_uthmani": "وَبُسَّتِ الْجِبَالُ بَسًّا",
+        "verse_number": 5,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 4985,
+    "elements": [
+      {
+        "text_uthmani": "فَكَانَتْ هَبَاء مُّنبَثًّا",
+        "verse_number": 6,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 4986,
+    "elements": [
+      {
+        "text_uthmani": "وَكُنتُمْ أَزْوَاجًا ثَلَاثَةً",
+        "verse_number": 7,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 4987,
+    "elements": [
+      {
+        "text_uthmani": "فَأَصْحَابُ الْمَيْمَنَةِ مَا أَصْحَابُ الْمَيْمَنَةِ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 8,
+        "content": [
+          {
+            "dimgray": "فَ"
+          },
+          {
+            "red": "أَصْحَابُ الْمَيْمَنَةِ"
+          },
+          {
+            "dimgray": "مَا"
+          },
+          {
+            "red": "أَصْحَابُ الْمَيْمَنَةِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "البلد",
+        "sim_chapter_id": 90,
+        "sim_verse_number": 18,
+        "content": [
+          {
+            "black": "أُولَـٰئِكَ"
+          },
+          {
+            "red": "أَصْحَابُ الْمَيْمَنَةِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 27,
+        "content": [
+          {
+            "red": "وَأَصْحَابُ الْيَمِينِ"
+          },
+          {
+            "black": "مَا"
+          },
+          {
+            "red": "أَصْحَابُ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 38,
+        "content": [
+          {
+            "red": "لِّأَصْحَابِ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المدثر",
+        "sim_chapter_id": 74,
+        "sim_verse_number": 39,
+        "content": [
+          {
+            "black": "إِلَّا"
+          },
+          {
+            "red": "أَصْحَابَ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 90,
+        "content": [
+          {
+            "black": "وَأَمَّا إِن كَانَ مِنْ"
+          },
+          {
+            "red": "أَصْحَابِ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 91,
+        "content": [
+          {
+            "black": "فَسَلَامٌ لَّكَ مِنْ"
+          },
+          {
+            "red": "أَصْحَابِ الْيَمِينِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 4988,
+    "elements": [
+      {
+        "text_uthmani": "وَأَصْحَابُ الْمَشْأَمَةِ مَا أَصْحَابُ الْمَشْأَمَةِ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 9,
+        "content": [
+          {
+            "dimgray": "وَ"
+          },
+          {
+            "red": "أَصْحَابُ الْمَشْأَمَةِ"
+          },
+          {
+            "black": "مَا"
+          },
+          {
+            "red": "أَصْحَابُ الْمَشْأَمَةِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "البلد",
+        "sim_chapter_id": 90,
+        "sim_verse_number": 19,
+        "content": [
+          {
+            "black": "وَالَّذِينَ كَفَرُوا بِآيَاتِنَا هُمْ"
+          },
+          {
+            "red": "أَصْحَابُ الْمَشْأَمَةِ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "وباقي المواضع: ﴿وَأَصْحَابُ الشِّمَالِ مَا أَصْحَابُ الشِّمَالِ﴾, تكررت مرتين: [الواقعة: 41]."
+    ]
+  },
+  {
+    "verse_id": 4989,
+    "elements": [
+      {
+        "text_uthmani": "وَالسَّابِقُونَ السَّابِقُونَ",
+        "verse_number": 10,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 4990,
+    "elements": [
+      {
+        "text_uthmani": "أُوْلَئِكَ الْمُقَرَّبُونَ",
+        "verse_number": 11,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 4991,
+    "elements": [
+      {
+        "text_uthmani": "فِي جَنَّاتِ النَّعِيمِ",
+        "sim_chapter_name": "",
+        "verse_number": 12,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة",
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "لقمان",
+        "sim_chapter_id": 31,
+        "sim_verse_number": 8,
+        "content": [
+          {
+            "black": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ"
+          },
+          {
+            "red": "لَهُمْ جَنَّاتُ النَّعِيمِ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "﴿فِي جَنَّاتِ النَّعِيمِ﴾ تكررت في 4 مواضع: [يونس: 9, الحج: 56, الصافات: 43, الواقعة: 12].",
+      "انفرد موضع لقمان بقوله تعالى: (لَهُمْ جَنَّاتُ النَّعِيمِ), بينما وردت جميع مواضع القرآن -وهي أربعة مواضع- بقوله تعالى: (فِي جَنَّاتِ النَّعِيمِ).",
+      "للربط: احفظ هذه الجملة: «(لَهُمْ جَنَّاتُ النَّعِيمِ) ... في لقمان الحكيم»."
+    ]
+  },
+  {
+    "verse_id": 4992,
+    "elements": [
+      {
+        "text_uthmani": "ثُلَّةٌ مِّنَ الْأَوَّلِينَ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 13,
+        "content": [
+          {
+            "red": "ثُلَّةٌ مِّنَ الْأَوَّلِينَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 39,
+        "content": [
+          {
+            "red": "ثُلَّةٌ مِّنَ الْأَوَّلِينَ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 4993,
+    "elements": [
+      {
+        "text_uthmani": "وَقَلِيلٌ مِّنَ الْآخِرِينَ",
+        "verse_number": 14,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 4994,
+    "elements": [
+      {
+        "text_uthmani": "عَلَى سُرُرٍ مَّوْضُونَةٍ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 15,
+        "content": [
+          {
+            "red": "عَلَىٰ سُرُرٍ"
+          },
+          {
+            "dimgray": "مَّوْضُونَةٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحجر",
+        "sim_chapter_id": 15,
+        "sim_verse_number": 47,
+        "content": [
+          {
+            "black": "وَنَزَعْنَا مَا فِي صُدُورِهِم مِّنْ غِلٍّ إِخْوَانًا"
+          },
+          {
+            "red": "عَلَىٰ سُرُرٍ مُّتَقَابِلِينَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الصافات",
+        "sim_chapter_id": 37,
+        "sim_verse_number": 44,
+        "content": [
+          {
+            "black": "فِي جَنَّاتِ النَّعِيمِ *"
+          },
+          {
+            "red": "عَلَىٰ سُرُرٍ مُّتَقَابِلِينَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الطور",
+        "sim_chapter_id": 52,
+        "sim_verse_number": 20,
+        "content": [
+          {
+            "black": "مُتَّكِئِينَ"
+          },
+          {
+            "red": "عَلَىٰ سُرُرٍ"
+          },
+          {
+            "dimgray": "مَّصْفُوفَةٍ"
+          },
+          {
+            "black": "..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 4995,
+    "elements": [
+      {
+        "text_uthmani": "مُتَّكِئِينَ عَلَيْهَا مُتَقَابِلِينَ",
+        "verse_number": 16,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 4996,
+    "elements": [
+      {
+        "text_uthmani": "يَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُّخَلَّدُونَ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 17,
+        "content": [
+          {
+            "red": "يَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُّخَلَّدُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الطور",
+        "sim_chapter_id": 52,
+        "sim_verse_number": 24,
+        "content": [
+          {
+            "red": "وَيَطُوفُ عَلَيْهِمْ"
+          },
+          {
+            "dimgray": "غِلْمَانٌ"
+          },
+          {
+            "black": "لَّهُمْ كَأَنَّهُمْ لُؤْلُؤٌ مَّكْنُونٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الإنسان",
+        "sim_chapter_id": 76,
+        "sim_verse_number": 19,
+        "content": [
+          {
+            "red": "وَيَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُّخَلَّدُونَ"
+          },
+          {
+            "black": "إِذَا رَأَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًا مَّنثُورًا"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "كل آية فيها ذِكْر: (يَطُوفُ/ وَيَطُوفُ عَلَيْهِمْ وِلْدَانٌ) فهي بهذا اللفظ: (وِلْدَانٌ) ومن دون: (لَّهُمْ), ما عدا موضع الطور: (وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَّهُمْ) فبلفظ: (غِلْمَانٌ) وبإضافة: (لَّهُمْ)."
+    ]
+  },
+  {
+    "verse_id": 4997,
+    "elements": [
+      {
+        "text_uthmani": "بِأَكْوَابٍ وَأَبَارِيقَ وَكَأْسٍ مِّن مَّعِينٍ",
+        "verse_number": 18,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 4998,
+    "elements": [
+      {
+        "text_uthmani": "لَا يُصَدَّعُونَ عَنْهَا وَلَا يُنزِفُونَ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 19,
+        "content": [
+          {
+            "black": "لَّا يُصَدَّعُونَ عَنْهَا"
+          },
+          {
+            "red": "وَلَا يُن"
+          },
+          {
+            "dimgray": "زِ"
+          },
+          {
+            "red": "فُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الصافات",
+        "sim_chapter_id": 37,
+        "sim_verse_number": 47,
+        "content": [
+          {
+            "black": "لَا فِيهَا غَوْلٌ"
+          },
+          {
+            "red": "وَلَا"
+          },
+          {
+            "black": "هُمْ عَنْهَا"
+          },
+          {
+            "red": "يُن"
+          },
+          {
+            "dimgray": "زَ"
+          },
+          {
+            "red": "فُونَ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "الربط: اربط فتحة: (يُنزَفُونَ) بفتحة (الصَّافات), وكسرة (يُنزِفُونَ) بكسرة (الواقِعة)."
+    ]
+  },
+  {
+    "verse_id": 4999,
+    "elements": [
+      {
+        "text_uthmani": "وَفَاكِهَةٍ مِّمَّا يَتَخَيَّرُونَ",
+        "verse_number": 20,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة",
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "عبس",
+        "sim_chapter_id": 80,
+        "sim_verse_number": 31,
+        "content": [
+          {
+            "red": "وَفَاكِهَةً"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "﴿وَفَاكِهَةٍ﴾ تكررت في موضعين: [الواقعة: 20, 32].",
+      "﴿بِفَاكِهَةٍ﴾ تكررت في موضعين: [ص: 51, الطور: 22].",
+      "﴿فَاكِهَةٍ﴾ تكررت في موضعين: [الدخان: 55, الرحمن: 52].",
+      "﴿فَاكِهَةٌ﴾ تكررت في 4 مواضع: [يس: 57, الزخرف: 73, الرحمن: 11, 68].",
+      "﴿فَوَاكِهُ﴾ تكررت في 3 مواضع: [المؤمنون: 19, الصافات: 42, المرسلات: 42].",
+      "للربط: (فَوَاكِهُ) بصيغة الجمع تأتي في السور التي يكون اسمها بصيغة الجمع, مثل: المؤمنون, و(فَاكِهَةٌ) بصيغة المفرد تأتي في السور التي يكون اسمها بصيغة المفرد, مثل: عبس."
+    ]
+  },
+  {
+    "verse_id": 5000,
+    "elements": [
+      {
+        "text_uthmani": "وَلَحْمِ طَيْرٍ مِّمَّا يَشْتَهُونَ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 21,
+        "content": [
+          {
+            "red": "وَلَحْمِ"
+          },
+          {
+            "black": "طَيْرٍ"
+          },
+          {
+            "red": "مِّمَّا يَشْتَهُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الطور",
+        "sim_chapter_id": 52,
+        "sim_verse_number": 22,
+        "content": [
+          {
+            "black": "وَأَمْدَدْنَاهُم بِفَاكِهَةٍ"
+          },
+          {
+            "red": "وَلَحْمٍ مِّمَّا يَشْتَهُونَ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5001,
+    "elements": [
+      {
+        "text_uthmani": "وَحُورٌ عِينٌ",
+        "verse_number": 22,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5002,
+    "elements": [
+      {
+        "text_uthmani": "كَأَمْثَالِ اللُّؤْلُؤِ الْمَكْنُونِ",
+        "verse_number": 23,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5003,
+    "elements": [
+      {
+        "text_uthmani": "جَزَاء بِمَا كَانُوا يَعْمَلُونَ",
+        "sim_chapter_name": "",
+        "verse_number": 24,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة",
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "فصلت",
+        "sim_chapter_id": 41,
+        "sim_verse_number": 28,
+        "content": [
+          {
+            "black": "... لَهُمْ فِيهَا دَارُ الْخُلْدِ ۖ"
+          },
+          {
+            "red": "جَزَاءً بِمَا كَانُوا"
+          },
+          {
+            "black": "بِآيَاتِنَا يَجْحَدُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "التوبة",
+        "sim_chapter_id": 9,
+        "sim_verse_number": 82,
+        "content": [
+          {
+            "black": "فَلْيَضْحَكُوا قَلِيلًا وَلْيَبْكُوا كَثِيرًا"
+          },
+          {
+            "red": "جَزَاءً بِمَا كَانُوا يَكْسِبُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "التوبة",
+        "sim_chapter_id": 9,
+        "sim_verse_number": 95,
+        "content": [
+          {
+            "black": "... فَأَعْرِضُوا عَنْهُمْ ۖ إِنَّهُمْ رِجْسٌ ۖ وَمَأْوَاهُمْ جَهَنَّمُ"
+          },
+          {
+            "red": "جَزَاءً بِمَا كَانُوا يَكْسِبُونَ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "وباقي المواضع: ﴿جَزَاءً بِمَا كَانُوا يَعْمَلُونَ﴾, تكررت 3 مرات: [السجدة: 17, الأحقاف: 14, الواقعة: 24]."
+    ]
+  },
+  {
+    "verse_id": 5004,
+    "elements": [
+      {
+        "text_uthmani": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا تَأْثِيمًا",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 25,
+        "content": [
+          {
+            "salmon": "لَا"
+          },
+          {
+            "red": "يَسْمَعُونَ فِيهَا لَغْوًا وَلَا"
+          },
+          {
+            "black": "تَأْثِيمًا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "مريم",
+        "sim_chapter_id": 19,
+        "sim_verse_number": 62,
+        "content": [
+          {
+            "red": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا"
+          },
+          {
+            "black": "إِلَّا سَلَامًا ..."
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "النبأ",
+        "sim_chapter_id": 78,
+        "sim_verse_number": 35,
+        "content": [
+          {
+            "red": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا"
+          },
+          {
+            "black": "كِذَّابًا"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5005,
+    "elements": [
+      {
+        "text_uthmani": "إِلَّا قِيلًا سَلَامًا سَلَامًا",
+        "verse_number": 26,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5006,
+    "elements": [
+      {
+        "text_uthmani": "وَأَصْحَابُ الْيَمِينِ مَا أَصْحَابُ الْيَمِينِ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 27,
+        "content": [
+          {
+            "red": "وَأَصْحَابُ الْيَمِينِ"
+          },
+          {
+            "black": "مَا"
+          },
+          {
+            "red": "أَصْحَابُ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 8,
+        "content": [
+          {
+            "dimgray": "فَ"
+          },
+          {
+            "red": "أَصْحَابُ الْمَيْمَنَةِ"
+          },
+          {
+            "dimgray": "مَا"
+          },
+          {
+            "red": "أَصْحَابُ الْمَيْمَنَةِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "البلد",
+        "sim_chapter_id": 90,
+        "sim_verse_number": 18,
+        "content": [
+          {
+            "black": "أُولَـٰئِكَ"
+          },
+          {
+            "red": "أَصْحَابُ الْمَيْمَنَةِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 38,
+        "content": [
+          {
+            "red": "لِّأَصْحَابِ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المدثر",
+        "sim_chapter_id": 74,
+        "sim_verse_number": 39,
+        "content": [
+          {
+            "black": "إِلَّا"
+          },
+          {
+            "red": "أَصْحَابَ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 90,
+        "content": [
+          {
+            "black": "وَأَمَّا إِن كَانَ مِنْ"
+          },
+          {
+            "red": "أَصْحَابِ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 91,
+        "content": [
+          {
+            "black": "فَسَلَامٌ لَّكَ مِنْ"
+          },
+          {
+            "red": "أَصْحَابِ الْيَمِينِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5007,
+    "elements": [
+      {
+        "text_uthmani": "فِي سِدْرٍ مَّخْضُودٍ",
+        "verse_number": 28,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5008,
+    "elements": [
+      {
+        "text_uthmani": "وَطَلْحٍ مَّنضُودٍ",
+        "verse_number": 29,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5009,
+    "elements": [
+      {
+        "text_uthmani": "وَظِلٍّ مَّمْدُودٍ",
+        "verse_number": 30,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5010,
+    "elements": [
+      {
+        "text_uthmani": "وَمَاء مَّسْكُوبٍ",
+        "verse_number": 31,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5011,
+    "elements": [
+      {
+        "text_uthmani": "وَفَاكِهَةٍ كَثِيرَةٍ",
+        "verse_number": 32,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة",
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "عبس",
+        "sim_chapter_id": 80,
+        "sim_verse_number": 31,
+        "content": [
+          {
+            "red": "وَفَاكِهَةً"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "﴿وَفَاكِهَةٍ﴾ تكررت في موضعين: [الواقعة: 20, 32].",
+      "﴿بِفَاكِهَةٍ﴾ تكررت في موضعين: [ص: 51, الطور: 22].",
+      "﴿فَاكِهَةٍ﴾ تكررت في موضعين: [الدخان: 55, الرحمن: 52].",
+      "﴿فَاكِهَةٌ﴾ تكررت في 4 مواضع: [يس: 57, الزخرف: 73, الرحمن: 11, 68].",
+      "﴿فَوَاكِهُ﴾ تكررت في 3 مواضع: [المؤمنون: 19, الصافات: 42, المرسلات: 42].",
+      "للربط: (فَوَاكِهُ) بصيغة الجمع تأتي في السور التي يكون اسمها بصيغة الجمع, مثل: المؤمنون, و(فَاكِهَةٌ) بصيغة المفرد تأتي في السور التي يكون اسمها بصيغة المفرد, مثل: عبس."
+    ]
+  },
+  {
+    "verse_id": 5012,
+    "elements": [
+      {
+        "text_uthmani": "لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ",
+        "verse_number": 33,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5013,
+    "elements": [
+      {
+        "text_uthmani": "وَفُرُشٍ مَّرْفُوعَةٍ",
+        "verse_number": 34,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5014,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّا أَنشَأْنَاهُنَّ إِنشَاء",
+        "verse_number": 35,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5015,
+    "elements": [
+      {
+        "text_uthmani": "فَجَعَلْنَاهُنَّ أَبْكَارًا",
+        "verse_number": 36,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5016,
+    "elements": [
+      {
+        "text_uthmani": "عُرُبًا أَتْرَابًا",
+        "verse_number": 37,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5017,
+    "elements": [
+      {
+        "text_uthmani": "لِّأَصْحَابِ الْيَمِينِ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 38,
+        "content": [
+          {
+            "red": "لِّأَصْحَابِ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 8,
+        "content": [
+          {
+            "dimgray": "فَ"
+          },
+          {
+            "red": "أَصْحَابُ الْمَيْمَنَةِ"
+          },
+          {
+            "dimgray": "مَا"
+          },
+          {
+            "red": "أَصْحَابُ الْمَيْمَنَةِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "البلد",
+        "sim_chapter_id": 90,
+        "sim_verse_number": 18,
+        "content": [
+          {
+            "black": "أُولَـٰئِكَ"
+          },
+          {
+            "red": "أَصْحَابُ الْمَيْمَنَةِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 27,
+        "content": [
+          {
+            "red": "وَأَصْحَابُ الْيَمِينِ"
+          },
+          {
+            "black": "مَا"
+          },
+          {
+            "red": "أَصْحَابُ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المدثر",
+        "sim_chapter_id": 74,
+        "sim_verse_number": 39,
+        "content": [
+          {
+            "black": "إِلَّا"
+          },
+          {
+            "red": "أَصْحَابَ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 90,
+        "content": [
+          {
+            "black": "وَأَمَّا إِن كَانَ مِنْ"
+          },
+          {
+            "red": "أَصْحَابِ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 91,
+        "content": [
+          {
+            "black": "فَسَلَامٌ لَّكَ مِنْ"
+          },
+          {
+            "red": "أَصْحَابِ الْيَمِينِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5018,
+    "elements": [
+      {
+        "text_uthmani": "ثُلَّةٌ مِّنَ الْأَوَّلِينَ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 39,
+        "content": [
+          {
+            "red": "ثُلَّةٌ مِّنَ الْأَوَّلِينَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 13,
+        "content": [
+          {
+            "red": "ثُلَّةٌ مِّنَ الْأَوَّلِينَ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5019,
+    "elements": [
+      {
+        "text_uthmani": "وَثُلَّةٌ مِّنَ الْآخِرِينَ",
+        "verse_number": 40,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5020,
+    "elements": [
+      {
+        "text_uthmani": "وَأَصْحَابُ الشِّمَالِ مَا أَصْحَابُ الشِّمَالِ",
+        "verse_number": 41,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 9,
+        "content": [
+          {
+            "dimgray": "وَ"
+          },
+          {
+            "red": "أَصْحَابُ الْمَشْأَمَةِ"
+          },
+          {
+            "black": "مَا"
+          },
+          {
+            "red": "أَصْحَابُ الْمَشْأَمَةِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "البلد",
+        "sim_chapter_id": 90,
+        "sim_verse_number": 19,
+        "content": [
+          {
+            "black": "وَالَّذِينَ كَفَرُوا بِآيَاتِنَا هُمْ"
+          },
+          {
+            "red": "أَصْحَابُ الْمَشْأَمَةِ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "وباقي المواضع: ﴿وَأَصْحَابُ الشِّمَالِ مَا أَصْحَابُ الشِّمَالِ﴾, تكررت مرتين: [الواقعة: 41]."
+    ]
+  },
+  {
+    "verse_id": 5021,
+    "elements": [
+      {
+        "text_uthmani": "فِي سَمُومٍ وَحَمِيمٍ",
+        "verse_number": 42,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5022,
+    "elements": [
+      {
+        "text_uthmani": "وَظِلٍّ مِّن يَحْمُومٍ",
+        "verse_number": 43,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5023,
+    "elements": [
+      {
+        "text_uthmani": "لَّا بَارِدٍ وَلَا كَرِيمٍ",
+        "verse_number": 44,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5024,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّهُمْ كَانُوا قَبْلَ ذَلِكَ مُتْرَفِينَ",
+        "verse_number": 45,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5025,
+    "elements": [
+      {
+        "text_uthmani": "وَكَانُوا يُصِرُّونَ عَلَى الْحِنثِ الْعَظِيمِ",
+        "verse_number": 46,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5026,
+    "elements": [
+      {
+        "text_uthmani": "وَكَانُوا يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَئِنَّا لَمَبْعُوثُونَ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 47,
+        "content": [
+          {
+            "black": "وَكَانُوا يَقُولُونَ"
+          },
+          {
+            "red": "أَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا"
+          },
+          {
+            "mediumblue": "أَإِنَّا لَمَبْعُوثُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "ق",
+        "sim_chapter_id": 50,
+        "sim_verse_number": 3,
+        "content": [
+          {
+            "red": "أَإِذَا مِتْنَا وَكُنَّا تُرَابًا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المؤمنون",
+        "sim_chapter_id": 23,
+        "sim_verse_number": 35,
+        "content": [
+          {
+            "red": "إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَامًا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الصافات",
+        "sim_chapter_id": 37,
+        "sim_verse_number": 53,
+        "content": [
+          {
+            "red": "أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا"
+          },
+          {
+            "mediumblue": "أَإِنَّا"
+          },
+          {
+            "seagreen": "لَمَدِينُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "النمل",
+        "sim_chapter_id": 27,
+        "sim_verse_number": 67,
+        "content": [
+          {
+            "black": "وَقَالَ الَّذِينَ كَفَرُوا"
+          },
+          {
+            "red": "أَإِذَا كُنَّا تُرَابًا وَآبَاؤُنَا"
+          },
+          {
+            "mediumblue": "أَئِنَّا"
+          },
+          {
+            "seagreen": "لَمُخْرَجُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "النازعات",
+        "sim_chapter_id": 79,
+        "sim_verse_number": 10,
+        "content": [
+          {
+            "red": "يَقُولُونَ"
+          },
+          {
+            "mediumblue": "أَإِنَّا"
+          },
+          {
+            "seagreen": "لَمَرْدُودُونَ"
+          },
+          {
+            "red": "فِي الْحَافِرَةِ * أَإِذَا كُنَّا عِظَامًا نَّخِرَةً"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المؤمنون",
+        "sim_chapter_id": 23,
+        "sim_verse_number": 82,
+        "content": [
+          {
+            "red": "قَالُوا أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا"
+          },
+          {
+            "mediumblue": "أَإِنَّا لَمَبْعُوثُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الصافات",
+        "sim_chapter_id": 37,
+        "sim_verse_number": 16,
+        "content": [
+          {
+            "red": "أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا"
+          },
+          {
+            "mediumblue": "أَإِنَّا لَمَبْعُوثُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الإسراء",
+        "sim_chapter_id": 17,
+        "sim_verse_number": 49,
+        "content": [
+          {
+            "red": "وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا"
+          },
+          {
+            "mediumblue": "أَإِنَّا لَمَبْعُوثُونَ"
+          },
+          {
+            "black": "خَلْقًا جَدِيدًا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الإسراء",
+        "sim_chapter_id": 17,
+        "sim_verse_number": 98,
+        "content": [
+          {
+            "black": "..."
+          },
+          {
+            "red": "وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا"
+          },
+          {
+            "mediumblue": "أَإِنَّا لَمَبْعُوثُونَ"
+          },
+          {
+            "black": "خَلْقًا جَدِيدًا"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "﴿أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا﴾ تكررت في موضعين: [الإسراء: 49, 98].",
+      "﴿أَإِذَا كُنَّا تُرَابًا﴾ تكررت في موضعين: [الرعد: 5, النمل: 67].",
+      "﴿أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا﴾ تكررت في 4 مواضع: [المؤمنون: 82, الصافات: 16, 53, الواقعة: 47]."
+    ]
+  },
+  {
+    "verse_id": 5027,
+    "elements": [
+      {
+        "text_uthmani": "أَوَ آبَاؤُنَا الْأَوَّلُونَ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 48,
+        "content": [
+          {
+            "red": "أَوَآبَاؤُنَا الْأَوَّلُونَ"
+          },
+          {
+            "black": "*"
+          },
+          {
+            "red": "قُلْ"
+          },
+          {
+            "black": "إِنَّ الْأَوَّلِينَ وَالْآخِرِينَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الصافات",
+        "sim_chapter_id": 37,
+        "sim_verse_number": 17,
+        "content": [
+          {
+            "red": "أَوَآبَاؤُنَا الْأَوَّلُونَ"
+          },
+          {
+            "black": "*"
+          },
+          {
+            "red": "قُلْ"
+          },
+          {
+            "black": "نَعَمْ وَأَنتُمْ دَاخِرُونَ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5028,
+    "elements": [
+      {
+        "text_uthmani": "قُلْ إِنَّ الْأَوَّلِينَ وَالْآخِرِينَ",
+        "verse_number": 49,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      },
+      {
+        "sim_chapter_name": "الصافات",
+        "sim_chapter_id": 37,
+        "sim_verse_number": 17,
+        "content": [
+          {
+            "red": "أَوَآبَاؤُنَا الْأَوَّلُونَ"
+          },
+          {
+            "black": "*"
+          },
+          {
+            "red": "قُلْ"
+          },
+          {
+            "black": "نَعَمْ وَأَنتُمْ دَاخِرُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 48,
+        "content": [
+          {
+            "red": "أَوَآبَاؤُنَا الْأَوَّلُونَ"
+          },
+          {
+            "black": "*"
+          },
+          {
+            "red": "قُلْ"
+          },
+          {
+            "black": "إِنَّ الْأَوَّلِينَ وَالْآخِرِينَ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5029,
+    "elements": [
+      {
+        "text_uthmani": "لَمَجْمُوعُونَ إِلَى مِيقَاتِ يَوْمٍ مَّعْلُومٍ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 50,
+        "content": [
+          {
+            "black": "قُلْ إِنَّ الْأَوَّلِينَ وَالْآخِرِينَ * لَمَجْمُوعُونَ"
+          },
+          {
+            "dimgray": "إِلَىٰ"
+          },
+          {
+            "red": "مِيقَاتِ يَوْمٍ مَّعْلُومٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الشعراء",
+        "sim_chapter_id": 26,
+        "sim_verse_number": 155,
+        "content": [
+          {
+            "black": "قَالَ هَـٰذِهِ نَاقَةٌ لَّهَا شِرْبٌ وَلَكُمْ"
+          },
+          {
+            "dimgray": "شِرْبُ"
+          },
+          {
+            "red": "يَوْمٍ مَّعْلُومٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الشعراء",
+        "sim_chapter_id": 26,
+        "sim_verse_number": 38,
+        "content": [
+          {
+            "black": "فَجُمِعَ السَّحَرَةُ"
+          },
+          {
+            "dimgray": "لِ"
+          },
+          {
+            "red": "مِيقَاتِ يَوْمٍ مَّعْلُومٍ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5030,
+    "elements": [
+      {
+        "text_uthmani": "ثُمَّ إِنَّكُمْ أَيُّهَا الضَّالُّونَ الْمُكَذِّبُونَ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 51,
+        "content": [
+          {
+            "black": "ثُمَّ إِنَّكُمْ أَيُّهَا"
+          },
+          {
+            "red": "الضَّالُّونَ الْمُكَذِّبُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 92,
+        "content": [
+          {
+            "black": "وَأَمَّا إِن كَانَ مِنَ"
+          },
+          {
+            "red": "الْمُكَذِّبِينَ الضَّالِّينَ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5031,
+    "elements": [
+      {
+        "text_uthmani": "لَآكِلُونَ مِن شَجَرٍ مِّن زَقُّومٍ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 52,
+        "content": [
+          {
+            "black": "لَآكِلُونَ مِن"
+          },
+          {
+            "red": "شَجَرٍ"
+          },
+          {
+            "black": "مِّن"
+          },
+          {
+            "red": "زَقُّومٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الصافات",
+        "sim_chapter_id": 37,
+        "sim_verse_number": 62,
+        "content": [
+          {
+            "black": "أَذَٰلِكَ خَيْرٌ نُّزُلًا أَمْ"
+          },
+          {
+            "red": "شَجَرَةُ الزَّقُّومِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الدخان",
+        "sim_chapter_id": 44,
+        "sim_verse_number": 43,
+        "content": [
+          {
+            "black": "إِنَّ"
+          },
+          {
+            "red": "شَجَرَتَ الزَّقُّومِ"
+          },
+          {
+            "black": "* طَعَامُ الْأَثِيمِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5032,
+    "elements": [
+      {
+        "text_uthmani": "فَمَالِؤُونَ مِنْهَا الْبُطُونَ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 53,
+        "content": [
+          {
+            "red": "فَمَالِئُونَ مِنْهَا الْبُطُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الصافات",
+        "sim_chapter_id": 37,
+        "sim_verse_number": 66,
+        "content": [
+          {
+            "black": "فَإِنَّهُمْ لَآكِلُونَ مِنْهَا"
+          },
+          {
+            "red": "فَمَالِئُونَ مِنْهَا الْبُطُونَ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5033,
+    "elements": [
+      {
+        "text_uthmani": "فَشَارِبُونَ عَلَيْهِ مِنَ الْحَمِيمِ",
+        "verse_number": 54,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5034,
+    "elements": [
+      {
+        "text_uthmani": "فَشَارِبُونَ شُرْبَ الْهِيمِ",
+        "verse_number": 55,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5035,
+    "elements": [
+      {
+        "text_uthmani": "هَذَا نُزُلُهُمْ يَوْمَ الدِّينِ",
+        "verse_number": 56,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ],
+    "spotlights": [
+      "﴿بِيَوْمِ الدِّينِ﴾ تكررت في 3 مواضع: [المعارج: 26, المدثر: 46, المطففين: 11].",
+      "﴿يَوْمِ الدِّينِ﴾ تكررت في 3 مواضع: [الفاتحة: 4, الحجر: 35, ص: 78].",
+      "﴿يَوْمَ الدِّينِ﴾ تكررت في 3 مواضع: [الشعراء: 82, الواقعة: 56, الانفطار: 15].",
+      "﴿يَوْمُ الدِّينِ﴾ تكررت في 4 مواضع: [الصافات: 20, الذاريات: 12, الانفطار: 17, 18]."
+    ]
+  },
+  {
+    "verse_id": 5036,
+    "elements": [
+      {
+        "text_uthmani": "نَحْنُ خَلَقْنَاكُمْ فَلَوْلَا تُصَدِّقُونَ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 57,
+        "content": [
+          {
+            "dimgray": "نَحْنُ"
+          },
+          {
+            "red": "خَلَقْنَاكُمْ"
+          },
+          {
+            "black": "فَلَوْلَا تُصَدِّقُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحج",
+        "sim_chapter_id": 22,
+        "sim_verse_number": 5,
+        "content": [
+          {
+            "black": "يَا أَيُّهَا النَّاسُ إِن كُنتُمْ فِي رَيْبٍ مِّنَ الْبَعْثِ"
+          },
+          {
+            "dimgray": "فَ"
+          },
+          {
+            "red": "إِنَّا خَلَقْنَاكُم"
+          },
+          {
+            "black": "مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ..."
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحجرات",
+        "sim_chapter_id": 49,
+        "sim_verse_number": 13,
+        "content": [
+          {
+            "black": "يَا أَيُّهَا النَّاسُ"
+          },
+          {
+            "red": "إِنَّا خَلَقْنَاكُم"
+          },
+          {
+            "black": "مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ..."
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الشعراء",
+        "sim_chapter_id": 26,
+        "sim_verse_number": 75,
+        "content": [
+          {
+            "black": "قَالَ"
+          },
+          {
+            "red": "أَفَرَأَيْتُم مَّا"
+          },
+          {
+            "black": "كُنتُمْ تَعْبُدُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الزمر",
+        "sim_chapter_id": 39,
+        "sim_verse_number": 38,
+        "content": [
+          {
+            "black": "... قُلْ"
+          },
+          {
+            "red": "أَفَرَأَيْتُم مَّا"
+          },
+          {
+            "black": "تَدْعُونَ مِن دُونِ اللَّـهِ ..."
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 58,
+        "content": [
+          {
+            "red": "أَفَرَأَيْتُم مَّا"
+          },
+          {
+            "black": "تُمْنُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 63,
+        "content": [
+          {
+            "red": "أَفَرَأَيْتُم مَّا"
+          },
+          {
+            "black": "تَحْرُثُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 68,
+        "content": [
+          {
+            "red": "أَفَرَأَيْتُمُ"
+          },
+          {
+            "black": "الْمَاءَ الَّذِي تَشْرَبُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 71,
+        "content": [
+          {
+            "red": "أَفَرَأَيْتُمُ"
+          },
+          {
+            "black": "النَّارَ الَّتِي تُورُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "النجم",
+        "sim_chapter_id": 53,
+        "sim_verse_number": 19,
+        "content": [
+          {
+            "red": "أَفَرَأَيْتُمُ"
+          },
+          {
+            "black": "اللَّاتَ وَالْعُزَّىٰ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "وباقي المواضع: ﴿أَرَأَيْتُمْ﴾, تكررت 14 مرة."
+    ]
+  },
+  {
+    "verse_id": 5037,
+    "elements": [
+      {
+        "text_uthmani": "أَفَرَأَيْتُم مَّا تُمْنُونَ",
+        "verse_number": 58,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5038,
+    "elements": [
+      {
+        "text_uthmani": "أَأَنتُمْ تَخْلُقُونَهُ أَمْ نَحْنُ الْخَالِقُونَ",
+        "verse_number": 59,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5039,
+    "elements": [
+      {
+        "text_uthmani": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ الْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+        "verse_number": 60,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5040,
+    "elements": [
+      {
+        "text_uthmani": "عَلَى أَن نُّبَدِّلَ أَمْثَالَكُمْ وَنُنشِئَكُمْ فِي مَا لَا تَعْلَمُونَ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 61,
+        "content": [
+          {
+            "red": "عَلَىٰ أَن نُّبَدِّلَ"
+          },
+          {
+            "black": "أَمْثَالَكُمْ وَنُنشِئَكُمْ فِي مَا لَا تَعْلَمُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المعارج",
+        "sim_chapter_id": 70,
+        "sim_verse_number": 41,
+        "content": [
+          {
+            "red": "عَلَىٰ أَن نُّبَدِّلَ"
+          },
+          {
+            "black": "خَيْرًا مِّنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5041,
+    "elements": [
+      {
+        "text_uthmani": "وَلَقَدْ عَلِمْتُمُ النَّشْأَةَ الْأُولَى فَلَوْلَا تَذكَّرُونَ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 62,
+        "content": [
+          {
+            "black": "وَلَقَدْ عَلِمْتُمُ"
+          },
+          {
+            "red": "النَّشْأَةَ الْأُولَىٰ"
+          },
+          {
+            "black": "فَلَوْلَا تَذَكَّرُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "العنكبوت",
+        "sim_chapter_id": 29,
+        "sim_verse_number": 20,
+        "content": [
+          {
+            "black": "قُلْ سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ بَدَأَ الْخَلْقَ ۚ ثُمَّ اللَّـهُ يُنشِئُ"
+          },
+          {
+            "red": "النَّشْأَةَ الْآخِرَةَ"
+          },
+          {
+            "black": "..."
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "النجم",
+        "sim_chapter_id": 53,
+        "sim_verse_number": 47,
+        "content": [
+          {
+            "black": "وَأَنَّ عَلَيْهِ"
+          },
+          {
+            "red": "النَّشْأَةَ الْأُخْرَىٰ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5042,
+    "elements": [
+      {
+        "text_uthmani": "أَفَرَأَيْتُم مَّا تَحْرُثُونَ",
+        "verse_number": 63,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5043,
+    "elements": [
+      {
+        "text_uthmani": "أَأَنتُمْ تَزْرَعُونَهُ أَمْ نَحْنُ الزَّارِعُونَ",
+        "verse_number": 64,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5044,
+    "elements": [
+      {
+        "text_uthmani": "لَوْ نَشَاء لَجَعَلْنَاهُ حُطَامًا فَظَلَلْتُمْ تَفَكَّهُونَ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 65,
+        "content": [
+          {
+            "red": "لَوْ نَشَاءُ"
+          },
+          {
+            "dimgray": "لَ"
+          },
+          {
+            "red": "جَعَلْنَاهُ"
+          },
+          {
+            "black": "حُطَامًا"
+          },
+          {
+            "black": "فَظَلْتُمْ تَفَكَّهُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 70,
+        "content": [
+          {
+            "red": "لَوْ نَشَاءُ جَعَلْنَاهُ"
+          },
+          {
+            "black": "أُجَاجًا"
+          },
+          {
+            "black": "فَلَوْلَا تَشْكُرُونَ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5045,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّا لَمُغْرَمُونَ",
+        "verse_number": 66,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5046,
+    "elements": [
+      {
+        "text_uthmani": "بَلْ نَحْنُ مَحْرُومُونَ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 67,
+        "content": [
+          {
+            "black": "إِنَّا لَمُغْرَمُونَ *"
+          },
+          {
+            "red": "بَلْ نَحْنُ مَحْرُومُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القلم",
+        "sim_chapter_id": 68,
+        "sim_verse_number": 27,
+        "content": [
+          {
+            "black": "فَلَمَّا رَأَوْهَا قَالُوا إِنَّا لَضَالُّونَ *"
+          },
+          {
+            "red": "بَلْ نَحْنُ مَحْرُومُونَ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5047,
+    "elements": [
+      {
+        "text_uthmani": "أَفَرَأَيْتُمُ الْمَاء الَّذِي تَشْرَبُونَ",
+        "verse_number": 68,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5048,
+    "elements": [
+      {
+        "text_uthmani": "أَأَنتُمْ أَنزَلْتُمُوهُ مِنَ الْمُزْنِ أَمْ نَحْنُ الْمُنزِلُونَ",
+        "verse_number": 69,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5049,
+    "elements": [
+      {
+        "text_uthmani": "لَوْ نَشَاء جَعَلْنَاهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 70,
+        "content": [
+          {
+            "red": "لَوْ نَشَاءُ جَعَلْنَاهُ"
+          },
+          {
+            "black": "أُجَاجًا"
+          },
+          {
+            "black": "فَلَوْلَا تَشْكُرُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 65,
+        "content": [
+          {
+            "red": "لَوْ نَشَاءُ"
+          },
+          {
+            "dimgray": "لَ"
+          },
+          {
+            "red": "جَعَلْنَاهُ"
+          },
+          {
+            "black": "حُطَامًا"
+          },
+          {
+            "black": "فَظَلْتُمْ تَفَكَّهُونَ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5050,
+    "elements": [
+      {
+        "text_uthmani": "أَفَرَأَيْتُمُ النَّارَ الَّتِي تُورُونَ",
+        "verse_number": 71,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5051,
+    "elements": [
+      {
+        "text_uthmani": "أَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَا أَمْ نَحْنُ الْمُنشِؤُونَ",
+        "verse_number": 72,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5052,
+    "elements": [
+      {
+        "text_uthmani": "نَحْنُ جَعَلْنَاهَا تَذْكِرَةً وَمَتَاعًا لِّلْمُقْوِينَ",
+        "verse_number": 73,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5053,
+    "elements": [
+      {
+        "text_uthmani": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 74,
+        "content": [
+          {
+            "red": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الأعلى",
+        "sim_chapter_id": 87,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "سَبِّحِ اسْمَ رَبِّكَ"
+          },
+          {
+            "dimgray": "الْأَعْلَى"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 96,
+        "content": [
+          {
+            "red": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحاقة",
+        "sim_chapter_id": 69,
+        "sim_verse_number": 52,
+        "content": [
+          {
+            "red": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5054,
+    "elements": [
+      {
+        "text_uthmani": "فَلَا أُقْسِمُ بِمَوَاقِعِ النُّجُومِ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 75,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِمَوَاقِعِ النُّجُومِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحاقة",
+        "sim_chapter_id": 69,
+        "sim_verse_number": 38,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِمَا تُبْصِرُونَ * وَمَا لَا تُبْصِرُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المعارج",
+        "sim_chapter_id": 70,
+        "sim_verse_number": 40,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِرَبِّ الْمَشَارِقِ وَالْمَغَارِبِ إِنَّا لَقَادِرُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "التكوير",
+        "sim_chapter_id": 81,
+        "sim_verse_number": 15,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِالْخُنَّسِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الانشقاق",
+        "sim_chapter_id": 84,
+        "sim_verse_number": 16,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِالشَّفَقِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القيامة",
+        "sim_chapter_id": 75,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "لَا أُقْسِمُ"
+          },
+          {
+            "black": "بِيَوْمِ الْقِيَامَةِ"
+          },
+          {
+            "dimgray": "* وَ"
+          },
+          {
+            "red": "لَا أُقْسِمُ"
+          },
+          {
+            "black": "بِالنَّفْسِ اللَّوَّامَةِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "البلد",
+        "sim_chapter_id": 90,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "لَا أُقْسِمُ"
+          },
+          {
+            "black": "بِهَـٰذَا الْبَلَدِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5055,
+    "elements": [
+      {
+        "text_uthmani": "وَإِنَّهُ لَقَسَمٌ لَّوْ تَعْلَمُونَ عَظِيمٌ",
+        "verse_number": 76,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5056,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّهُ لَقُرْآنٌ كَرِيمٌ",
+        "verse_number": 77,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5057,
+    "elements": [
+      {
+        "text_uthmani": "فِي كِتَابٍ مَّكْنُونٍ",
+        "verse_number": 78,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5058,
+    "elements": [
+      {
+        "text_uthmani": "لَّا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ",
+        "verse_number": 79,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5059,
+    "elements": [
+      {
+        "text_uthmani": "تَنزِيلٌ مِّن رَّبِّ الْعَالَمِينَ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 80,
+        "content": [
+          {
+            "red": "تَنزِيلٌ مِّن رَّبِّ الْعَالَمِينَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الشعراء",
+        "sim_chapter_id": 26,
+        "sim_verse_number": 192,
+        "content": [
+          {
+            "black": "وَإِنَّهُ"
+          },
+          {
+            "dimgray": "لَ"
+          },
+          {
+            "red": "تَنزِيلُ رَبِّ الْعَالَمِينَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحاقة",
+        "sim_chapter_id": 69,
+        "sim_verse_number": 43,
+        "content": [
+          {
+            "red": "تَنزِيلٌ مِّن رَّبِّ الْعَالَمِينَ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5060,
+    "elements": [
+      {
+        "text_uthmani": "أَفَبِهَذَا الْحَدِيثِ أَنتُم مُّدْهِنُونَ",
+        "verse_number": 81,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5061,
+    "elements": [
+      {
+        "text_uthmani": "وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ",
+        "verse_number": 82,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5062,
+    "elements": [
+      {
+        "text_uthmani": "فَلَوْلَا إِذَا بَلَغَتِ الْحُلْقُومَ",
+        "verse_number": 83,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5063,
+    "elements": [
+      {
+        "text_uthmani": "وَأَنتُمْ حِينَئِذٍ تَنظُرُونَ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 84,
+        "content": [
+          {
+            "red": "وَأَنتُمْ"
+          },
+          {
+            "black": "حِينَئِذٍ"
+          },
+          {
+            "red": "تَنظُرُونَ"
+          }
+        ],
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "البقرة",
+        "sim_chapter_id": 2,
+        "sim_verse_number": 50,
+        "content": [
+          {
+            "black": "وَإِذْ فَرَقْنَا بِكُمُ الْبَحْرَ فَأَنجَيْنَاكُمْ وَأَغْرَقْنَا آلَ فِرْعَوْنَ"
+          },
+          {
+            "red": "وَأَنتُمْ تَنظُرُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "البقرة",
+        "sim_chapter_id": 2,
+        "sim_verse_number": 55,
+        "content": [
+          {
+            "black": "وَإِذْ قُلْتُمْ يَا مُوسَىٰ لَن نُّؤْمِنَ لَكَ حَتَّىٰ نَرَى اللَّـهَ جَهْرَةً فَأَخَذَتْكُمُ الصَّاعِقَةُ"
+          },
+          {
+            "red": "وَأَنتُمْ تَنظُرُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "آل عمران",
+        "sim_chapter_id": 3,
+        "sim_verse_number": 143,
+        "content": [
+          {
+            "black": "وَلَقَدْ كُنتُمْ تَمَنَّوْنَ الْمَوْتَ مِن قَبْلِ أَن تَلْقَوْهُ فَقَدْ رَأَيْتُمُوهُ"
+          },
+          {
+            "red": "وَأَنتُمْ تَنظُرُونَ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5064,
+    "elements": [
+      {
+        "text_uthmani": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنكُمْ وَلَكِن لَّا تُبْصِرُونَ",
+        "verse_number": 85,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5065,
+    "elements": [
+      {
+        "text_uthmani": "فَلَوْلَا إِن كُنتُمْ غَيْرَ مَدِينِينَ",
+        "verse_number": 86,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5066,
+    "elements": [
+      {
+        "text_uthmani": "تَرْجِعُونَهَا إِن كُنتُمْ صَادِقِينَ",
+        "verse_number": 87,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5067,
+    "elements": [
+      {
+        "text_uthmani": "فَأَمَّا إِن كَانَ مِنَ الْمُقَرَّبِينَ",
+        "verse_number": 88,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5068,
+    "elements": [
+      {
+        "text_uthmani": "فَرَوْحٌ وَرَيْحَانٌ وَجَنَّةُ نَعِيمٍ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 89,
+        "content": [
+          {
+            "black": "فَرَوْحٌ وَرَيْحَانٌ"
+          },
+          {
+            "dimgray": "وَ"
+          },
+          {
+            "red": "جَنَّتُ نَعِيمٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المعارج",
+        "sim_chapter_id": 70,
+        "sim_verse_number": 38,
+        "content": [
+          {
+            "black": "أَيَطْمَعُ كُلُّ امْرِئٍ مِّنْهُمْ أَن يُدْخَلَ"
+          },
+          {
+            "red": "جَنَّةَ نَعِيمٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الشعراء",
+        "sim_chapter_id": 26,
+        "sim_verse_number": 85,
+        "content": [
+          {
+            "black": "وَاجْعَلْنِي مِن وَرَثَةِ"
+          },
+          {
+            "red": "جَنَّةِ النَّعِيمِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "لقمان",
+        "sim_chapter_id": 31,
+        "sim_verse_number": 8,
+        "content": [
+          {
+            "black": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ"
+          },
+          {
+            "red": "جَنَّاتُ النَّعِيمِ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "وباقي المواضع: ﴿جَنَّاتِ النَّعِيمِ﴾, تكررت في 6 مواضع.",
+      "موضع الواقعة هو الموضع الوحيد في القرآن الذي كتبت فيه (جَنَّتُ) بالتاء المفتوحة, والوقوف عليها يكون بالتاء, أما موضع المعارج فبالتاء المربوطة (جَنَّةَ نَعِيمِ), والوقوف عليها يكون بالهاء الساكنة, وقيل عن العلة في ذلك: أن موضع الواقعة في سياق جزاء المقربين, ففتحت التاء للدلالة على أن أبواب الجنة مفتحة لهم, بينما قال في المعارج: (أَيَطْمَعُ كُلُّ أَمْرِي مِنْهُمْ أَن يُدخل جَنَّةَ نَعِيمِ﴾ [المعارج: ۳۸] بالتاء المربوطة؛ للدلالة على أن أبواب الجنة غير مفتوحة لكل امرئ منهم, وإنما للمؤمنين فقط."
+    ]
+  },
+  {
+    "verse_id": 5069,
+    "elements": [
+      {
+        "text_uthmani": "وَأَمَّا إِن كَانَ مِنَ أَصْحَابِ الْيَمِينِ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 90,
+        "content": [
+          {
+            "black": "وَأَمَّا إِن كَانَ مِنْ"
+          },
+          {
+            "red": "أَصْحَابِ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 8,
+        "content": [
+          {
+            "dimgray": "فَ"
+          },
+          {
+            "red": "أَصْحَابُ الْمَيْمَنَةِ"
+          },
+          {
+            "dimgray": "مَا"
+          },
+          {
+            "red": "أَصْحَابُ الْمَيْمَنَةِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "البلد",
+        "sim_chapter_id": 90,
+        "sim_verse_number": 18,
+        "content": [
+          {
+            "black": "أُولَـٰئِكَ"
+          },
+          {
+            "red": "أَصْحَابُ الْمَيْمَنَةِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 27,
+        "content": [
+          {
+            "red": "وَأَصْحَابُ الْيَمِينِ"
+          },
+          {
+            "black": "مَا"
+          },
+          {
+            "red": "أَصْحَابُ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 38,
+        "content": [
+          {
+            "red": "لِّأَصْحَابِ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المدثر",
+        "sim_chapter_id": 74,
+        "sim_verse_number": 39,
+        "content": [
+          {
+            "black": "إِلَّا"
+          },
+          {
+            "red": "أَصْحَابَ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 91,
+        "content": [
+          {
+            "black": "فَسَلَامٌ لَّكَ مِنْ"
+          },
+          {
+            "red": "أَصْحَابِ الْيَمِينِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5070,
+    "elements": [
+      {
+        "text_uthmani": "فَسَلَامٌ لَّكَ مِنْ أَصْحَابِ الْيَمِينِ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 91,
+        "content": [
+          {
+            "black": "فَسَلَامٌ لَّكَ مِنْ"
+          },
+          {
+            "red": "أَصْحَابِ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 8,
+        "content": [
+          {
+            "dimgray": "فَ"
+          },
+          {
+            "red": "أَصْحَابُ الْمَيْمَنَةِ"
+          },
+          {
+            "dimgray": "مَا"
+          },
+          {
+            "red": "أَصْحَابُ الْمَيْمَنَةِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "البلد",
+        "sim_chapter_id": 90,
+        "sim_verse_number": 18,
+        "content": [
+          {
+            "black": "أُولَـٰئِكَ"
+          },
+          {
+            "red": "أَصْحَابُ الْمَيْمَنَةِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 27,
+        "content": [
+          {
+            "red": "وَأَصْحَابُ الْيَمِينِ"
+          },
+          {
+            "black": "مَا"
+          },
+          {
+            "red": "أَصْحَابُ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 38,
+        "content": [
+          {
+            "red": "لِّأَصْحَابِ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المدثر",
+        "sim_chapter_id": 74,
+        "sim_verse_number": 39,
+        "content": [
+          {
+            "black": "إِلَّا"
+          },
+          {
+            "red": "أَصْحَابَ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 90,
+        "content": [
+          {
+            "black": "وَأَمَّا إِن كَانَ مِنْ"
+          },
+          {
+            "red": "أَصْحَابِ الْيَمِينِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5071,
+    "elements": [
+      {
+        "text_uthmani": "وَأَمَّا إِن كَانَ مِنَ الْمُكَذِّبِينَ الضَّالِّينَ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 92,
+        "content": [
+          {
+            "black": "وَأَمَّا إِن كَانَ مِنَ"
+          },
+          {
+            "red": "الْمُكَذِّبِينَ الضَّالِّينَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 51,
+        "content": [
+          {
+            "black": "ثُمَّ إِنَّكُمْ أَيُّهَا"
+          },
+          {
+            "red": "الضَّالُّونَ الْمُكَذِّبُونَ"
+          }
+        ]
+      }
+    ],
+    "opening": [
+      "كلمة ﴿الضَّالِّينَ﴾ وردت في القرآن في 6 مواضع: [الفاتحة: 7, البقرة: 198, الأنعام: 77, الشعراء: 20, 86, الواقعة: 92"
+    ]
+  },
+  {
+    "verse_id": 5072,
+    "elements": [
+      {
+        "text_uthmani": "فَنُزُلٌ مِّنْ حَمِيمٍ",
+        "verse_number": 93,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5073,
+    "elements": [
+      {
+        "text_uthmani": "وَتَصْلِيَةُ جَحِيمٍ",
+        "verse_number": 94,
+        "chapter_id": 56,
+        "name_arabic": "الواقعة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5074,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّ هَذَا لَهُوَ حَقُّ الْيَقِينِ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 95,
+        "content": [
+          {
+            "red": "إِنَّ"
+          },
+          {
+            "black": "هَـٰذَا لَهُوَ"
+          },
+          {
+            "red": "حَقُّ الْيَقِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحاقة",
+        "sim_chapter_id": 69,
+        "sim_verse_number": 51,
+        "content": [
+          {
+            "dimgray": "وَ"
+          },
+          {
+            "red": "إِنَّ"
+          },
+          {
+            "dimgray": "هُ"
+          },
+          {
+            "red": "لَحَقُّ الْيَقِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "آل عمران",
+        "sim_chapter_id": 3,
+        "sim_verse_number": 62,
+        "content": [
+          {
+            "red": "إِنَّ هَـٰذَا لَهُوَ"
+          },
+          {
+            "black": "الْقَصَصُ الْحَقُّ ..."
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "النمل",
+        "sim_chapter_id": 27,
+        "sim_verse_number": 16,
+        "content": [
+          {
+            "black": "..."
+          },
+          {
+            "red": "إِنَّ هَـٰذَا لَهُوَ"
+          },
+          {
+            "black": "الْفَضْلُ الْمُبِينُ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الصافات",
+        "sim_chapter_id": 37,
+        "sim_verse_number": 60,
+        "content": [
+          {
+            "red": "إِنَّ هَـٰذَا لَهُوَ"
+          },
+          {
+            "black": "الْفَوْزُ الْعَظِيمُ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الصافات",
+        "sim_chapter_id": 37,
+        "sim_verse_number": 106,
+        "content": [
+          {
+            "red": "إِنَّ هَـٰذَا لَهُوَ"
+          },
+          {
+            "black": "الْبَلَاءُ الْمُبِينُ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 95,
+        "content": [
+          {
+            "red": "إِنَّ هَـٰذَا لَهُوَ"
+          },
+          {
+            "black": "حَقُّ الْيَقِينِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5075,
+    "elements": [
+      {
+        "text_uthmani": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ",
+        "name_arabic": "الواقعة",
+        "chapter_id": 56,
+        "verse_number": 96,
+        "content": [
+          {
+            "red": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الأعلى",
+        "sim_chapter_id": 87,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "سَبِّحِ اسْمَ رَبِّكَ"
+          },
+          {
+            "dimgray": "الْأَعْلَى"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 74,
+        "content": [
+          {
+            "red": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحاقة",
+        "sim_chapter_id": 69,
+        "sim_verse_number": 52,
+        "content": [
+          {
+            "red": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ"
+          }
+        ]
+      }
+    ]
+  }
+]

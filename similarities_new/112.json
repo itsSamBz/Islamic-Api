@@ -1,0 +1,46 @@
+[
+  {
+    "verse_id": 6222,
+    "elements": [
+      {
+        "text_uthmani": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+        "verse_number": 1,
+        "chapter_id": 112,
+        "name_arabic": "الإخلاص"
+      }
+    ]
+  },
+  {
+    "verse_id": 6223,
+    "elements": [
+      {
+        "text_uthmani": "اللَّهُ الصَّمَدُ",
+        "verse_number": 2,
+        "chapter_id": 112,
+        "name_arabic": "الإخلاص"
+      }
+    ]
+  },
+  {
+    "verse_id": 6224,
+    "elements": [
+      {
+        "text_uthmani": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+        "verse_number": 3,
+        "chapter_id": 112,
+        "name_arabic": "الإخلاص"
+      }
+    ]
+  },
+  {
+    "verse_id": 6225,
+    "elements": [
+      {
+        "text_uthmani": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+        "verse_number": 4,
+        "chapter_id": 112,
+        "name_arabic": "الإخلاص"
+      }
+    ]
+  }
+]

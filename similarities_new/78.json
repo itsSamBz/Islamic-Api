@@ -1,0 +1,934 @@
+[
+  {
+    "verse_id": 5673,
+    "elements": [
+      {
+        "text_uthmani": "عَمَّ يَتَسَاءلُونَ",
+        "verse_number": 1,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  },
+  {
+    "verse_id": 5674,
+    "elements": [
+      {
+        "text_uthmani": "عَنِ النَّبَإِ الْعَظِيمِ",
+        "verse_number": 2,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  },
+  {
+    "verse_id": 5675,
+    "elements": [
+      {
+        "text_uthmani": "الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ",
+        "name_arabic": "النبأ",
+        "chapter_id": 78,
+        "verse_number": 3,
+        "content": [
+          {
+            "red": "الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ"
+          }
+        ],
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "النمل",
+        "sim_chapter_id": 27,
+        "sim_verse_number": 76,
+        "content": [
+          {
+            "black": "إِنَّ هَـٰذَا الْقُرْآنَ يَقُصُّ عَلَىٰ بَنِي إِسْرَائِيلَ أَكْثَرَ"
+          },
+          {
+            "red": "الَّذِي هُمْ فِيهِ يَخْتَلِفُونَ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5676,
+    "elements": [
+      {
+        "text_uthmani": "كَلَّا سَيَعْلَمُونَ",
+        "name_arabic": "النبأ",
+        "chapter_id": 78,
+        "verse_number": 4,
+        "content": [
+          {
+            "red": "كَلَّا سَيَعْلَمُونَ * ثُمَّ كَلَّا سَيَعْلَمُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "التكاثر",
+        "sim_chapter_id": 102,
+        "sim_verse_number": 3,
+        "content": [
+          {
+            "red": "كَلَّا"
+          },
+          {
+            "dimgray": "سَوْفَ"
+          },
+          {
+            "red": "تَعْلَمُونَ * ثُمَّ كَلَّا"
+          },
+          {
+            "dimgray": "سَوْفَ"
+          },
+          {
+            "red": "تَعْلَمُونَ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5677,
+    "elements": [
+      {
+        "text_uthmani": "ثُمَّ كَلَّا سَيَعْلَمُونَ",
+        "sim_chapter_name": "",
+        "verse_number": 5,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      },
+      {
+        "sim_chapter_name": "النبأ",
+        "sim_chapter_id": 78,
+        "sim_verse_number": 4,
+        "content": [
+          {
+            "red": "كَلَّا سَيَعْلَمُونَ * ثُمَّ كَلَّا سَيَعْلَمُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "التكاثر",
+        "sim_chapter_id": 102,
+        "sim_verse_number": 3,
+        "content": [
+          {
+            "red": "كَلَّا"
+          },
+          {
+            "dimgray": "سَوْفَ"
+          },
+          {
+            "red": "تَعْلَمُونَ * ثُمَّ كَلَّا"
+          },
+          {
+            "dimgray": "سَوْفَ"
+          },
+          {
+            "red": "تَعْلَمُونَ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5678,
+    "elements": [
+      {
+        "text_uthmani": "أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا",
+        "name_arabic": "النبأ",
+        "chapter_id": 78,
+        "verse_number": 6,
+        "content": [
+          {
+            "red": "أَلَمْ نَجْعَلِ الْأَرْضَ"
+          },
+          {
+            "black": "مِهَادًا"
+          }
+        ],
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "المرسلات",
+        "sim_chapter_id": 77,
+        "sim_verse_number": 25,
+        "content": [
+          {
+            "red": "أَلَمْ نَجْعَلِ الْأَرْضَ"
+          },
+          {
+            "black": "كِفَاتًا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الفيل",
+        "sim_chapter_id": 105,
+        "sim_verse_number": 2,
+        "content": [
+          {
+            "red": "أَلَمْ يَجْعَلْ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "وباقي المواضع: ﴿أَلَمْ نَجْعَلِ﴾, تكررت 3 مرات: [المرسلات: 25, النبأ: 6, البلد: 8]."
+    ]
+  },
+  {
+    "verse_id": 5679,
+    "elements": [
+      {
+        "text_uthmani": "وَالْجِبَالَ أَوْتَادًا",
+        "verse_number": 7,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  },
+  {
+    "verse_id": 5680,
+    "elements": [
+      {
+        "text_uthmani": "وَخَلَقْنَاكُمْ أَزْوَاجًا",
+        "verse_number": 8,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  },
+  {
+    "verse_id": 5681,
+    "elements": [
+      {
+        "text_uthmani": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
+        "verse_number": 9,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  },
+  {
+    "verse_id": 5682,
+    "elements": [
+      {
+        "text_uthmani": "وَجَعَلْنَا اللَّيْلَ لِبَاسًا",
+        "verse_number": 10,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  },
+  {
+    "verse_id": 5683,
+    "elements": [
+      {
+        "text_uthmani": "وَجَعَلْنَا النَّهَارَ مَعَاشًا",
+        "verse_number": 11,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  },
+  {
+    "verse_id": 5684,
+    "elements": [
+      {
+        "text_uthmani": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+        "verse_number": 12,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  },
+  {
+    "verse_id": 5685,
+    "elements": [
+      {
+        "text_uthmani": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
+        "verse_number": 13,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  },
+  {
+    "verse_id": 5686,
+    "elements": [
+      {
+        "text_uthmani": "وَأَنزَلْنَا مِنَ الْمُعْصِرَاتِ مَاء ثَجَّاجًا",
+        "name_arabic": "النبأ",
+        "chapter_id": 78,
+        "verse_number": 14,
+        "content": [
+          {
+            "red": "وَأَنزَلْنَا مِنَ"
+          },
+          {
+            "black": "الْمُعْصِرَاتِ"
+          },
+          {
+            "red": "مَاءً"
+          }
+        ],
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "ق",
+        "sim_chapter_id": 50,
+        "sim_verse_number": 9,
+        "content": [
+          {
+            "red": "وَ"
+          },
+          {
+            "black": "نَزَّلْنَا"
+          },
+          {
+            "red": "مِنَ السَّمَاءِ مَاءً"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحجر",
+        "sim_chapter_id": 15,
+        "sim_verse_number": 22,
+        "content": [
+          {
+            "dimgray": "فَ"
+          },
+          {
+            "red": "أَنزَلْنَا مِنَ السَّمَاءِ مَاءً"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "وباقي المواضع: ﴿وَأَنزَلْنَا مِنَ السَّمَاءِ مَاءً﴾, تكررت 3 مرات: [المؤمنون: 18, الفرقان: 48, لقمان: 10]."
+    ]
+  },
+  {
+    "verse_id": 5687,
+    "elements": [
+      {
+        "text_uthmani": "لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا",
+        "verse_number": 15,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  },
+  {
+    "verse_id": 5688,
+    "elements": [
+      {
+        "text_uthmani": "وَجَنَّاتٍ أَلْفَافًا",
+        "verse_number": 16,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  },
+  {
+    "verse_id": 5689,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا",
+        "name_arabic": "النبأ",
+        "chapter_id": 78,
+        "verse_number": 17,
+        "content": [
+          {
+            "red": "إِنَّ يَوْمَ الْفَصْلِ"
+          },
+          {
+            "black": "كَانَ مِيقَاتًا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الدخان",
+        "sim_chapter_id": 44,
+        "sim_verse_number": 40,
+        "content": [
+          {
+            "red": "إِنَّ يَوْمَ الْفَصْلِ"
+          },
+          {
+            "black": "مِيقَاتُهُمْ أَجْمَعِينَ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5690,
+    "elements": [
+      {
+        "text_uthmani": "يَوْمَ يُنفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا",
+        "name_arabic": "النبأ",
+        "chapter_id": 78,
+        "verse_number": 18,
+        "content": [
+          {
+            "red": "يَوْمَ يُنفَخُ فِي الصُّورِ"
+          },
+          {
+            "black": "فَتَأْتُونَ أَفْوَاجًا"
+          }
+        ],
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "الأنعام",
+        "sim_chapter_id": 6,
+        "sim_verse_number": 73,
+        "content": [
+          {
+            "black": "... وَلَهُ الْمُلْكُ"
+          },
+          {
+            "red": "يَوْمَ يُنفَخُ فِي الصُّورِ"
+          },
+          {
+            "black": "ۚ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ ..."
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "طه",
+        "sim_chapter_id": 20,
+        "sim_verse_number": 102,
+        "content": [
+          {
+            "red": "يَوْمَ يُنفَخُ فِي الصُّورِ"
+          },
+          {
+            "black": "ۚ وَنَحْشُرُ الْمُجْرِمِينَ يَوْمَئِذٍ زُرْقًا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "النمل",
+        "sim_chapter_id": 27,
+        "sim_verse_number": 87,
+        "content": [
+          {
+            "black": "وَ"
+          },
+          {
+            "red": "يَوْمَ يُنفَخُ فِي الصُّورِ"
+          },
+          {
+            "black": "فَفَزِعَ مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْضِ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "باقي المواضع: ﴿وَنُفِخَ فِي الصُّورِ﴾, وردت 4 مرات: [الكهف: 99, الزمر: 68, يس: 51, ق: 20].",
+      "﴿فَإذَا نُفِخَ فِي الصُّورِ﴾ تكررت مرتين: [المؤمنون: 101, الحاقة: 13].",
+      "النمل الوحيدة: (وَيَوْمَ يُنفَخُ فِي الصُّورِ), وباقي المواضع: (يَوْمَ يُنفَخُ فِي الصُّورِ)."
+    ]
+  },
+  {
+    "verse_id": 5691,
+    "elements": [
+      {
+        "text_uthmani": "وَفُتِحَتِ السَّمَاء فَكَانَتْ أَبْوَابًا",
+        "verse_number": 19,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  },
+  {
+    "verse_id": 5692,
+    "elements": [
+      {
+        "text_uthmani": "وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا",
+        "verse_number": 20,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  },
+  {
+    "verse_id": 5693,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
+        "verse_number": 21,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  },
+  {
+    "verse_id": 5694,
+    "elements": [
+      {
+        "text_uthmani": "لِلْطَّاغِينَ مَآبًا",
+        "verse_number": 22,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  },
+  {
+    "verse_id": 5695,
+    "elements": [
+      {
+        "text_uthmani": "لَابِثِينَ فِيهَا أَحْقَابًا",
+        "verse_number": 23,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  },
+  {
+    "verse_id": 5696,
+    "elements": [
+      {
+        "text_uthmani": "لَّا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا",
+        "verse_number": 24,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  },
+  {
+    "verse_id": 5697,
+    "elements": [
+      {
+        "text_uthmani": "إِلَّا حَمِيمًا وَغَسَّاقًا",
+        "verse_number": 25,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  },
+  {
+    "verse_id": 5698,
+    "elements": [
+      {
+        "text_uthmani": "جَزَاء وِفَاقًا",
+        "name_arabic": "النبأ",
+        "chapter_id": 78,
+        "verse_number": 26,
+        "content": [
+          {
+            "red": "جَزَاءً وِفَاقًا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "النبأ",
+        "sim_chapter_id": 78,
+        "sim_verse_number": 36,
+        "content": [
+          {
+            "red": "جَزَاءً مِّن رَّبِّكَ عَطَاءً حِسَابًا"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "لما كان جزاء الله لأهل الجنة إنما هو تفضل منه سبحانه يفوق ما عملوه من الطاعات؛ قال: (جَزَاءً مِّن رَّبِّكَ عَطَاءً حِسَابًا), ولما كان العقاب لأهل النار لا يكون إلا بالمثل؛ لذلك قال: (جَزَاءً وِفَاقًا)."
+    ]
+  },
+  {
+    "verse_id": 5699,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا",
+        "verse_number": 27,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  },
+  {
+    "verse_id": 5700,
+    "elements": [
+      {
+        "text_uthmani": "وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا",
+        "name_arabic": "النبأ",
+        "chapter_id": 78,
+        "verse_number": 28,
+        "content": [
+          {
+            "black": "وَكَذَّبُوا بِآيَاتِنَا"
+          },
+          {
+            "red": "كِذَّابًا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "النبأ",
+        "sim_chapter_id": 78,
+        "sim_verse_number": 35,
+        "content": [
+          {
+            "black": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا"
+          },
+          {
+            "red": "كِذَّابًا"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5701,
+    "elements": [
+      {
+        "text_uthmani": "وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ كِتَابًا",
+        "name_arabic": "النبأ",
+        "chapter_id": 78,
+        "verse_number": 29,
+        "content": [
+          {
+            "red": "وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ"
+          },
+          {
+            "black": "كِتَابًا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "يس",
+        "sim_chapter_id": 36,
+        "sim_verse_number": 12,
+        "content": [
+          {
+            "black": "إِنَّا نَحْنُ نُحْيِي الْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا وَآثَارَهُمْ ۚ"
+          },
+          {
+            "red": "وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ"
+          },
+          {
+            "black": "فِي إِمَامٍ مُّبِينٍ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5702,
+    "elements": [
+      {
+        "text_uthmani": "فَذُوقُوا فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا",
+        "verse_number": 30,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  },
+  {
+    "verse_id": 5703,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّ لِلْمُتَّقِينَ مَفَازًا",
+        "name_arabic": "النبأ",
+        "chapter_id": 78,
+        "verse_number": 31,
+        "content": [
+          {
+            "red": "إِنَّ لِلْمُتَّقِينَ"
+          },
+          {
+            "black": "مَفَازًا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "ص",
+        "sim_chapter_id": 38,
+        "sim_verse_number": 49,
+        "content": [
+          {
+            "black": "هَـٰذَا ذِكْرٌ ۚ"
+          },
+          {
+            "dimgray": "وَ"
+          },
+          {
+            "red": "إِنَّ لِلْمُتَّقِينَ"
+          },
+          {
+            "black": "لَحُسْنَ مَآبٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القلم",
+        "sim_chapter_id": 68,
+        "sim_verse_number": 34,
+        "content": [
+          {
+            "red": "إِنَّ لِلْمُتَّقِينَ"
+          },
+          {
+            "black": "عِندَ رَبِّهِمْ جَنَّاتِ النَّعِيمِ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "آية ص الوحيدة: (وَإِنَّ لِلْمُتَّقِينَ), وباقي المواضع: (إِنَّ لِلْمُتَّقِينَ)."
+    ]
+  },
+  {
+    "verse_id": 5704,
+    "elements": [
+      {
+        "text_uthmani": "حَدَائِقَ وَأَعْنَابًا",
+        "name_arabic": "النبأ",
+        "chapter_id": 78,
+        "verse_number": 32,
+        "content": [
+          {
+            "red": "حَدَائِقَ"
+          },
+          {
+            "black": "وَأَعْنَابًا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "النمل",
+        "sim_chapter_id": 27,
+        "sim_verse_number": 60,
+        "content": [
+          {
+            "black": "... وَأَنزَلَ لَكُم مِّنَ السَّمَاءِ مَاءً فَأَنبَتْنَا بِهِ"
+          },
+          {
+            "red": "حَدَائِقَ"
+          },
+          {
+            "black": "ذَاتَ بَهْجَةٍ ..."
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "عبس",
+        "sim_chapter_id": 80,
+        "sim_verse_number": 30,
+        "content": [
+          {
+            "dimgray": "وَ"
+          },
+          {
+            "red": "حَدَائِقَ"
+          },
+          {
+            "black": "غُلْبًا"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5705,
+    "elements": [
+      {
+        "text_uthmani": "وَكَوَاعِبَ أَتْرَابًا",
+        "verse_number": 33,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  },
+  {
+    "verse_id": 5706,
+    "elements": [
+      {
+        "text_uthmani": "وَكَأْسًا دِهَاقًا",
+        "verse_number": 34,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  },
+  {
+    "verse_id": 5707,
+    "elements": [
+      {
+        "text_uthmani": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا",
+        "name_arabic": "النبأ",
+        "chapter_id": 78,
+        "verse_number": 35,
+        "content": [
+          {
+            "red": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا"
+          },
+          {
+            "gold": "كِذَّابًا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "مريم",
+        "sim_chapter_id": 19,
+        "sim_verse_number": 62,
+        "content": [
+          {
+            "red": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا"
+          },
+          {
+            "black": "إِلَّا سَلَامًا ..."
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 25,
+        "content": [
+          {
+            "red": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا"
+          },
+          {
+            "black": "تَأْثِيمًا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "النبأ",
+        "sim_chapter_id": 78,
+        "sim_verse_number": 28,
+        "content": [
+          {
+            "black": "وَكَذَّبُوا بِآيَاتِنَا"
+          },
+          {
+            "gold": "كِذَّابًا"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5708,
+    "elements": [
+      {
+        "text_uthmani": "جَزَاء مِّن رَّبِّكَ عَطَاء حِسَابًا",
+        "name_arabic": "النبأ",
+        "chapter_id": 78,
+        "verse_number": 36,
+        "content": [
+          {
+            "red": "جَزَاءً مِّن رَّبِّكَ عَطَاءً حِسَابًا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "النبأ",
+        "sim_chapter_id": 78,
+        "sim_verse_number": 26,
+        "content": [
+          {
+            "red": "جَزَاءً وِفَاقًا"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "لما كان جزاء الله لأهل الجنة إنما هو تفضل منه سبحانه يفوق ما عملوه من الطاعات؛ قال: (جَزَاءً مِّن رَّبِّكَ عَطَاءً حِسَابًا), ولما كان العقاب لأهل النار لا يكون إلا بالمثل؛ لذلك قال: (جَزَاءً وِفَاقًا)."
+    ]
+  },
+  {
+    "verse_id": 5709,
+    "elements": [
+      {
+        "text_uthmani": "رَبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرحْمَنِ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
+        "sim_chapter_name": "",
+        "verse_number": 37,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ],
+    "spotlights": [
+      "﴿رَبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا﴾ تكررت في موضعين: [الدخان: 7, النبأ: 37].",
+      "﴿رَّبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا﴾ تكررت في 4 مواضع: [مريم: 65, الشعراء: 24, الصافات: 5, ص: 66]."
+    ]
+  },
+  {
+    "verse_id": 5710,
+    "elements": [
+      {
+        "text_uthmani": "يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرحْمَنُ وَقَالَ صَوَابًا",
+        "verse_number": 38,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  },
+  {
+    "verse_id": 5711,
+    "elements": [
+      {
+        "text_uthmani": "ذَلِكَ الْيَوْمُ الْحَقُّ فَمَن شَاء اتَّخَذَ إِلَى رَبِّهِ مَآبًا",
+        "name_arabic": "النبأ",
+        "chapter_id": 78,
+        "verse_number": 39,
+        "content": [
+          {
+            "black": "ذَٰلِكَ الْيَوْمُ الْحَقُّ ۖ"
+          },
+          {
+            "red": "فَمَن شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ"
+          },
+          {
+            "dimgray": "مَآبًا"
+          }
+        ],
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "المزمل",
+        "sim_chapter_id": 73,
+        "sim_verse_number": 19,
+        "content": [
+          {
+            "black": "إِنَّ هَـٰذِهِ تَذْكِرَةٌ ۖ"
+          },
+          {
+            "red": "فَمَن شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ سَبِيلًا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الإنسان",
+        "sim_chapter_id": 76,
+        "sim_verse_number": 29,
+        "content": [
+          {
+            "black": "إِنَّ هَـٰذِهِ تَذْكِرَةٌ ۖ"
+          },
+          {
+            "red": "فَمَن شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ سَبِيلًا"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5712,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّا أَنذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنتُ تُرَابًا",
+        "verse_number": 40,
+        "chapter_id": 78,
+        "name_arabic": "النبأ"
+      }
+    ]
+  }
+]

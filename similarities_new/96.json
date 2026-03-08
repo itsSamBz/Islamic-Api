@@ -1,0 +1,385 @@
+[
+  {
+    "verse_id": 6107,
+    "elements": [
+      {
+        "text_uthmani": "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ",
+        "name_arabic": "العلق",
+        "chapter_id": 96,
+        "verse_number": 1,
+        "content": [
+          {
+            "red": "اقْرَأْ بِاسْمِ رَبِّكَ"
+          },
+          {
+            "black": "الَّذِي خَلَقَ"
+          }
+        ],
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 74,
+        "content": [
+          {
+            "red": "فَسَبِّحْ بِاسْمِ رَبِّكَ"
+          },
+          {
+            "black": "الْعَظِيمِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 96,
+        "content": [
+          {
+            "red": "فَسَبِّحْ بِاسْمِ رَبِّكَ"
+          },
+          {
+            "black": "الْعَظِيمِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحاقة",
+        "sim_chapter_id": 69,
+        "sim_verse_number": 52,
+        "content": [
+          {
+            "red": "فَسَبِّحْ بِاسْمِ رَبِّكَ"
+          },
+          {
+            "black": "الْعَظِيمِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 6108,
+    "elements": [
+      {
+        "text_uthmani": "خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ",
+        "name_arabic": "العلق",
+        "chapter_id": 96,
+        "verse_number": 2,
+        "content": [
+          {
+            "red": "خَلَقَ الْإِنسَانَ"
+          },
+          {
+            "black": "مِنْ عَلَقٍ"
+          }
+        ],
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "النحل",
+        "sim_chapter_id": 16,
+        "sim_verse_number": 4,
+        "content": [
+          {
+            "red": "خَلَقَ الْإِنسَانَ"
+          },
+          {
+            "black": "مِن نُّطْفَةٍ فَإِذَا هُوَ خَصِيمٌ مُّبِينٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الرحمن",
+        "sim_chapter_id": 55,
+        "sim_verse_number": 3,
+        "content": [
+          {
+            "red": "خَلَقَ الْإِنسَانَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الرحمن",
+        "sim_chapter_id": 55,
+        "sim_verse_number": 14,
+        "content": [
+          {
+            "red": "خَلَقَ الْإِنسَانَ"
+          },
+          {
+            "black": "مِن صَلْصَالٍ كَالْفَخَّارِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "العلق",
+        "sim_chapter_id": 96,
+        "sim_verse_number": 2,
+        "content": [
+          {
+            "black": "خَلَقَ الْإِنسَانَ"
+          },
+          {
+            "red": "مِنْ"
+          },
+          {
+            "dimgray": "عَلَقٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحج",
+        "sim_chapter_id": 22,
+        "sim_verse_number": 5,
+        "content": [
+          {
+            "black": "... فَإِنَّا خَلَقْنَاكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ"
+          },
+          {
+            "red": "مِنْ عَلَقَةٍ"
+          },
+          {
+            "black": "ثُمَّ مِن مُّضْغَةٍ ..."
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "غافر",
+        "sim_chapter_id": 40,
+        "sim_verse_number": 67,
+        "content": [
+          {
+            "black": "هُوَ الَّذِي خَلَقَكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ"
+          },
+          {
+            "red": "مِنْ عَلَقَةٍ"
+          },
+          {
+            "black": "ثُمَّ يُخْرِجُكُمْ طِفْلًا ..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 6109,
+    "elements": [
+      {
+        "text_uthmani": "اقْرَأْ وَرَبُّكَ الْأَكْرَمُ",
+        "verse_number": 3,
+        "chapter_id": 96,
+        "name_arabic": "العلق"
+      }
+    ]
+  },
+  {
+    "verse_id": 6110,
+    "elements": [
+      {
+        "text_uthmani": "الَّذِي عَلَّمَ بِالْقَلَمِ",
+        "verse_number": 4,
+        "chapter_id": 96,
+        "name_arabic": "العلق"
+      }
+    ]
+  },
+  {
+    "verse_id": 6111,
+    "elements": [
+      {
+        "text_uthmani": "عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ",
+        "verse_number": 5,
+        "chapter_id": 96,
+        "name_arabic": "العلق"
+      }
+    ]
+  },
+  {
+    "verse_id": 6112,
+    "elements": [
+      {
+        "text_uthmani": "كَلَّا إِنَّ الْإِنسَانَ لَيَطْغَى",
+        "verse_number": 6,
+        "chapter_id": 96,
+        "name_arabic": "العلق"
+      }
+    ]
+  },
+  {
+    "verse_id": 6113,
+    "elements": [
+      {
+        "text_uthmani": "أَن رَّآهُ اسْتَغْنَى",
+        "verse_number": 7,
+        "chapter_id": 96,
+        "name_arabic": "العلق"
+      }
+    ]
+  },
+  {
+    "verse_id": 6114,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّ إِلَى رَبِّكَ الرُّجْعَى",
+        "verse_number": 8,
+        "chapter_id": 96,
+        "name_arabic": "العلق"
+      }
+    ]
+  },
+  {
+    "verse_id": 6115,
+    "elements": [
+      {
+        "text_uthmani": "أَرَأَيْتَ الَّذِي يَنْهَى",
+        "verse_number": 9,
+        "chapter_id": 96,
+        "name_arabic": "العلق"
+      }
+    ]
+  },
+  {
+    "verse_id": 6116,
+    "elements": [
+      {
+        "text_uthmani": "عَبْدًا إِذَا صَلَّى",
+        "verse_number": 10,
+        "chapter_id": 96,
+        "name_arabic": "العلق"
+      }
+    ]
+  },
+  {
+    "verse_id": 6117,
+    "elements": [
+      {
+        "text_uthmani": "أَرَأَيْتَ إِن كَانَ عَلَى الْهُدَى",
+        "verse_number": 11,
+        "chapter_id": 96,
+        "name_arabic": "العلق"
+      }
+    ]
+  },
+  {
+    "verse_id": 6118,
+    "elements": [
+      {
+        "text_uthmani": "أَوْ أَمَرَ بِالتَّقْوَى",
+        "verse_number": 12,
+        "chapter_id": 96,
+        "name_arabic": "العلق"
+      }
+    ]
+  },
+  {
+    "verse_id": 6119,
+    "elements": [
+      {
+        "text_uthmani": "أَرَأَيْتَ إِن كَذَّبَ وَتَوَلَّى",
+        "verse_number": 13,
+        "chapter_id": 96,
+        "name_arabic": "العلق",
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "طه",
+        "sim_chapter_id": 20,
+        "sim_verse_number": 56,
+        "content": [
+          {
+            "black": "وَلَقَدْ أَرَيْنَاهُ آيَاتِنَا كُلَّهَا"
+          },
+          {
+            "red": "فَكَذَّبَ"
+          },
+          {
+            "dimgray": "وَأَبَىٰ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "النازعات",
+        "sim_chapter_id": 79,
+        "sim_verse_number": 21,
+        "content": [
+          {
+            "red": "فَكَذَّبَ"
+          },
+          {
+            "dimgray": "وَعَصَىٰ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "وباقي المواضع: ﴿كَذَّبَ وَتَوَلَّىٰ﴾, تكررت في 4 مواضع: [طه: 48, القيامة: 32, الليل: 16, العلق: 13]."
+    ]
+  },
+  {
+    "verse_id": 6120,
+    "elements": [
+      {
+        "text_uthmani": "أَلَمْ يَعْلَمْ بِأَنَّ اللَّهَ يَرَى",
+        "verse_number": 14,
+        "chapter_id": 96,
+        "name_arabic": "العلق"
+      }
+    ]
+  },
+  {
+    "verse_id": 6121,
+    "elements": [
+      {
+        "text_uthmani": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًا بِالنَّاصِيَةِ",
+        "verse_number": 15,
+        "chapter_id": 96,
+        "name_arabic": "العلق"
+      }
+    ]
+  },
+  {
+    "verse_id": 6122,
+    "elements": [
+      {
+        "text_uthmani": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ",
+        "verse_number": 16,
+        "chapter_id": 96,
+        "name_arabic": "العلق"
+      }
+    ]
+  },
+  {
+    "verse_id": 6123,
+    "elements": [
+      {
+        "text_uthmani": "فَلْيَدْعُ نَادِيَه",
+        "verse_number": 17,
+        "chapter_id": 96,
+        "name_arabic": "العلق"
+      }
+    ]
+  },
+  {
+    "verse_id": 6124,
+    "elements": [
+      {
+        "text_uthmani": "سَنَدْعُ الزَّبَانِيَةَ",
+        "verse_number": 18,
+        "chapter_id": 96,
+        "name_arabic": "العلق"
+      }
+    ]
+  },
+  {
+    "verse_id": 6125,
+    "elements": [
+      {
+        "text_uthmani": "كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ",
+        "verse_number": 19,
+        "chapter_id": 96,
+        "name_arabic": "العلق"
+      }
+    ]
+  }
+]

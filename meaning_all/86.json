@@ -1,0 +1,302 @@
+[
+  {
+    "verse_id": 5932,
+    "text_uthmani": "وَالسَّمَاء وَالطَّارِقِ",
+    "words": "وَالطَّارِقِ",
+    "meaning": "النَّجْمِ الَّذِي يَطْلُعُ لَيْلًا",
+    "surce": "السراج",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 1
+  },
+  {
+    "verse_id": 5932,
+    "text_uthmani": "وَالسَّمَاء وَالطَّارِقِ",
+    "words": "و الطارق",
+    "meaning": "(قسمٌ) بالنَّجم الثَّاقِب يَطلُعُ ليلاً",
+    "surce": "معاني القرآن",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 1
+  },
+  {
+    "verse_id": 5934,
+    "text_uthmani": "النَّجْمُ الثَّاقِبُ",
+    "words": "الثَّاقِبُ",
+    "meaning": "المُضِيءُ المُتَوَهِّجُ",
+    "surce": "السراج",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 3
+  },
+  {
+    "verse_id": 5934,
+    "text_uthmani": "النَّجْمُ الثَّاقِبُ",
+    "words": "النـّـجم الثاقب",
+    "meaning": "المُضِىءُ المُتوهِّجُ أو المُرتفِعُ العالى",
+    "surce": "معاني القرآن",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 3
+  },
+  {
+    "verse_id": 5935,
+    "text_uthmani": "إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ",
+    "words": "إِنْ كُلُّ نَفْسٍ لَّمَّا",
+    "meaning": "مَا كُلُّ نَفْسٍ إِلَّا",
+    "surce": "السراج",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 4
+  },
+  {
+    "verse_id": 5935,
+    "text_uthmani": "إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ",
+    "words": "إن كلّ نـَـفس",
+    "meaning": "ما كلُّ نَفسٍ (جواب القسم)",
+    "surce": "معاني القرآن",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 4
+  },
+  {
+    "verse_id": 5935,
+    "text_uthmani": "إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ",
+    "words": "لمّـاعَـليها",
+    "meaning": "إلا عليها",
+    "surce": "معاني القرآن",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 4
+  },
+  {
+    "verse_id": 5935,
+    "text_uthmani": "إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ",
+    "words": "حَافِظٌ",
+    "meaning": "مَلَكٌ يَحْفَظُ أَعْمَالَهَا",
+    "surce": "السراج",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 4
+  },
+  {
+    "verse_id": 5935,
+    "text_uthmani": "إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ",
+    "words": "حافِـظٌ",
+    "meaning": "مُهَيْمنٌ ورَقِيبٌ وهو الله تعالى",
+    "surce": "معاني القرآن",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 4
+  },
+  {
+    "verse_id": 5937,
+    "text_uthmani": "خُلِقَ مِن مَّاء دَافِقٍ",
+    "words": "ماءٍ",
+    "meaning": "مُمتَزجٍ من مائَي الرجلِ والمرأة",
+    "surce": "معاني القرآن",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 6
+  },
+  {
+    "verse_id": 5937,
+    "text_uthmani": "خُلِقَ مِن مَّاء دَافِقٍ",
+    "words": "دَافِقٍ",
+    "meaning": "مُنْصَبٍّ بِسُرْعَةٍ فِي الرَّحِمِ",
+    "surce": "السراج",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 6
+  },
+  {
+    "verse_id": 5937,
+    "text_uthmani": "خُلِقَ مِن مَّاء دَافِقٍ",
+    "words": "دَافِـق",
+    "meaning": "مَصبُوبٍ بِدَفْعٍ وسُرعةٍ فى الرَّحِم",
+    "surce": "معاني القرآن",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 6
+  },
+  {
+    "verse_id": 5938,
+    "text_uthmani": "يَخْرُجُ مِن بَيْنِ الصُّلْبِ وَالتَّرَائِبِ",
+    "words": "الصُّلْبِ",
+    "meaning": "الظَّهْرِ",
+    "surce": "السراج",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 7
+  },
+  {
+    "verse_id": 5938,
+    "text_uthmani": "يَخْرُجُ مِن بَيْنِ الصُّلْبِ وَالتَّرَائِبِ",
+    "words": "مِـنْ بين الصلب",
+    "meaning": "ظَهْر كلٍّ من الرجل والمرأة",
+    "surce": "معاني القرآن",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 7
+  },
+  {
+    "verse_id": 5938,
+    "text_uthmani": "يَخْرُجُ مِن بَيْنِ الصُّلْبِ وَالتَّرَائِبِ",
+    "words": "وَالتَّرَائِبِ",
+    "meaning": "عِظَامِ الصَّدْرِ",
+    "surce": "السراج",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 7
+  },
+  {
+    "verse_id": 5938,
+    "text_uthmani": "يَخْرُجُ مِن بَيْنِ الصُّلْبِ وَالتَّرَائِبِ",
+    "words": "و التـّرائب",
+    "meaning": "عِظامِ الصَّدرِ أو الأطرافِ مِن كلٍّ منهما ، أو يَخرجُ من كل البَدَنِ مِنهما ، والصُّلْبُ والترائب كِنايةٌ عنه",
+    "surce": "معاني القرآن",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 7
+  },
+  {
+    "verse_id": 5939,
+    "text_uthmani": "إِنَّهُ عَلَى رَجْعِهِ لَقَادِرٌ",
+    "words": "رَجْعِهِ",
+    "meaning": "رَدِّهِ حَيًّا بَعْدَ المَوْتِ",
+    "surce": "السراج",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 8
+  },
+  {
+    "verse_id": 5939,
+    "text_uthmani": "إِنَّهُ عَلَى رَجْعِهِ لَقَادِرٌ",
+    "words": "رَجْعِه",
+    "meaning": "إعادَةِ الإنسانِ بعدَ فنائه",
+    "surce": "معاني القرآن",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 8
+  },
+  {
+    "verse_id": 5940,
+    "text_uthmani": "يَوْمَ تُبْلَى السَّرَائِرُ",
+    "words": "تُبْلَى السَّرَائِرُ",
+    "meaning": "تُخْتَبَرُ، وَتُكْشَفُ ضَمَائِرُ القُلُوبِ",
+    "surce": "السراج",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 9
+  },
+  {
+    "verse_id": 5940,
+    "text_uthmani": "يَوْمَ تُبْلَى السَّرَائِرُ",
+    "words": "تبْلى السّرائر",
+    "meaning": "تـُكشَفُ مَكنوناتُ القلوب",
+    "surce": "معاني القرآن",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 9
+  },
+  {
+    "verse_id": 5942,
+    "text_uthmani": "وَالسَّمَاء ذَاتِ الرَّجْعِ",
+    "words": "ذَاتِ الرَّجْعِ",
+    "meaning": "صَاحِبَةِ المَطَرِ المُتَكَرِّرِ",
+    "surce": "السراج",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 11
+  },
+  {
+    "verse_id": 5942,
+    "text_uthmani": "وَالسَّمَاء ذَاتِ الرَّجْعِ",
+    "words": "ذات الرّجْـع",
+    "meaning": "المطرِ لِرُجُوعِه إلى الأرض مِرارًا",
+    "surce": "معاني القرآن",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 11
+  },
+  {
+    "verse_id": 5943,
+    "text_uthmani": "وَالْأَرْضِ ذَاتِ الصَّدْعِ",
+    "words": "ذَاتِ الصَّدْعِ",
+    "meaning": "ذَاتِ التَّشَقُّقِ بِالنَّبَاتِ",
+    "surce": "السراج",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 12
+  },
+  {
+    "verse_id": 5943,
+    "text_uthmani": "وَالْأَرْضِ ذَاتِ الصَّدْعِ",
+    "words": "ذات الصّدْع",
+    "meaning": "النباتِ الذى تـَنشَقُّ عنه",
+    "surce": "معاني القرآن",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 12
+  },
+  {
+    "verse_id": 5944,
+    "text_uthmani": "إِنَّهُ لَقَوْلٌ فَصْلٌ",
+    "words": "فَصْلٌ",
+    "meaning": "فَاصِلٌ بَيْنَ الحَقِّ، وَالبَاطِلِ",
+    "surce": "السراج",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 13
+  },
+  {
+    "verse_id": 5944,
+    "text_uthmani": "إِنَّهُ لَقَوْلٌ فَصْلٌ",
+    "words": "لـَـقوْلٌ فصل",
+    "meaning": "فاصلٌ بين الحق والباطل",
+    "surce": "معاني القرآن",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 13
+  },
+  {
+    "verse_id": 5947,
+    "text_uthmani": "وَأَكِيدُ كَيْدًا",
+    "words": "أكيدُ كيْدًا",
+    "meaning": "أُجازيهم على فِعلِهم بالاسْتدْراج",
+    "surce": "معاني القرآن",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 16
+  },
+  {
+    "verse_id": 5948,
+    "text_uthmani": "فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا",
+    "words": "فمهّل الكافرين",
+    "meaning": "فلا تـَستَعجـِلْ بالانتقام منهمْ",
+    "surce": "معاني القرآن",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 17
+  },
+  {
+    "verse_id": 5948,
+    "text_uthmani": "فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا",
+    "words": "رُوَيْدًا",
+    "meaning": "قَلِيلًا",
+    "surce": "السراج",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 17
+  },
+  {
+    "verse_id": 5948,
+    "text_uthmani": "فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا",
+    "words": "أمْهلهُمْ روَيْدا",
+    "meaning": "إمْهالاً قريبًا ، أو قليلاً حتى يَأتِيَهم العذاب",
+    "surce": "معاني القرآن",
+    "name_arabic": "الطارق",
+    "chapter_id": 86,
+    "verse_number": 17
+  }
+]

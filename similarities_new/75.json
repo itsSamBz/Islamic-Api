@@ -1,0 +1,1067 @@
+[
+  {
+    "verse_id": 5552,
+    "elements": [
+      {
+        "text_uthmani": "لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ",
+        "name_arabic": "القيامة",
+        "chapter_id": 75,
+        "verse_number": 1,
+        "content": [
+          {
+            "red": "لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "البلد",
+        "sim_chapter_id": 90,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "لَا أُقْسِمُ بِهَـٰذَا الْبَلَدِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 75,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِمَوَاقِعِ النُّجُومِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحاقة",
+        "sim_chapter_id": 69,
+        "sim_verse_number": 38,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِمَا تُبْصِرُونَ * وَمَا لَا تُبْصِرُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المعارج",
+        "sim_chapter_id": 70,
+        "sim_verse_number": 40,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِرَبِّ الْمَشَارِقِ وَالْمَغَارِبِ إِنَّا لَقَادِرُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "التكوير",
+        "sim_chapter_id": 81,
+        "sim_verse_number": 15,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِالْخُنَّسِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الانشقاق",
+        "sim_chapter_id": 84,
+        "sim_verse_number": 16,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِالشَّفَقِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القيامة",
+        "sim_chapter_id": 75,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "لَا أُقْسِمُ"
+          },
+          {
+            "black": "بِيَوْمِ الْقِيَامَةِ"
+          },
+          {
+            "dimgray": "* وَ"
+          },
+          {
+            "red": "لَا أُقْسِمُ"
+          },
+          {
+            "black": "بِالنَّفْسِ اللَّوَّامَةِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "البلد",
+        "sim_chapter_id": 90,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "لَا أُقْسِمُ"
+          },
+          {
+            "black": "بِهَـٰذَا الْبَلَدِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5553,
+    "elements": [
+      {
+        "text_uthmani": "وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ",
+        "verse_number": 2,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 75,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِمَوَاقِعِ النُّجُومِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحاقة",
+        "sim_chapter_id": 69,
+        "sim_verse_number": 38,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِمَا تُبْصِرُونَ * وَمَا لَا تُبْصِرُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المعارج",
+        "sim_chapter_id": 70,
+        "sim_verse_number": 40,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِرَبِّ الْمَشَارِقِ وَالْمَغَارِبِ إِنَّا لَقَادِرُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "التكوير",
+        "sim_chapter_id": 81,
+        "sim_verse_number": 15,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِالْخُنَّسِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الانشقاق",
+        "sim_chapter_id": 84,
+        "sim_verse_number": 16,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِالشَّفَقِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القيامة",
+        "sim_chapter_id": 75,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "لَا أُقْسِمُ"
+          },
+          {
+            "black": "بِيَوْمِ الْقِيَامَةِ"
+          },
+          {
+            "dimgray": "* وَ"
+          },
+          {
+            "red": "لَا أُقْسِمُ"
+          },
+          {
+            "black": "بِالنَّفْسِ اللَّوَّامَةِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "البلد",
+        "sim_chapter_id": 90,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "لَا أُقْسِمُ"
+          },
+          {
+            "black": "بِهَـٰذَا الْبَلَدِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5554,
+    "elements": [
+      {
+        "text_uthmani": "أَيَحْسَبُ الْإِنسَانُ أَلَّن نَجْمَعَ عِظَامَهُ",
+        "name_arabic": "القيامة",
+        "chapter_id": 75,
+        "verse_number": 3,
+        "content": [
+          {
+            "red": "أَيَحْسَبُ الْإِنسَانُ"
+          },
+          {
+            "black": "أَلَّن نَّجْمَعَ عِظَامَهُ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القيامة",
+        "sim_chapter_id": 75,
+        "sim_verse_number": 36,
+        "content": [
+          {
+            "red": "أَيَحْسَبُ الْإِنسَانُ"
+          },
+          {
+            "black": "أَن يُتْرَكَ سُدًى"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5555,
+    "elements": [
+      {
+        "text_uthmani": "بَلَى قَادِرِينَ عَلَى أَن نُّسَوِّيَ بَنَانَهُ",
+        "verse_number": 4,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5556,
+    "elements": [
+      {
+        "text_uthmani": "بَلْ يُرِيدُ الْإِنسَانُ لِيَفْجُرَ أَمَامَهُ",
+        "verse_number": 5,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5557,
+    "elements": [
+      {
+        "text_uthmani": "يَسْأَلُ أَيَّانَ يَوْمُ الْقِيَامَةِ",
+        "name_arabic": "القيامة",
+        "chapter_id": 75,
+        "verse_number": 6,
+        "content": [
+          {
+            "red": "يَسْأَلُ أَيَّانَ يَوْمُ"
+          },
+          {
+            "black": "الْقِيَامَةِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الذاريات",
+        "sim_chapter_id": 51,
+        "sim_verse_number": 12,
+        "content": [
+          {
+            "red": "يَسْأَلُ"
+          },
+          {
+            "dimgray": "ونَ"
+          },
+          {
+            "red": "أَيَّانَ يَوْمُ"
+          },
+          {
+            "black": "الدِّينِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5558,
+    "elements": [
+      {
+        "text_uthmani": "فَإِذَا بَرِقَ الْبَصَرُ",
+        "verse_number": 7,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5559,
+    "elements": [
+      {
+        "text_uthmani": "وَخَسَفَ الْقَمَرُ",
+        "verse_number": 8,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5560,
+    "elements": [
+      {
+        "text_uthmani": "وَجُمِعَ الشَّمْسُ وَالْقَمَرُ",
+        "verse_number": 9,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5561,
+    "elements": [
+      {
+        "text_uthmani": "يَقُولُ الْإِنسَانُ يَوْمَئِذٍ أَيْنَ الْمَفَرُّ",
+        "verse_number": 10,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5562,
+    "elements": [
+      {
+        "text_uthmani": "كَلَّا لَا وَزَرَ",
+        "verse_number": 11,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5563,
+    "elements": [
+      {
+        "text_uthmani": "إِلَى رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ",
+        "verse_number": 12,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5564,
+    "elements": [
+      {
+        "text_uthmani": "يُنَبَّأُ الْإِنسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ",
+        "verse_number": 13,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5565,
+    "elements": [
+      {
+        "text_uthmani": "بَلِ الْإِنسَانُ عَلَى نَفْسِهِ بَصِيرَةٌ",
+        "verse_number": 14,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5566,
+    "elements": [
+      {
+        "text_uthmani": "وَلَوْ أَلْقَى مَعَاذِيرَهُ",
+        "verse_number": 15,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5567,
+    "elements": [
+      {
+        "text_uthmani": "لَا تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ",
+        "verse_number": 16,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5568,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ",
+        "verse_number": 17,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5569,
+    "elements": [
+      {
+        "text_uthmani": "فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ قُرْآنَهُ",
+        "verse_number": 18,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5570,
+    "elements": [
+      {
+        "text_uthmani": "ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ",
+        "verse_number": 19,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5571,
+    "elements": [
+      {
+        "text_uthmani": "كَلَّا بَلْ تُحِبُّونَ الْعَاجِلَةَ",
+        "verse_number": 20,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5572,
+    "elements": [
+      {
+        "text_uthmani": "وَتَذَرُونَ الْآخِرَةَ",
+        "verse_number": 21,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5573,
+    "elements": [
+      {
+        "text_uthmani": "وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ",
+        "name_arabic": "القيامة",
+        "chapter_id": 75,
+        "verse_number": 22,
+        "content": [
+          {
+            "red": "وُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "نَّاضِرَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "عبس",
+        "sim_chapter_id": 80,
+        "sim_verse_number": 38,
+        "content": [
+          {
+            "red": "وُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "مُّسْفِرَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الغاشية",
+        "sim_chapter_id": 88,
+        "sim_verse_number": 2,
+        "content": [
+          {
+            "red": "وُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "خَاشِعَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الغاشية",
+        "sim_chapter_id": 88,
+        "sim_verse_number": 8,
+        "content": [
+          {
+            "red": "وُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "نَّاعِمَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القيامة",
+        "sim_chapter_id": 75,
+        "sim_verse_number": 24,
+        "content": [
+          {
+            "red": "وَوُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "بَاسِرَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "عبس",
+        "sim_chapter_id": 80,
+        "sim_verse_number": 40,
+        "content": [
+          {
+            "red": "وَوُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "عَلَيْهَا غَبَرَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القيامة",
+        "sim_chapter_id": 75,
+        "sim_verse_number": 22,
+        "content": [
+          {
+            "black": "وُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "red": "نَّاضِرَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القيامة",
+        "sim_chapter_id": 75,
+        "sim_verse_number": 22,
+        "content": [
+          {
+            "black": "وُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "red": "نَّاضِرَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القيامة",
+        "sim_chapter_id": 75,
+        "sim_verse_number": 23,
+        "content": [
+          {
+            "black": "إِلَىٰ رَبِّهَا"
+          },
+          {
+            "red": "نَاظِرَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القيامة",
+        "sim_chapter_id": 75,
+        "sim_verse_number": 23,
+        "content": [
+          {
+            "black": "إِلَىٰ رَبِّهَا"
+          },
+          {
+            "red": "نَاظِرَةٌ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5574,
+    "elements": [
+      {
+        "text_uthmani": "إِلَى رَبِّهَا نَاظِرَةٌ",
+        "name_arabic": "القيامة",
+        "chapter_id": 75,
+        "verse_number": 23,
+        "content": [
+          {
+            "black": "إِلَىٰ رَبِّهَا"
+          },
+          {
+            "red": "نَاظِرَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القيامة",
+        "sim_chapter_id": 75,
+        "sim_verse_number": 22,
+        "content": [
+          {
+            "black": "وُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "red": "نَّاضِرَةٌ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5575,
+    "elements": [
+      {
+        "text_uthmani": "وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ",
+        "name_arabic": "القيامة",
+        "chapter_id": 75,
+        "verse_number": 24,
+        "content": [
+          {
+            "red": "وَوُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "بَاسِرَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القيامة",
+        "sim_chapter_id": 75,
+        "sim_verse_number": 22,
+        "content": [
+          {
+            "red": "وُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "نَّاضِرَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "عبس",
+        "sim_chapter_id": 80,
+        "sim_verse_number": 38,
+        "content": [
+          {
+            "red": "وُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "مُّسْفِرَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الغاشية",
+        "sim_chapter_id": 88,
+        "sim_verse_number": 2,
+        "content": [
+          {
+            "red": "وُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "خَاشِعَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الغاشية",
+        "sim_chapter_id": 88,
+        "sim_verse_number": 8,
+        "content": [
+          {
+            "red": "وُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "نَّاعِمَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "عبس",
+        "sim_chapter_id": 80,
+        "sim_verse_number": 40,
+        "content": [
+          {
+            "red": "وَوُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "عَلَيْهَا غَبَرَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القيامة",
+        "sim_chapter_id": 75,
+        "sim_verse_number": 22,
+        "content": [
+          {
+            "black": "وُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "red": "نَّاضِرَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القيامة",
+        "sim_chapter_id": 75,
+        "sim_verse_number": 23,
+        "content": [
+          {
+            "black": "إِلَىٰ رَبِّهَا"
+          },
+          {
+            "red": "نَاظِرَةٌ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5576,
+    "elements": [
+      {
+        "text_uthmani": "تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌ",
+        "verse_number": 25,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5577,
+    "elements": [
+      {
+        "text_uthmani": "كَلَّا إِذَا بَلَغَتْ التَّرَاقِيَ",
+        "verse_number": 26,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5578,
+    "elements": [
+      {
+        "text_uthmani": "وَقِيلَ مَنْ رَاقٍ",
+        "verse_number": 27,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5579,
+    "elements": [
+      {
+        "text_uthmani": "وَظَنَّ أَنَّهُ الْفِرَاقُ",
+        "verse_number": 28,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5580,
+    "elements": [
+      {
+        "text_uthmani": "وَالْتَفَّتِ السَّاقُ بِالسَّاقِ",
+        "verse_number": 29,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5581,
+    "elements": [
+      {
+        "text_uthmani": "إِلَى رَبِّكَ يَوْمَئِذٍ الْمَسَاقُ",
+        "verse_number": 30,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5582,
+    "elements": [
+      {
+        "text_uthmani": "فَلَا صَدَّقَ وَلَا صَلَّى",
+        "verse_number": 31,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5583,
+    "elements": [
+      {
+        "text_uthmani": "وَلَكِن كَذَّبَ وَتَوَلَّى",
+        "verse_number": 32,
+        "chapter_id": 75,
+        "name_arabic": "القيامة",
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "طه",
+        "sim_chapter_id": 20,
+        "sim_verse_number": 56,
+        "content": [
+          {
+            "black": "وَلَقَدْ أَرَيْنَاهُ آيَاتِنَا كُلَّهَا"
+          },
+          {
+            "red": "فَكَذَّبَ"
+          },
+          {
+            "dimgray": "وَأَبَىٰ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "النازعات",
+        "sim_chapter_id": 79,
+        "sim_verse_number": 21,
+        "content": [
+          {
+            "red": "فَكَذَّبَ"
+          },
+          {
+            "dimgray": "وَعَصَىٰ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "وباقي المواضع: ﴿كَذَّبَ وَتَوَلَّىٰ﴾, تكررت في 4 مواضع: [طه: 48, القيامة: 32, الليل: 16, العلق: 13]."
+    ]
+  },
+  {
+    "verse_id": 5584,
+    "elements": [
+      {
+        "text_uthmani": "ثُمَّ ذَهَبَ إِلَى أَهْلِهِ يَتَمَطَّى",
+        "verse_number": 33,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5585,
+    "elements": [
+      {
+        "text_uthmani": "أَوْلَى لَكَ فَأَوْلَى",
+        "verse_number": 34,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5586,
+    "elements": [
+      {
+        "text_uthmani": "ثُمَّ أَوْلَى لَكَ فَأَوْلَى",
+        "verse_number": 35,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5587,
+    "elements": [
+      {
+        "text_uthmani": "أَيَحْسَبُ الْإِنسَانُ أَن يُتْرَكَ سُدًى",
+        "name_arabic": "القيامة",
+        "chapter_id": 75,
+        "verse_number": 36,
+        "content": [
+          {
+            "red": "أَيَحْسَبُ الْإِنسَانُ"
+          },
+          {
+            "black": "أَن يُتْرَكَ سُدًى"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القيامة",
+        "sim_chapter_id": 75,
+        "sim_verse_number": 3,
+        "content": [
+          {
+            "red": "أَيَحْسَبُ الْإِنسَانُ"
+          },
+          {
+            "black": "أَلَّن نَّجْمَعَ عِظَامَهُ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5588,
+    "elements": [
+      {
+        "text_uthmani": "أَلَمْ يَكُ نُطْفَةً مِّن مَّنِيٍّ يُمْنَى",
+        "verse_number": 37,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5589,
+    "elements": [
+      {
+        "text_uthmani": "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّى",
+        "verse_number": 38,
+        "chapter_id": 75,
+        "name_arabic": "القيامة"
+      }
+    ]
+  },
+  {
+    "verse_id": 5590,
+    "elements": [
+      {
+        "text_uthmani": "فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنثَى",
+        "name_arabic": "القيامة",
+        "chapter_id": 75,
+        "verse_number": 39,
+        "content": [
+          {
+            "red": "فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنثَىٰ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "النجم",
+        "sim_chapter_id": 53,
+        "sim_verse_number": 45,
+        "content": [
+          {
+            "red": "وَأَنَّهُ خَلَقَ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنثَىٰ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الليل",
+        "sim_chapter_id": 92,
+        "sim_verse_number": 3,
+        "content": [
+          {
+            "red": "وَمَا خَلَقَ الذَّكَرَ وَالْأُنثَىٰ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5591,
+    "elements": [
+      {
+        "text_uthmani": "أَلَيْسَ ذَلِكَ بِقَادِرٍ عَلَى أَن يُحْيِيَ الْمَوْتَى",
+        "name_arabic": "القيامة",
+        "chapter_id": 75,
+        "verse_number": 40,
+        "content": [
+          {
+            "red": "أَلَيْسَ ذَٰلِكَ بِقَادِرٍ"
+          },
+          {
+            "black": "عَلَىٰ أَن يُحْيِيَ الْمَوْتَىٰ"
+          }
+        ],
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "يس",
+        "sim_chapter_id": 36,
+        "sim_verse_number": 81,
+        "content": [
+          {
+            "red": "أَوَلَيْسَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِقَادِرٍ"
+          },
+          {
+            "black": "عَلَىٰ أَن يَخْلُقَ مِثْلَهُم ..."
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الأحقاف",
+        "sim_chapter_id": 46,
+        "sim_verse_number": 33,
+        "content": [
+          {
+            "black": "أَوَلَمْ يَرَوْا أَنَّ اللَّـهَ"
+          },
+          {
+            "red": "الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَلَمْ يَعْيَ بِخَلْقِهِنَّ بِقَادِرٍ"
+          },
+          {
+            "black": "عَلَىٰ أَن يُحْيِيَ الْمَوْتَىٰ ..."
+          }
+        ]
+      }
+    ]
+  }
+]

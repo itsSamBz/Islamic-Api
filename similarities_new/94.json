@@ -1,0 +1,126 @@
+[
+  {
+    "verse_id": 6091,
+    "elements": [
+      {
+        "text_uthmani": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+        "verse_number": 1,
+        "chapter_id": 94,
+        "name_arabic": "الشرح"
+      }
+    ]
+  },
+  {
+    "verse_id": 6092,
+    "elements": [
+      {
+        "text_uthmani": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+        "verse_number": 2,
+        "chapter_id": 94,
+        "name_arabic": "الشرح"
+      }
+    ]
+  },
+  {
+    "verse_id": 6093,
+    "elements": [
+      {
+        "text_uthmani": "الَّذِي أَنقَضَ ظَهْرَكَ",
+        "verse_number": 3,
+        "chapter_id": 94,
+        "name_arabic": "الشرح"
+      }
+    ]
+  },
+  {
+    "verse_id": 6094,
+    "elements": [
+      {
+        "text_uthmani": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+        "verse_number": 4,
+        "chapter_id": 94,
+        "name_arabic": "الشرح"
+      }
+    ]
+  },
+  {
+    "verse_id": 6095,
+    "elements": [
+      {
+        "text_uthmani": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+        "name_arabic": "الشرح",
+        "chapter_id": 94,
+        "verse_number": 5,
+        "content": [
+          {
+            "dimgray": "فَ"
+          },
+          {
+            "red": "إِنَّ مَعَ الْعُسْرِ يُسْرًا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الشرح",
+        "sim_chapter_id": 94,
+        "sim_verse_number": 6,
+        "content": [
+          {
+            "red": "إِنَّ مَعَ الْعُسْرِ يُسْرًا"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 6096,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+        "name_arabic": "الشرح",
+        "chapter_id": 94,
+        "verse_number": 6,
+        "content": [
+          {
+            "red": "إِنَّ مَعَ الْعُسْرِ يُسْرًا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الشرح",
+        "sim_chapter_id": 94,
+        "sim_verse_number": 5,
+        "content": [
+          {
+            "dimgray": "فَ"
+          },
+          {
+            "red": "إِنَّ مَعَ الْعُسْرِ يُسْرًا"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 6097,
+    "elements": [
+      {
+        "text_uthmani": "فَإِذَا فَرَغْتَ فَانصَبْ",
+        "verse_number": 7,
+        "chapter_id": 94,
+        "name_arabic": "الشرح"
+      }
+    ]
+  },
+  {
+    "verse_id": 6098,
+    "elements": [
+      {
+        "text_uthmani": "وَإِلَى رَبِّكَ فَارْغَبْ",
+        "verse_number": 8,
+        "chapter_id": 94,
+        "name_arabic": "الشرح"
+      }
+    ]
+  }
+]

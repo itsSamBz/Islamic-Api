@@ -1,0 +1,1319 @@
+[
+  {
+    "verse_id": 5496,
+    "elements": [
+      {
+        "text_uthmani": "يَا أَيُّهَا الْمُدَّثِّرُ",
+        "name_arabic": "المدثر",
+        "chapter_id": 74,
+        "verse_number": 1,
+        "content": [
+          {
+            "red": "يَا أَيُّهَا"
+          },
+          {
+            "dimgray": "الْمُدَّثِّرُ"
+          }
+        ],
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "المزمل",
+        "sim_chapter_id": 73,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "يَا أَيُّهَا"
+          },
+          {
+            "dimgray": "الْمُزَّمِّلُ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المزمل",
+        "sim_chapter_id": 73,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "يَا أَيُّهَا"
+          },
+          {
+            "dimgray": "الْمُزَّمِّلُ"
+          },
+          {
+            "red": "* قُمِ"
+          },
+          {
+            "black": "اللَّيْلَ إِلَّا قَلِيلًا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المدثر",
+        "sim_chapter_id": 74,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "يَا أَيُّهَا"
+          },
+          {
+            "dimgray": "الْمُدَّثِّرُ"
+          },
+          {
+            "red": "* قُمْ"
+          },
+          {
+            "black": "فَأَنذِرْ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "وباقي المواضع: ﴿يَا أَيُّهَا النَّبِيُّ﴾, تكررت 13 مرة.",
+      "﴿يَا أَيُّهَا الرَّسُولُ﴾ تكررت في موضعين: [المائدة: 41, 67]."
+    ]
+  },
+  {
+    "verse_id": 5497,
+    "elements": [
+      {
+        "text_uthmani": "قُمْ فَأَنذِرْ",
+        "verse_number": 2,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      },
+      {
+        "sim_chapter_name": "المزمل",
+        "sim_chapter_id": 73,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "يَا أَيُّهَا"
+          },
+          {
+            "dimgray": "الْمُزَّمِّلُ"
+          },
+          {
+            "red": "* قُمِ"
+          },
+          {
+            "black": "اللَّيْلَ إِلَّا قَلِيلًا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المدثر",
+        "sim_chapter_id": 74,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "يَا أَيُّهَا"
+          },
+          {
+            "dimgray": "الْمُدَّثِّرُ"
+          },
+          {
+            "red": "* قُمْ"
+          },
+          {
+            "black": "فَأَنذِرْ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5498,
+    "elements": [
+      {
+        "text_uthmani": "وَرَبَّكَ فَكَبِّرْ",
+        "verse_number": 3,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5499,
+    "elements": [
+      {
+        "text_uthmani": "وَثِيَابَكَ فَطَهِّرْ",
+        "verse_number": 4,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5500,
+    "elements": [
+      {
+        "text_uthmani": "وَالرُّجْزَ فَاهْجُرْ",
+        "verse_number": 5,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5501,
+    "elements": [
+      {
+        "text_uthmani": "وَلَا تَمْنُن تَسْتَكْثِرُ",
+        "verse_number": 6,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5502,
+    "elements": [
+      {
+        "text_uthmani": "وَلِرَبِّكَ فَاصْبِرْ",
+        "name_arabic": "المدثر",
+        "chapter_id": 74,
+        "verse_number": 7,
+        "content": [
+          {
+            "red": "وَلِرَبِّكَ فَاصْبِرْ"
+          }
+        ],
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "الطور",
+        "sim_chapter_id": 52,
+        "sim_verse_number": 48,
+        "content": [
+          {
+            "dimgray": "وَ"
+          },
+          {
+            "red": "اصْبِرْ لِحُكْمِ رَبِّكَ"
+          },
+          {
+            "black": "فَإِنَّكَ بِأَعْيُنِنَا ..."
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القلم",
+        "sim_chapter_id": 68,
+        "sim_verse_number": 48,
+        "content": [
+          {
+            "red": "فَاصْبِرْ لِحُكْمِ رَبِّكَ"
+          },
+          {
+            "black": "وَلَا تَكُن كَصَاحِبِ الْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الإنسان",
+        "sim_chapter_id": 76,
+        "sim_verse_number": 24,
+        "content": [
+          {
+            "red": "فَاصْبِرْ لِحُكْمِ رَبِّكَ"
+          },
+          {
+            "black": "وَلَا تُطِعْ مِنْهُمْ آثِمًا أَوْ كَفُورًا"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "كل آية فيها ذِكْر: (فَاصْبِرْ لِحُكْمِ رَبِّكَ) فهي بهذا اللفظ: (فَاصْبِرْ) بالفاء, ما عدا موضع الطور: (وَاصْبِرْ لِحُكْمِ رَبِّكَ) فبالواو."
+    ]
+  },
+  {
+    "verse_id": 5503,
+    "elements": [
+      {
+        "text_uthmani": "فَإِذَا نُقِرَ فِي النَّاقُورِ",
+        "verse_number": 8,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5504,
+    "elements": [
+      {
+        "text_uthmani": "فَذَلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ",
+        "verse_number": 9,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5505,
+    "elements": [
+      {
+        "text_uthmani": "عَلَى الْكَافِرِينَ غَيْرُ يَسِيرٍ",
+        "verse_number": 10,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5506,
+    "elements": [
+      {
+        "text_uthmani": "ذَرْنِي وَمَنْ خَلَقْتُ وَحِيدًا",
+        "verse_number": 11,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5507,
+    "elements": [
+      {
+        "text_uthmani": "وَجَعَلْتُ لَهُ مَالًا مَّمْدُودًا",
+        "verse_number": 12,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5508,
+    "elements": [
+      {
+        "text_uthmani": "وَبَنِينَ شُهُودًا",
+        "verse_number": 13,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5509,
+    "elements": [
+      {
+        "text_uthmani": "وَمَهَّدتُّ لَهُ تَمْهِيدًا",
+        "verse_number": 14,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5510,
+    "elements": [
+      {
+        "text_uthmani": "ثُمَّ يَطْمَعُ أَنْ أَزِيدَ",
+        "verse_number": 15,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5511,
+    "elements": [
+      {
+        "text_uthmani": "كَلَّا إِنَّهُ كَانَ لِآيَاتِنَا عَنِيدًا",
+        "verse_number": 16,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5512,
+    "elements": [
+      {
+        "text_uthmani": "سَأُرْهِقُهُ صَعُودًا",
+        "verse_number": 17,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5513,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّهُ فَكَّرَ وَقَدَّرَ",
+        "name_arabic": "المدثر",
+        "chapter_id": 74,
+        "verse_number": 18,
+        "content": [
+          {
+            "red": "إِنَّهُ فَكَّرَ وَقَدَّرَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المدثر",
+        "sim_chapter_id": 74,
+        "sim_verse_number": 19,
+        "content": [
+          {
+            "red": "فَقُتِلَ كَيْفَ قَدَّرَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المدثر",
+        "sim_chapter_id": 74,
+        "sim_verse_number": 20,
+        "content": [
+          {
+            "red": "ثُمَّ قُتِلَ كَيْفَ قَدَّرَ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5514,
+    "elements": [
+      {
+        "text_uthmani": "فَقُتِلَ كَيْفَ قَدَّرَ",
+        "name_arabic": "المدثر",
+        "chapter_id": 74,
+        "verse_number": 19,
+        "content": [
+          {
+            "red": "فَقُتِلَ كَيْفَ قَدَّرَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المدثر",
+        "sim_chapter_id": 74,
+        "sim_verse_number": 18,
+        "content": [
+          {
+            "red": "إِنَّهُ فَكَّرَ وَقَدَّرَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المدثر",
+        "sim_chapter_id": 74,
+        "sim_verse_number": 20,
+        "content": [
+          {
+            "red": "ثُمَّ قُتِلَ كَيْفَ قَدَّرَ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5515,
+    "elements": [
+      {
+        "text_uthmani": "ثُمَّ قُتِلَ كَيْفَ قَدَّرَ",
+        "name_arabic": "المدثر",
+        "chapter_id": 74,
+        "verse_number": 20,
+        "content": [
+          {
+            "red": "ثُمَّ قُتِلَ كَيْفَ قَدَّرَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المدثر",
+        "sim_chapter_id": 74,
+        "sim_verse_number": 18,
+        "content": [
+          {
+            "red": "إِنَّهُ فَكَّرَ وَقَدَّرَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المدثر",
+        "sim_chapter_id": 74,
+        "sim_verse_number": 19,
+        "content": [
+          {
+            "red": "فَقُتِلَ كَيْفَ قَدَّرَ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5516,
+    "elements": [
+      {
+        "text_uthmani": "ثُمَّ نَظَرَ",
+        "verse_number": 21,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5517,
+    "elements": [
+      {
+        "text_uthmani": "ثُمَّ عَبَسَ وَبَسَرَ",
+        "verse_number": 22,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5518,
+    "elements": [
+      {
+        "text_uthmani": "ثُمَّ أَدْبَرَ وَاسْتَكْبَرَ",
+        "name_arabic": "المدثر",
+        "chapter_id": 74,
+        "verse_number": 23,
+        "content": [
+          {
+            "red": "ثُمَّ أَدْبَرَ"
+          },
+          {
+            "black": "وَاسْتَكْبَرَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "النازعات",
+        "sim_chapter_id": 79,
+        "sim_verse_number": 22,
+        "content": [
+          {
+            "red": "ثُمَّ أَدْبَرَ"
+          },
+          {
+            "black": "يَسْعَىٰ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5519,
+    "elements": [
+      {
+        "text_uthmani": "فَقَالَ إِنْ هَذَا إِلَّا سِحْرٌ يُؤْثَرُ",
+        "name_arabic": "المدثر",
+        "chapter_id": 74,
+        "verse_number": 24,
+        "content": [
+          {
+            "red": "إِنْ هَـٰذَا إِلَّا سِحْرٌ"
+          },
+          {
+            "black": "يُؤْثَرُ"
+          }
+        ],
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "القصص",
+        "sim_chapter_id": 28,
+        "sim_verse_number": 36,
+        "content": [
+          {
+            "dimgray": "مَا"
+          },
+          {
+            "red": "هَـٰذَا إِلَّا سِحْرٌ"
+          },
+          {
+            "black": "مُّفْتَرًى"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "وباقي المواضع: ﴿إِنْ هَـٰذَا إِلَّا سِحْرٌ مُّبِينٌ﴾, تكررت في 5 مواضع: [المائدة: 110, الأنعام: 7, هود: 7, سبأ: 43, الصافات: 15]."
+    ]
+  },
+  {
+    "verse_id": 5520,
+    "elements": [
+      {
+        "text_uthmani": "إِنْ هَذَا إِلَّا قَوْلُ الْبَشَرِ",
+        "verse_number": 25,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5521,
+    "elements": [
+      {
+        "text_uthmani": "سَأُصْلِيهِ سَقَرَ",
+        "verse_number": 26,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5522,
+    "elements": [
+      {
+        "text_uthmani": "وَمَا أَدْرَاكَ مَا سَقَرُ",
+        "verse_number": 27,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      },
+      {
+        "sim_chapter_name": "الأحزاب",
+        "sim_chapter_id": 33,
+        "sim_verse_number": 63,
+        "content": [
+          {
+            "black": "يَسْأَلُكَ النَّاسُ عَنِ السَّاعَةِ ۖ قُلْ إِنَّمَا عِلْمُهَا عِندَ اللَّـهِ ۚ"
+          },
+          {
+            "red": "وَمَا يُدْرِيكَ لَعَلَّ السَّاعَةَ"
+          },
+          {
+            "black": "تَكُونُ"
+          },
+          {
+            "red": "قَرِيب"
+          },
+          {
+            "dimgray": "ًا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الشورى",
+        "sim_chapter_id": 42,
+        "sim_verse_number": 17,
+        "content": [
+          {
+            "black": "اللَّـهُ الَّذِي أَنزَلَ الْكِتَابَ بِالْحَقِّ وَالْمِيزَانَ ۗ"
+          },
+          {
+            "red": "وَمَا يُدْرِيكَ لَعَلَّ السَّاعَةَ قَرِيبٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "عبس",
+        "sim_chapter_id": 80,
+        "sim_verse_number": 3,
+        "content": [
+          {
+            "red": "وَمَا يُدْرِيكَ لَعَلَّهُ"
+          },
+          {
+            "black": "يَزَّكَّىٰ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الانفطار",
+        "sim_chapter_id": 82,
+        "sim_verse_number": 18,
+        "content": [
+          {
+            "red": "ثُمَّ مَا أَدْرَاكَ"
+          },
+          {
+            "black": "مَا يَوْمُ الدِّينِ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "وباقي المواضع: ﴿وَمَا أَدْرَاكَ﴾, تكررت 12 مرة في القرآن.",
+      "ما الفرق بين: (مَا أَدْرَاكَ) و(مَا يُدْرِيكَ)؟ الجواب: إذا قال تعالى: (مَا أَدْرَاكَ)؛ فإنه يذكر هذا الشيء بعد ذلك ويفسره ويوضحه, كما في وصف أهوال القيامة: (الْقَارِعَةُ * مَا الْقَارِعَةُ * وَمَا أَدْرَاكَ مَا الْقَارِعَةُ * يَوْمَ يَكُونُ النَّاسُ), أما إذا قال: (مَا يُدْرِيكَ)؛ فإنه لا يوضحه ولا يفسره؛ لأنه لا سبيل إلى إدراكه والعلم به, كما في شأن موعد يوم القيامة, وقد وردت (مَا أَدْرَاكَ) 13 مرة, بينما وردت (وَمَا يُدْرِيكَ) 3 مرات فقط."
+    ]
+  },
+  {
+    "verse_id": 5523,
+    "elements": [
+      {
+        "text_uthmani": "لَا تُبْقِي وَلَا تَذَرُ",
+        "verse_number": 28,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5524,
+    "elements": [
+      {
+        "text_uthmani": "لَوَّاحَةٌ لِّلْبَشَرِ",
+        "verse_number": 29,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5525,
+    "elements": [
+      {
+        "text_uthmani": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+        "verse_number": 30,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5526,
+    "elements": [
+      {
+        "text_uthmani": "وَمَا جَعَلْنَا أَصْحَابَ النَّارِ إِلَّا مَلَائِكَةً وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِّلَّذِينَ كَفَرُوا لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الْكِتَابَ وَيَزْدَادَ الَّذِينَ آمَنُوا إِيمَانًا وَلَا يَرْتَابَ الَّذِينَ أُوتُوا الْكِتَابَ وَالْمُؤْمِنُونَ وَلِيَقُولَ الَّذِينَ فِي قُلُوبِهِم مَّرَضٌ وَالْكَافِرُونَ مَاذَا أَرَادَ اللَّهُ بِهَذَا مَثَلًا كَذَلِكَ يُضِلُّ اللَّهُ مَن يَشَاء وَيَهْدِي مَن يَشَاء وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ وَمَا هِيَ إِلَّا ذِكْرَى لِلْبَشَرِ",
+        "name_arabic": "المدثر",
+        "chapter_id": 74,
+        "verse_number": 31,
+        "content": [
+          {
+            "black": "وَمَا جَعَلْنَا أَصْحَابَ النَّارِ إِلَّا مَلَائِكَةً ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِّلَّذِينَ كَفَرُوا لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الْكِتَابَ وَيَزْدَادَ الَّذِينَ آمَنُوا إِيمَانًا ۙ وَلَا يَرْتَابَ الَّذِينَ أُوتُوا الْكِتَابَ وَالْمُؤْمِنُونَ ۙ"
+          },
+          {
+            "red": "وَلِيَقُولَ الَّذِينَ فِي قُلُوبِهِم مَّرَضٌ وَالْكَافِرُونَ مَاذَا أَرَادَ اللَّـهُ بِهَـٰذَا مَثَلًا"
+          },
+          {
+            "black": "ۚ"
+          },
+          {
+            "salmon": "كَذَٰلِكَ يُضِلُّ اللَّـهُ"
+          },
+          {
+            "black": "مَن"
+          },
+          {
+            "black": "يَشَاءُ وَيَهْدِي مَن يَشَاءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِيَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "البقرة",
+        "sim_chapter_id": 2,
+        "sim_verse_number": 26,
+        "content": [
+          {
+            "black": "..."
+          },
+          {
+            "red": "وَأَمَّا الَّذِينَ كَفَرُوا فَيَقُولُونَ مَاذَا أَرَادَ اللَّـهُ بِهَـٰذَا مَثَلًا"
+          },
+          {
+            "black": "ۘ يُضِلُّ بِهِ كَثِيرًا وَيَهْدِي بِهِ كَثِيرًا ..."
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "غافر",
+        "sim_chapter_id": 40,
+        "sim_verse_number": 34,
+        "content": [
+          {
+            "black": "... حَتَّىٰ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ اللَّـهُ مِن بَعْدِهِ رَسُولًا ۚ"
+          },
+          {
+            "salmon": "كَذَٰلِكَ يُضِلُّ اللَّـهُ"
+          },
+          {
+            "black": "مَنْ هُوَ مُسْرِفٌ مُّرْتَابٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "غافر",
+        "sim_chapter_id": 40,
+        "sim_verse_number": 74,
+        "content": [
+          {
+            "black": "... قَالُوا ضَلُّوا عَنَّا بَل لَّمْ نَكُن نَّدْعُو مِن قَبْلُ شَيْئًا ۚ"
+          },
+          {
+            "salmon": "كَذَٰلِكَ يُضِلُّ اللَّـهُ"
+          },
+          {
+            "black": "الْكَافِرِينَ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "﴿وَالَّذِينَ فِي قُلُوبِهِم مَّرَضٌ﴾ تكررت في 3 مواضع: [الأنفال: 49, الأحزاب: 12, 60].",
+      "﴿الَّذِينَ فِي قُلُوبِهِم مَّرَضٌ﴾ تكررت في 5 مواضع: [المائدة: 52, التوبة: 125, محمد: 20, 29, المدثر: 31].",
+      "آية البقرة الحديث فيها عن الكافرين, أما آية المدثر فالحديث فيها عن الكافرين والذين في قلوبهم مرض؛ لذا جاءت آية المدثر أكثر تفصيلًا."
+    ]
+  },
+  {
+    "verse_id": 5527,
+    "elements": [
+      {
+        "text_uthmani": "كَلَّا وَالْقَمَرِ",
+        "verse_number": 32,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5528,
+    "elements": [
+      {
+        "text_uthmani": "وَاللَّيْلِ إِذْ أَدْبَرَ",
+        "name_arabic": "المدثر",
+        "chapter_id": 74,
+        "verse_number": 33,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ"
+          },
+          {
+            "dimgray": "إِذْ"
+          },
+          {
+            "black": "أَدْبَرَ"
+          }
+        ],
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "التكوير",
+        "sim_chapter_id": 81,
+        "sim_verse_number": 17,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "عَسْعَسَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الفجر",
+        "sim_chapter_id": 89,
+        "sim_verse_number": 4,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "يَسْرِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الشمس",
+        "sim_chapter_id": 91,
+        "sim_verse_number": 4,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "يَغْشَاهَا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الليل",
+        "sim_chapter_id": 92,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "يَغْشَىٰ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الضحى",
+        "sim_chapter_id": 93,
+        "sim_verse_number": 2,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "سَجَىٰ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5529,
+    "elements": [
+      {
+        "text_uthmani": "وَالصُّبْحِ إِذَا أَسْفَرَ",
+        "verse_number": 34,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5530,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّهَا لَإِحْدَى الْكُبَرِ",
+        "verse_number": 35,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5531,
+    "elements": [
+      {
+        "text_uthmani": "نَذِيرًا لِّلْبَشَرِ",
+        "verse_number": 36,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5532,
+    "elements": [
+      {
+        "text_uthmani": "لِمَن شَاء مِنكُمْ أَن يَتَقَدَّمَ أَوْ يَتَأَخَّرَ",
+        "verse_number": 37,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5533,
+    "elements": [
+      {
+        "text_uthmani": "كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ",
+        "verse_number": 38,
+        "chapter_id": 74,
+        "name_arabic": "المدثر",
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "طه",
+        "sim_chapter_id": 20,
+        "sim_verse_number": 15,
+        "content": [
+          {
+            "red": "كُلُّ نَفْسٍ بِمَا"
+          },
+          {
+            "dimgray": "تَسْعَىٰ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "﴿كُلُّ نَفْسٍ مَّا كَسَبَتْ﴾ تكررت في 4 مواضع: [البقرة: 281, آل عمران: 25, 161, إبراهيم: 51].",
+      "﴿كُلِّ نَفْسٍ بِمَا كَسَبَتْ﴾ تكررت في 4 مواضع من القرآن: [الرعد: 33, غافر: 17, الجاثية: 22, المدثر: 38].",
+      "﴿كُلُّ نَفْسٍ مَّا عَمِلَتْ﴾ تكررت في 3 مواضع: [آل عمران: 30, النحل: 111, الزمر: 70]."
+    ]
+  },
+  {
+    "verse_id": 5534,
+    "elements": [
+      {
+        "text_uthmani": "إِلَّا أَصْحَابَ الْيَمِينِ",
+        "name_arabic": "المدثر",
+        "chapter_id": 74,
+        "verse_number": 39,
+        "content": [
+          {
+            "black": "إِلَّا"
+          },
+          {
+            "red": "أَصْحَابَ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 8,
+        "content": [
+          {
+            "dimgray": "فَ"
+          },
+          {
+            "red": "أَصْحَابُ الْمَيْمَنَةِ"
+          },
+          {
+            "dimgray": "مَا"
+          },
+          {
+            "red": "أَصْحَابُ الْمَيْمَنَةِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "البلد",
+        "sim_chapter_id": 90,
+        "sim_verse_number": 18,
+        "content": [
+          {
+            "black": "أُولَـٰئِكَ"
+          },
+          {
+            "red": "أَصْحَابُ الْمَيْمَنَةِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 27,
+        "content": [
+          {
+            "red": "وَأَصْحَابُ الْيَمِينِ"
+          },
+          {
+            "black": "مَا"
+          },
+          {
+            "red": "أَصْحَابُ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 38,
+        "content": [
+          {
+            "red": "لِّأَصْحَابِ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 90,
+        "content": [
+          {
+            "black": "وَأَمَّا إِن كَانَ مِنْ"
+          },
+          {
+            "red": "أَصْحَابِ الْيَمِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 91,
+        "content": [
+          {
+            "black": "فَسَلَامٌ لَّكَ مِنْ"
+          },
+          {
+            "red": "أَصْحَابِ الْيَمِينِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5535,
+    "elements": [
+      {
+        "text_uthmani": "فِي جَنَّاتٍ يَتَسَاءلُونَ",
+        "verse_number": 40,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5536,
+    "elements": [
+      {
+        "text_uthmani": "عَنِ الْمُجْرِمِينَ",
+        "verse_number": 41,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5537,
+    "elements": [
+      {
+        "text_uthmani": "مَا سَلَكَكُمْ فِي سَقَرَ",
+        "verse_number": 42,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5538,
+    "elements": [
+      {
+        "text_uthmani": "قَالُوا لَمْ نَكُ مِنَ الْمُصَلِّينَ",
+        "verse_number": 43,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5539,
+    "elements": [
+      {
+        "text_uthmani": "وَلَمْ نَكُ نُطْعِمُ الْمِسْكِينَ",
+        "verse_number": 44,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5540,
+    "elements": [
+      {
+        "text_uthmani": "وَكُنَّا نَخُوضُ مَعَ الْخَائِضِينَ",
+        "verse_number": 45,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5541,
+    "elements": [
+      {
+        "text_uthmani": "وَكُنَّا نُكَذِّبُ بِيَوْمِ الدِّينِ",
+        "verse_number": 46,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ],
+    "spotlights": [
+      "﴿بِيَوْمِ الدِّينِ﴾ تكررت في 3 مواضع: [المعارج: 26, المدثر: 46, المطففين: 11].",
+      "﴿يَوْمِ الدِّينِ﴾ تكررت في 3 مواضع: [الفاتحة: 4, الحجر: 35, ص: 78].",
+      "﴿يَوْمَ الدِّينِ﴾ تكررت في 3 مواضع: [الشعراء: 82, الواقعة: 56, الانفطار: 15].",
+      "﴿يَوْمُ الدِّينِ﴾ تكررت في 4 مواضع: [الصافات: 20, الذاريات: 12, الانفطار: 17, 18]."
+    ]
+  },
+  {
+    "verse_id": 5542,
+    "elements": [
+      {
+        "text_uthmani": "حَتَّى أَتَانَا الْيَقِينُ",
+        "verse_number": 47,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5543,
+    "elements": [
+      {
+        "text_uthmani": "فَمَا تَنفَعُهُمْ شَفَاعَةُ الشَّافِعِينَ",
+        "verse_number": 48,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5544,
+    "elements": [
+      {
+        "text_uthmani": "فَمَا لَهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِينَ",
+        "verse_number": 49,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5545,
+    "elements": [
+      {
+        "text_uthmani": "كَأَنَّهُمْ حُمُرٌ مُّسْتَنفِرَةٌ",
+        "verse_number": 50,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5546,
+    "elements": [
+      {
+        "text_uthmani": "فَرَّتْ مِن قَسْوَرَةٍ",
+        "verse_number": 51,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5547,
+    "elements": [
+      {
+        "text_uthmani": "بَلْ يُرِيدُ كُلُّ امْرِئٍ مِّنْهُمْ أَن يُؤْتَى صُحُفًا مُّنَشَّرَةً",
+        "verse_number": 52,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5548,
+    "elements": [
+      {
+        "text_uthmani": "كَلَّا بَل لَا يَخَافُونَ الْآخِرَةَ",
+        "verse_number": 53,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5549,
+    "elements": [
+      {
+        "text_uthmani": "كَلَّا إِنَّهُ تَذْكِرَةٌ",
+        "name_arabic": "المدثر",
+        "chapter_id": 74,
+        "verse_number": 54,
+        "content": [
+          {
+            "red": "كَلَّا"
+          },
+          {
+            "mediumblue": "إِنَّهُ تَذْكِرَةٌ"
+          },
+          {
+            "red": "* فَمَن شَاءَ ذَكَرَهُ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "عبس",
+        "sim_chapter_id": 80,
+        "sim_verse_number": 11,
+        "content": [
+          {
+            "red": "كَلَّا"
+          },
+          {
+            "seagreen": "إِنَّهَا"
+          },
+          {
+            "mediumblue": "تَذْكِرَةٌ"
+          },
+          {
+            "red": "* فَمَن شَاءَ ذَكَرَهُ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحاقة",
+        "sim_chapter_id": 69,
+        "sim_verse_number": 48,
+        "content": [
+          {
+            "gold": "وَإِنَّهُ لَتَذْكِرَةٌ"
+          },
+          {
+            "black": "لِّلْمُتَّقِينَ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5550,
+    "elements": [
+      {
+        "text_uthmani": "فَمَن شَاء ذَكَرَهُ",
+        "sim_chapter_name": "",
+        "verse_number": 55,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      },
+      {
+        "sim_chapter_name": "المدثر",
+        "sim_chapter_id": 74,
+        "sim_verse_number": 54,
+        "content": [
+          {
+            "red": "كَلَّا"
+          },
+          {
+            "mediumblue": "إِنَّهُ تَذْكِرَةٌ"
+          },
+          {
+            "red": "* فَمَن شَاءَ ذَكَرَهُ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "عبس",
+        "sim_chapter_id": 80,
+        "sim_verse_number": 11,
+        "content": [
+          {
+            "red": "كَلَّا"
+          },
+          {
+            "seagreen": "إِنَّهَا"
+          },
+          {
+            "mediumblue": "تَذْكِرَةٌ"
+          },
+          {
+            "red": "* فَمَن شَاءَ ذَكَرَهُ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحاقة",
+        "sim_chapter_id": 69,
+        "sim_verse_number": 48,
+        "content": [
+          {
+            "gold": "وَإِنَّهُ لَتَذْكِرَةٌ"
+          },
+          {
+            "black": "لِّلْمُتَّقِينَ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5551,
+    "elements": [
+      {
+        "text_uthmani": "وَمَا يَذْكُرُونَ إِلَّا أَن يَشَاء اللَّهُ هُوَ أَهْلُ التَّقْوَى وَأَهْلُ الْمَغْفِرَةِ",
+        "verse_number": 56,
+        "chapter_id": 74,
+        "name_arabic": "المدثر"
+      }
+    ]
+  }
+]

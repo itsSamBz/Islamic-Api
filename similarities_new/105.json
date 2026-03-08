@@ -1,0 +1,156 @@
+[
+  {
+    "verse_id": 6189,
+    "elements": [
+      {
+        "text_uthmani": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+        "name_arabic": "الفيل",
+        "chapter_id": 105,
+        "verse_number": 1,
+        "content": [
+          {
+            "red": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ"
+          },
+          {
+            "black": "بِأَصْحَابِ الْفِيلِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "إبراهيم",
+        "sim_chapter_id": 14,
+        "sim_verse_number": 24,
+        "content": [
+          {
+            "red": "أَلَمْ تَرَ كَيْفَ"
+          },
+          {
+            "black": "ضَرَبَ اللَّـهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ ..."
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الفجر",
+        "sim_chapter_id": 89,
+        "sim_verse_number": 6,
+        "content": [
+          {
+            "red": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ"
+          },
+          {
+            "black": "بِعَادٍ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 6190,
+    "elements": [
+      {
+        "text_uthmani": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+        "name_arabic": "الفيل",
+        "chapter_id": 105,
+        "verse_number": 2,
+        "content": [
+          {
+            "red": "أَلَمْ يَجْعَلْ"
+          }
+        ],
+        "comment": "الوحيدة في القرآن."
+      }
+    ],
+    "spotlights": [
+      "وباقي المواضع: ﴿أَلَمْ نَجْعَلِ﴾, تكررت 3 مرات: [المرسلات: 25, النبأ: 6, البلد: 8]."
+    ]
+  },
+  {
+    "verse_id": 6191,
+    "elements": [
+      {
+        "text_uthmani": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+        "verse_number": 3,
+        "chapter_id": 105,
+        "name_arabic": "الفيل"
+      }
+    ]
+  },
+  {
+    "verse_id": 6192,
+    "elements": [
+      {
+        "text_uthmani": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+        "name_arabic": "الفيل",
+        "chapter_id": 105,
+        "verse_number": 4,
+        "content": [
+          {
+            "dimgray": "تَرْمِيهِم"
+          },
+          {
+            "dimgray": "بِ"
+          },
+          {
+            "red": "حِجَارَةٍ مِّن سِجِّيلٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الذاريات",
+        "sim_chapter_id": 51,
+        "sim_verse_number": 33,
+        "content": [
+          {
+            "dimgray": "لِنُرْسِلَ"
+          },
+          {
+            "red": "عَلَيْهِمْ حِجَارَةً مِّن"
+          },
+          {
+            "dimgray": "طِينٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "هود",
+        "sim_chapter_id": 11,
+        "sim_verse_number": 82,
+        "content": [
+          {
+            "black": "فَلَمَّا جَاءَ أَمْرُنَا جَعَلْنَا عَالِيَهَا سَافِلَهَا"
+          },
+          {
+            "red": "وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن سِجِّيلٍ"
+          },
+          {
+            "black": "مَّنضُودٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحجر",
+        "sim_chapter_id": 15,
+        "sim_verse_number": 74,
+        "content": [
+          {
+            "black": "فَجَعَلْنَا عَالِيَهَا سَافِلَهَا"
+          },
+          {
+            "red": "وَأَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِّن سِجِّيلٍ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 6193,
+    "elements": [
+      {
+        "text_uthmani": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ",
+        "verse_number": 5,
+        "chapter_id": 105,
+        "name_arabic": "الفيل"
+      }
+    ]
+  }
+]

@@ -1,0 +1,759 @@
+[
+  {
+    "verse_id": 5801,
+    "elements": [
+      {
+        "text_uthmani": "إِذَا الشَّمْسُ كُوِّرَتْ",
+        "verse_number": 1,
+        "chapter_id": 81,
+        "name_arabic": "التكوير"
+      }
+    ]
+  },
+  {
+    "verse_id": 5802,
+    "elements": [
+      {
+        "text_uthmani": "وَإِذَا النُّجُومُ انكَدَرَتْ",
+        "name_arabic": "التكوير",
+        "chapter_id": 81,
+        "verse_number": 2,
+        "content": [
+          {
+            "dimgray": "وَ"
+          },
+          {
+            "red": "إِذَا النُّجُومُ"
+          },
+          {
+            "black": "انكَدَرَتْ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المرسلات",
+        "sim_chapter_id": 77,
+        "sim_verse_number": 8,
+        "content": [
+          {
+            "dimgray": "فَ"
+          },
+          {
+            "red": "إِذَا النُّجُومُ"
+          },
+          {
+            "black": "طُمِسَتْ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5803,
+    "elements": [
+      {
+        "text_uthmani": "وَإِذَا الْجِبَالُ سُيِّرَتْ",
+        "verse_number": 3,
+        "chapter_id": 81,
+        "name_arabic": "التكوير"
+      }
+    ]
+  },
+  {
+    "verse_id": 5804,
+    "elements": [
+      {
+        "text_uthmani": "وَإِذَا الْعِشَارُ عُطِّلَتْ",
+        "verse_number": 4,
+        "chapter_id": 81,
+        "name_arabic": "التكوير"
+      }
+    ]
+  },
+  {
+    "verse_id": 5805,
+    "elements": [
+      {
+        "text_uthmani": "وَإِذَا الْوُحُوشُ حُشِرَتْ",
+        "verse_number": 5,
+        "chapter_id": 81,
+        "name_arabic": "التكوير"
+      }
+    ]
+  },
+  {
+    "verse_id": 5806,
+    "elements": [
+      {
+        "text_uthmani": "وَإِذَا الْبِحَارُ سُجِّرَتْ",
+        "name_arabic": "التكوير",
+        "chapter_id": 81,
+        "verse_number": 6,
+        "content": [
+          {
+            "red": "وَإِذَا الْبِحَارُ"
+          },
+          {
+            "black": "سُجِّرَتْ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الانفطار",
+        "sim_chapter_id": 82,
+        "sim_verse_number": 3,
+        "content": [
+          {
+            "red": "وَإِذَا الْبِحَارُ"
+          },
+          {
+            "black": "فُجِّرَتْ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "ما وجه التعبير بقوله: ﴿سُجِّرَتْ﴾ بموضع التكوير, وبقوله: ﴿فُجِّرَتْ﴾ بموضع الانفطار؟ الجواب: في التكوير: ﴿سُجِّرَتْ﴾؛ لتناسب: ﴿وَإِذَا الْجَحِيمُ سُعِّرَتْ﴾ [التكوير: 12], قيل: تسجر فتصير نارًا, فتسجر بها جهنم, وآية الانفطار: ﴿فُجِّرَتْ﴾؛ مناسبة لبقية الآيات؛ لأن معناه: تغيير أوصاف تلك الأشياء عن حالاتها, وتنقلها عن أماكنها؛ فناسب ذلك انفجار البحار؛ لتغيرها عن حالها مع بقائها."
+    ]
+  },
+  {
+    "verse_id": 5807,
+    "elements": [
+      {
+        "text_uthmani": "وَإِذَا النُّفُوسُ زُوِّجَتْ",
+        "verse_number": 7,
+        "chapter_id": 81,
+        "name_arabic": "التكوير"
+      }
+    ]
+  },
+  {
+    "verse_id": 5808,
+    "elements": [
+      {
+        "text_uthmani": "وَإِذَا الْمَوْؤُودَةُ سُئِلَتْ",
+        "verse_number": 8,
+        "chapter_id": 81,
+        "name_arabic": "التكوير"
+      }
+    ]
+  },
+  {
+    "verse_id": 5809,
+    "elements": [
+      {
+        "text_uthmani": "بِأَيِّ ذَنبٍ قُتِلَتْ",
+        "verse_number": 9,
+        "chapter_id": 81,
+        "name_arabic": "التكوير"
+      }
+    ]
+  },
+  {
+    "verse_id": 5810,
+    "elements": [
+      {
+        "text_uthmani": "وَإِذَا الصُّحُفُ نُشِرَتْ",
+        "verse_number": 10,
+        "chapter_id": 81,
+        "name_arabic": "التكوير"
+      }
+    ]
+  },
+  {
+    "verse_id": 5811,
+    "elements": [
+      {
+        "text_uthmani": "وَإِذَا السَّمَاء كُشِطَتْ",
+        "verse_number": 11,
+        "chapter_id": 81,
+        "name_arabic": "التكوير"
+      }
+    ]
+  },
+  {
+    "verse_id": 5812,
+    "elements": [
+      {
+        "text_uthmani": "وَإِذَا الْجَحِيمُ سُعِّرَتْ",
+        "verse_number": 12,
+        "chapter_id": 81,
+        "name_arabic": "التكوير"
+      }
+    ]
+  },
+  {
+    "verse_id": 5813,
+    "elements": [
+      {
+        "text_uthmani": "وَإِذَا الْجَنَّةُ أُزْلِفَتْ",
+        "name_arabic": "التكوير",
+        "chapter_id": 81,
+        "verse_number": 13,
+        "content": [
+          {
+            "red": "وَإِذَا الْجَنَّةُ أُزْلِفَتْ"
+          }
+        ],
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "الشعراء",
+        "sim_chapter_id": 26,
+        "sim_verse_number": 90,
+        "content": [
+          {
+            "red": "وَأُزْلِفَتِ الْجَنَّةُ"
+          },
+          {
+            "black": "لِلْمُتَّقِينَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "ق",
+        "sim_chapter_id": 50,
+        "sim_verse_number": 31,
+        "content": [
+          {
+            "red": "وَأُزْلِفَتِ الْجَنَّةُ"
+          },
+          {
+            "black": "لِلْمُتَّقِينَ غَيْرَ بَعِيدٍ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5814,
+    "elements": [
+      {
+        "text_uthmani": "عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ",
+        "name_arabic": "التكوير",
+        "chapter_id": 81,
+        "verse_number": 14,
+        "content": [
+          {
+            "red": "عَلِمَتْ نَفْسٌ مَّا"
+          },
+          {
+            "black": "أَحْضَرَتْ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الانفطار",
+        "sim_chapter_id": 82,
+        "sim_verse_number": 5,
+        "content": [
+          {
+            "red": "عَلِمَتْ نَفْسٌ مَّا"
+          },
+          {
+            "black": "قَدَّمَتْ وَأَخَّرَتْ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5815,
+    "elements": [
+      {
+        "text_uthmani": "فَلَا أُقْسِمُ بِالْخُنَّسِ",
+        "name_arabic": "التكوير",
+        "chapter_id": 81,
+        "verse_number": 15,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِالْخُنَّسِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 75,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِمَوَاقِعِ النُّجُومِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحاقة",
+        "sim_chapter_id": 69,
+        "sim_verse_number": 38,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِمَا تُبْصِرُونَ * وَمَا لَا تُبْصِرُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المعارج",
+        "sim_chapter_id": 70,
+        "sim_verse_number": 40,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِرَبِّ الْمَشَارِقِ وَالْمَغَارِبِ إِنَّا لَقَادِرُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الانشقاق",
+        "sim_chapter_id": 84,
+        "sim_verse_number": 16,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِالشَّفَقِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القيامة",
+        "sim_chapter_id": 75,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "لَا أُقْسِمُ"
+          },
+          {
+            "black": "بِيَوْمِ الْقِيَامَةِ"
+          },
+          {
+            "dimgray": "* وَ"
+          },
+          {
+            "red": "لَا أُقْسِمُ"
+          },
+          {
+            "black": "بِالنَّفْسِ اللَّوَّامَةِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "البلد",
+        "sim_chapter_id": 90,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "لَا أُقْسِمُ"
+          },
+          {
+            "black": "بِهَـٰذَا الْبَلَدِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5816,
+    "elements": [
+      {
+        "text_uthmani": "الْجَوَارِ الْكُنَّسِ",
+        "verse_number": 16,
+        "chapter_id": 81,
+        "name_arabic": "التكوير"
+      }
+    ]
+  },
+  {
+    "verse_id": 5817,
+    "elements": [
+      {
+        "text_uthmani": "وَاللَّيْلِ إِذَا عَسْعَسَ",
+        "name_arabic": "التكوير",
+        "chapter_id": 81,
+        "verse_number": 17,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "عَسْعَسَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المدثر",
+        "sim_chapter_id": 74,
+        "sim_verse_number": 33,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ"
+          },
+          {
+            "dimgray": "إِذْ"
+          },
+          {
+            "black": "أَدْبَرَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الفجر",
+        "sim_chapter_id": 89,
+        "sim_verse_number": 4,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "يَسْرِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الشمس",
+        "sim_chapter_id": 91,
+        "sim_verse_number": 4,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "يَغْشَاهَا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الليل",
+        "sim_chapter_id": 92,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "يَغْشَىٰ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الضحى",
+        "sim_chapter_id": 93,
+        "sim_verse_number": 2,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "سَجَىٰ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5818,
+    "elements": [
+      {
+        "text_uthmani": "وَالصُّبْحِ إِذَا تَنَفَّسَ",
+        "verse_number": 18,
+        "chapter_id": 81,
+        "name_arabic": "التكوير"
+      }
+    ]
+  },
+  {
+    "verse_id": 5819,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+        "name_arabic": "التكوير",
+        "chapter_id": 81,
+        "verse_number": 19,
+        "content": [
+          {
+            "red": "إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحاقة",
+        "sim_chapter_id": 69,
+        "sim_verse_number": 40,
+        "content": [
+          {
+            "red": "إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5820,
+    "elements": [
+      {
+        "text_uthmani": "ذِي قُوَّةٍ عِندَ ذِي الْعَرْشِ مَكِينٍ",
+        "verse_number": 20,
+        "chapter_id": 81,
+        "name_arabic": "التكوير"
+      }
+    ]
+  },
+  {
+    "verse_id": 5821,
+    "elements": [
+      {
+        "text_uthmani": "مُطَاعٍ ثَمَّ أَمِينٍ",
+        "verse_number": 21,
+        "chapter_id": 81,
+        "name_arabic": "التكوير"
+      }
+    ]
+  },
+  {
+    "verse_id": 5822,
+    "elements": [
+      {
+        "text_uthmani": "وَمَا صَاحِبُكُم بِمَجْنُونٍ",
+        "verse_number": 22,
+        "chapter_id": 81,
+        "name_arabic": "التكوير"
+      }
+    ]
+  },
+  {
+    "verse_id": 5823,
+    "elements": [
+      {
+        "text_uthmani": "وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ",
+        "verse_number": 23,
+        "chapter_id": 81,
+        "name_arabic": "التكوير"
+      }
+    ]
+  },
+  {
+    "verse_id": 5824,
+    "elements": [
+      {
+        "text_uthmani": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ",
+        "verse_number": 24,
+        "chapter_id": 81,
+        "name_arabic": "التكوير"
+      }
+    ]
+  },
+  {
+    "verse_id": 5825,
+    "elements": [
+      {
+        "text_uthmani": "وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَجِيمٍ",
+        "name_arabic": "التكوير",
+        "chapter_id": 81,
+        "verse_number": 25,
+        "content": [
+          {
+            "black": "وَمَا هُوَ بِقَوْلِ"
+          },
+          {
+            "red": "شَيْطَانٍ رَّجِيمٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "آل عمران",
+        "sim_chapter_id": 3,
+        "sim_verse_number": 36,
+        "content": [
+          {
+            "black": "... وَإِنِّي سَمَّيْتُهَا مَرْيَمَ وَإِنِّي أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ"
+          },
+          {
+            "red": "الشَّيْطَانِ الرَّجِيمِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "النحل",
+        "sim_chapter_id": 16,
+        "sim_verse_number": 98,
+        "content": [
+          {
+            "black": "فَإِذَا قَرَأْتَ الْقُرْآنَ فَاسْتَعِذْ بِاللَّـهِ مِنَ"
+          },
+          {
+            "red": "الشَّيْطَانِ الرَّجِيمِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحجر",
+        "sim_chapter_id": 15,
+        "sim_verse_number": 17,
+        "content": [
+          {
+            "black": "وَحَفِظْنَاهَا مِن كُلِّ"
+          },
+          {
+            "red": "شَيْطَانٍ رَّجِيمٍ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5826,
+    "elements": [
+      {
+        "text_uthmani": "فَأَيْنَ تَذْهَبُونَ",
+        "verse_number": 26,
+        "chapter_id": 81,
+        "name_arabic": "التكوير"
+      }
+    ]
+  },
+  {
+    "verse_id": 5827,
+    "elements": [
+      {
+        "text_uthmani": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ",
+        "name_arabic": "التكوير",
+        "chapter_id": 81,
+        "verse_number": 27,
+        "content": [
+          {
+            "red": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الأنعام",
+        "sim_chapter_id": 6,
+        "sim_verse_number": 90,
+        "content": [
+          {
+            "black": "... قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا ۖ"
+          },
+          {
+            "red": "إِنْ هُوَ إِلَّا"
+          },
+          {
+            "black": "ذِكْرَىٰ"
+          },
+          {
+            "red": "لِلْعَالَمِينَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القلم",
+        "sim_chapter_id": 68,
+        "sim_verse_number": 52,
+        "content": [
+          {
+            "dimgray": "وَمَا"
+          },
+          {
+            "red": "هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "يس",
+        "sim_chapter_id": 36,
+        "sim_verse_number": 69,
+        "content": [
+          {
+            "black": "وَمَا عَلَّمْنَاهُ الشِّعْرَ وَمَا يَنبَغِي لَهُ ۚ"
+          },
+          {
+            "red": "إِنْ هُوَ إِلَّا ذِكْرٌ"
+          },
+          {
+            "black": "وَقُرْآنٌ مُّبِينٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "يوسف",
+        "sim_chapter_id": 12,
+        "sim_verse_number": 104,
+        "content": [
+          {
+            "black": "وَمَا تَسْأَلُهُمْ عَلَيْهِ مِنْ أَجْرٍ ۚ"
+          },
+          {
+            "red": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "ص",
+        "sim_chapter_id": 38,
+        "sim_verse_number": 87,
+        "content": [
+          {
+            "red": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "كل آية فيها ذِكْر: (إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ) فهي بهذا اللفظ: (إِنْ هُوَ), ما عدا موضع القلم: (وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ).",
+      "كل آية فيها ذِكْر: (ذِكْرٌ لِّلْعَالَمِينَ) فهي بهذا اللفظ: (ذِكْرٌ), ما عدا موضع الأنعام: (ذِكْرَىٰ لِلْعَالَمِينَ)."
+    ]
+  },
+  {
+    "verse_id": 5828,
+    "elements": [
+      {
+        "text_uthmani": "لِمَن شَاء مِنكُمْ أَن يَسْتَقِيمَ",
+        "verse_number": 28,
+        "chapter_id": 81,
+        "name_arabic": "التكوير"
+      }
+    ]
+  },
+  {
+    "verse_id": 5829,
+    "elements": [
+      {
+        "text_uthmani": "وَمَا تَشَاؤُونَ إِلَّا أَن يَشَاء اللَّهُ رَبُّ الْعَالَمِينَ",
+        "name_arabic": "التكوير",
+        "chapter_id": 81,
+        "verse_number": 29,
+        "content": [
+          {
+            "red": "وَمَا تَشَاءُونَ إِلَّا أَن يَشَاءَ اللَّـهُ"
+          },
+          {
+            "black": "رَبُّ الْعَالَمِينَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الإنسان",
+        "sim_chapter_id": 76,
+        "sim_verse_number": 30,
+        "content": [
+          {
+            "red": "وَمَا تَشَاءُونَ إِلَّا أَن يَشَاءَ اللَّـهُ"
+          },
+          {
+            "black": "ۚ إِنَّ اللَّـهَ كَانَ عَلِيمًا حَكِيمًا"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "verse_id": 6226,
+    "elements": [
+      {
+        "text_uthmani": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+        "name_arabic": "الفلق",
+        "chapter_id": 113,
+        "verse_number": 1,
+        "content": [
+          {
+            "red": "قُلْ أَعُوذُ بِرَبِّ"
+          },
+          {
+            "dimgray": "الْفَلَقِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الناس",
+        "sim_chapter_id": 114,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "قُلْ أَعُوذُ بِرَبِّ"
+          },
+          {
+            "dimgray": "النَّاسِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 6227,
+    "elements": [
+      {
+        "text_uthmani": "مِن شَرِّ مَا خَلَقَ",
+        "verse_number": 2,
+        "chapter_id": 113,
+        "name_arabic": "الفلق"
+      }
+    ]
+  },
+  {
+    "verse_id": 6228,
+    "elements": [
+      {
+        "text_uthmani": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+        "verse_number": 3,
+        "chapter_id": 113,
+        "name_arabic": "الفلق"
+      }
+    ]
+  },
+  {
+    "verse_id": 6229,
+    "elements": [
+      {
+        "text_uthmani": "وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+        "verse_number": 4,
+        "chapter_id": 113,
+        "name_arabic": "الفلق"
+      }
+    ]
+  },
+  {
+    "verse_id": 6230,
+    "elements": [
+      {
+        "text_uthmani": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+        "verse_number": 5,
+        "chapter_id": 113,
+        "name_arabic": "الفلق"
+      }
+    ]
+  }
+]

@@ -1,0 +1,574 @@
+[
+  {
+    "verse_id": 5994,
+    "elements": [
+      {
+        "text_uthmani": "وَالْفَجْرِ",
+        "verse_number": 1,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5995,
+    "elements": [
+      {
+        "text_uthmani": "وَلَيَالٍ عَشْرٍ",
+        "verse_number": 2,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5996,
+    "elements": [
+      {
+        "text_uthmani": "وَالشَّفْعِ وَالْوَتْرِ",
+        "verse_number": 3,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5997,
+    "elements": [
+      {
+        "text_uthmani": "وَاللَّيْلِ إِذَا يَسْرِ",
+        "name_arabic": "الفجر",
+        "chapter_id": 89,
+        "verse_number": 4,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "يَسْرِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المدثر",
+        "sim_chapter_id": 74,
+        "sim_verse_number": 33,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ"
+          },
+          {
+            "dimgray": "إِذْ"
+          },
+          {
+            "black": "أَدْبَرَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "التكوير",
+        "sim_chapter_id": 81,
+        "sim_verse_number": 17,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "عَسْعَسَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الشمس",
+        "sim_chapter_id": 91,
+        "sim_verse_number": 4,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "يَغْشَاهَا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الليل",
+        "sim_chapter_id": 92,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "يَغْشَىٰ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الضحى",
+        "sim_chapter_id": 93,
+        "sim_verse_number": 2,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "سَجَىٰ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5998,
+    "elements": [
+      {
+        "text_uthmani": "هَلْ فِي ذَلِكَ قَسَمٌ لِّذِي حِجْرٍ",
+        "verse_number": 5,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  },
+  {
+    "verse_id": 5999,
+    "elements": [
+      {
+        "text_uthmani": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+        "name_arabic": "الفجر",
+        "chapter_id": 89,
+        "verse_number": 6,
+        "content": [
+          {
+            "red": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ"
+          },
+          {
+            "black": "بِعَادٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "إبراهيم",
+        "sim_chapter_id": 14,
+        "sim_verse_number": 24,
+        "content": [
+          {
+            "red": "أَلَمْ تَرَ كَيْفَ"
+          },
+          {
+            "black": "ضَرَبَ اللَّـهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ ..."
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الفيل",
+        "sim_chapter_id": 105,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ"
+          },
+          {
+            "black": "بِأَصْحَابِ الْفِيلِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 6000,
+    "elements": [
+      {
+        "text_uthmani": "إِرَمَ ذَاتِ الْعِمَادِ",
+        "verse_number": 7,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  },
+  {
+    "verse_id": 6001,
+    "elements": [
+      {
+        "text_uthmani": "الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ",
+        "verse_number": 8,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  },
+  {
+    "verse_id": 6002,
+    "elements": [
+      {
+        "text_uthmani": "وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ",
+        "verse_number": 9,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  },
+  {
+    "verse_id": 6003,
+    "elements": [
+      {
+        "text_uthmani": "وَفِرْعَوْنَ ذِي الْأَوْتَادِ",
+        "name_arabic": "الفجر",
+        "chapter_id": 89,
+        "verse_number": 10,
+        "content": [
+          {
+            "red": "وَفِرْعَوْنَ"
+          },
+          {
+            "black": "ذِي"
+          },
+          {
+            "red": "الْأَوْتَادِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "ص",
+        "sim_chapter_id": 38,
+        "sim_verse_number": 12,
+        "content": [
+          {
+            "black": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَعَادٌ"
+          },
+          {
+            "red": "وَفِرْعَوْنُ"
+          },
+          {
+            "black": "ذُو"
+          },
+          {
+            "red": "الْأَوْتَادِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 6004,
+    "elements": [
+      {
+        "text_uthmani": "الَّذِينَ طَغَوْا فِي الْبِلَادِ",
+        "verse_number": 11,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  },
+  {
+    "verse_id": 6005,
+    "elements": [
+      {
+        "text_uthmani": "فَأَكْثَرُوا فِيهَا الْفَسَادَ",
+        "verse_number": 12,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  },
+  {
+    "verse_id": 6006,
+    "elements": [
+      {
+        "text_uthmani": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+        "verse_number": 13,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  },
+  {
+    "verse_id": 6007,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّ رَبَّكَ لَبِالْمِرْصَادِ",
+        "verse_number": 14,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  },
+  {
+    "verse_id": 6008,
+    "elements": [
+      {
+        "text_uthmani": "فَأَمَّا الْإِنسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ",
+        "name_arabic": "الفجر",
+        "chapter_id": 89,
+        "verse_number": 15,
+        "content": [
+          {
+            "dimgray": "فَ"
+          },
+          {
+            "red": "أَمَّا"
+          },
+          {
+            "black": "الْإِنسَانُ"
+          },
+          {
+            "red": "إِذَا مَا ابْتَلَاهُ"
+          },
+          {
+            "dimgray": "رَبُّهُ"
+          },
+          {
+            "black": "فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الفجر",
+        "sim_chapter_id": 89,
+        "sim_verse_number": 16,
+        "content": [
+          {
+            "dimgray": "وَ"
+          },
+          {
+            "red": "أَمَّا إِذَا مَا ابْتَلَاهُ"
+          },
+          {
+            "black": "فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 6009,
+    "elements": [
+      {
+        "text_uthmani": "وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ",
+        "name_arabic": "الفجر",
+        "chapter_id": 89,
+        "verse_number": 16,
+        "content": [
+          {
+            "dimgray": "وَ"
+          },
+          {
+            "red": "أَمَّا إِذَا مَا ابْتَلَاهُ"
+          },
+          {
+            "black": "فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الفجر",
+        "sim_chapter_id": 89,
+        "sim_verse_number": 15,
+        "content": [
+          {
+            "dimgray": "فَ"
+          },
+          {
+            "red": "أَمَّا"
+          },
+          {
+            "black": "الْإِنسَانُ"
+          },
+          {
+            "red": "إِذَا مَا ابْتَلَاهُ"
+          },
+          {
+            "dimgray": "رَبُّهُ"
+          },
+          {
+            "black": "فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 6010,
+    "elements": [
+      {
+        "text_uthmani": "كَلَّا بَل لَّا تُكْرِمُونَ الْيَتِيمَ",
+        "verse_number": 17,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  },
+  {
+    "verse_id": 6011,
+    "elements": [
+      {
+        "text_uthmani": "وَلَا تَحَاضُّونَ عَلَى طَعَامِ الْمِسْكِينِ",
+        "verse_number": 18,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  },
+  {
+    "verse_id": 6012,
+    "elements": [
+      {
+        "text_uthmani": "وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَّمًّا",
+        "verse_number": 19,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  },
+  {
+    "verse_id": 6013,
+    "elements": [
+      {
+        "text_uthmani": "وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا",
+        "verse_number": 20,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  },
+  {
+    "verse_id": 6014,
+    "elements": [
+      {
+        "text_uthmani": "كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا",
+        "verse_number": 21,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  },
+  {
+    "verse_id": 6015,
+    "elements": [
+      {
+        "text_uthmani": "وَجَاء رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا",
+        "verse_number": 22,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  },
+  {
+    "verse_id": 6016,
+    "elements": [
+      {
+        "text_uthmani": "وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنسَانُ وَأَنَّى لَهُ الذِّكْرَى",
+        "name_arabic": "الفجر",
+        "chapter_id": 89,
+        "verse_number": 23,
+        "content": [
+          {
+            "black": "..."
+          },
+          {
+            "red": "يَوْمَ"
+          },
+          {
+            "dimgray": "ئِذٍ"
+          },
+          {
+            "red": "يَتَذَكَّرُ الْإِنسَانُ"
+          },
+          {
+            "black": "وَأَنَّىٰ لَهُ الذِّكْرَىٰ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "النازعات",
+        "sim_chapter_id": 79,
+        "sim_verse_number": 35,
+        "content": [
+          {
+            "red": "يَوْمَ يَتَذَكَّرُ الْإِنسَانُ"
+          },
+          {
+            "black": "مَا سَعَىٰ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 6017,
+    "elements": [
+      {
+        "text_uthmani": "يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي",
+        "verse_number": 24,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  },
+  {
+    "verse_id": 6018,
+    "elements": [
+      {
+        "text_uthmani": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُ أَحَدٌ",
+        "verse_number": 25,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  },
+  {
+    "verse_id": 6019,
+    "elements": [
+      {
+        "text_uthmani": "وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ",
+        "verse_number": 26,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  },
+  {
+    "verse_id": 6020,
+    "elements": [
+      {
+        "text_uthmani": "يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ",
+        "verse_number": 27,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  },
+  {
+    "verse_id": 6021,
+    "elements": [
+      {
+        "text_uthmani": "ارْجِعِي إِلَى رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
+        "verse_number": 28,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  },
+  {
+    "verse_id": 6022,
+    "elements": [
+      {
+        "text_uthmani": "فَادْخُلِي فِي عِبَادِي",
+        "verse_number": 29,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  },
+  {
+    "verse_id": 6023,
+    "elements": [
+      {
+        "text_uthmani": "وَادْخُلِي جَنَّتِي",
+        "verse_number": 30,
+        "chapter_id": 89,
+        "name_arabic": "الفجر"
+      }
+    ]
+  }
+]

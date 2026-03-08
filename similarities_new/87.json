@@ -1,0 +1,454 @@
+[
+  {
+    "verse_id": 5949,
+    "elements": [
+      {
+        "text_uthmani": "سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+        "name_arabic": "الأعلى",
+        "chapter_id": 87,
+        "verse_number": 1,
+        "content": [
+          {
+            "red": "سَبِّحِ اسْمَ رَبِّكَ"
+          },
+          {
+            "dimgray": "الْأَعْلَى"
+          }
+        ],
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 74,
+        "content": [
+          {
+            "red": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 96,
+        "content": [
+          {
+            "red": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحاقة",
+        "sim_chapter_id": 69,
+        "sim_verse_number": 52,
+        "content": [
+          {
+            "red": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ"
+          }
+        ]
+      }
+    ],
+    "opening": [
+      "كيف نفرق بين: (يسبح) و(سبح) في بداية السورة؟ الجواب: إذا كان الحرف الأول من اسم السورة فيه نقط؛ فإنها تبدأ بـ (يسبح), ومثاله: سورة التغابن تبدأ بحرف التاء, وهي تبدأ بـ (يسبح)."
+    ]
+  },
+  {
+    "verse_id": 5950,
+    "elements": [
+      {
+        "text_uthmani": "الَّذِي خَلَقَ فَسَوَّى",
+        "verse_number": 2,
+        "chapter_id": 87,
+        "name_arabic": "الأعلى"
+      }
+    ]
+  },
+  {
+    "verse_id": 5951,
+    "elements": [
+      {
+        "text_uthmani": "وَالَّذِي قَدَّرَ فَهَدَى",
+        "verse_number": 3,
+        "chapter_id": 87,
+        "name_arabic": "الأعلى"
+      }
+    ]
+  },
+  {
+    "verse_id": 5952,
+    "elements": [
+      {
+        "text_uthmani": "وَالَّذِي أَخْرَجَ الْمَرْعَى",
+        "verse_number": 4,
+        "chapter_id": 87,
+        "name_arabic": "الأعلى"
+      }
+    ]
+  },
+  {
+    "verse_id": 5953,
+    "elements": [
+      {
+        "text_uthmani": "فَجَعَلَهُ غُثَاء أَحْوَى",
+        "verse_number": 5,
+        "chapter_id": 87,
+        "name_arabic": "الأعلى"
+      }
+    ]
+  },
+  {
+    "verse_id": 5954,
+    "elements": [
+      {
+        "text_uthmani": "سَنُقْرِؤُكَ فَلَا تَنسَى",
+        "verse_number": 6,
+        "chapter_id": 87,
+        "name_arabic": "الأعلى"
+      }
+    ]
+  },
+  {
+    "verse_id": 5955,
+    "elements": [
+      {
+        "text_uthmani": "إِلَّا مَا شَاء اللَّهُ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَى",
+        "name_arabic": "الأعلى",
+        "chapter_id": 87,
+        "verse_number": 7,
+        "content": [
+          {
+            "red": "إِلَّا مَا شَاءَ اللَّـهُ"
+          },
+          {
+            "black": "ۚ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الأنعام",
+        "sim_chapter_id": 6,
+        "sim_verse_number": 128,
+        "content": [
+          {
+            "black": "... قَالَ النَّارُ مَثْوَاكُمْ خَالِدِينَ فِيهَا"
+          },
+          {
+            "red": "إِلَّا مَا شَاءَ اللَّـهُ"
+          },
+          {
+            "black": "..."
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الأعراف",
+        "sim_chapter_id": 7,
+        "sim_verse_number": 188,
+        "content": [
+          {
+            "black": "قُل لَّا أَمْلِكُ لِنَفْسِي نَفْعًا وَلَا ضَرًّا"
+          },
+          {
+            "red": "إِلَّا مَا شَاءَ اللَّـهُ"
+          },
+          {
+            "black": "..."
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "يونس",
+        "sim_chapter_id": 10,
+        "sim_verse_number": 49,
+        "content": [
+          {
+            "black": "قُل لَّا أَمْلِكُ لِنَفْسِي ضَرًّا وَلَا نَفْعًا"
+          },
+          {
+            "red": "إِلَّا مَا شَاءَ اللَّـهُ"
+          },
+          {
+            "black": "..."
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "هود",
+        "sim_chapter_id": 11,
+        "sim_verse_number": 107,
+        "content": [
+          {
+            "black": "خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالْأَرْضُ"
+          },
+          {
+            "red": "إِلَّا مَا شَاءَ رَبُّكَ"
+          },
+          {
+            "black": "..."
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "هود",
+        "sim_chapter_id": 11,
+        "sim_verse_number": 108,
+        "content": [
+          {
+            "black": "... خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالْأَرْضُ"
+          },
+          {
+            "red": "إِلَّا مَا شَاءَ رَبُّكَ"
+          },
+          {
+            "black": "ۖ عَطَاءً غَيْرَ مَجْذُوذٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "طه",
+        "sim_chapter_id": 20,
+        "sim_verse_number": 7,
+        "content": [
+          {
+            "black": "وَإِن تَجْهَرْ بِالْقَوْلِ"
+          },
+          {
+            "red": "فَإِنَّهُ يَعْلَمُ"
+          },
+          {
+            "dimgray": "السِّرَّ"
+          },
+          {
+            "red": "وَأَخْفَى"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الأعلى",
+        "sim_chapter_id": 87,
+        "sim_verse_number": 7,
+        "content": [
+          {
+            "black": "إِلَّا مَا شَاءَ اللَّـهُ ۚ"
+          },
+          {
+            "mediumblue": "إِنَّهُ يَعْلَمُ الْجَهْرَ"
+          },
+          {
+            "dimgray": "وَمَا"
+          },
+          {
+            "red": "يَخْفَىٰ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الأنبياء",
+        "sim_chapter_id": 21,
+        "sim_verse_number": 110,
+        "content": [
+          {
+            "gold": "إِنَّهُ يَعْلَمُ الْجَهْرَ"
+          },
+          {
+            "black": "مِنَ الْقَوْلِ وَيَعْلَمُ مَا تَكْتُمُونَ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5956,
+    "elements": [
+      {
+        "text_uthmani": "وَنُيَسِّرُكَ لِلْيُسْرَى",
+        "verse_number": 8,
+        "chapter_id": 87,
+        "name_arabic": "الأعلى"
+      }
+    ]
+  },
+  {
+    "verse_id": 5957,
+    "elements": [
+      {
+        "text_uthmani": "فَذَكِّرْ إِن نَّفَعَتِ الذِّكْرَى",
+        "sim_chapter_name": "",
+        "verse_number": 9,
+        "chapter_id": 87,
+        "name_arabic": "الأعلى"
+      }
+    ],
+    "spotlights": [
+      "وباقي المواضع: ﴿فَذَكِّرْ﴾, تكررت 4 مرات: [ق: 45, الطور: 29, الأعلى: 9, الغاشية: 21].",
+      "﴿وَذَكِّرْ﴾ تكررت مرتين: [الأنعام: 70, الذاريات: 55]."
+    ]
+  },
+  {
+    "verse_id": 5958,
+    "elements": [
+      {
+        "text_uthmani": "سَيَذَّكَّرُ مَن يَخْشَى",
+        "verse_number": 10,
+        "chapter_id": 87,
+        "name_arabic": "الأعلى"
+      }
+    ]
+  },
+  {
+    "verse_id": 5959,
+    "elements": [
+      {
+        "text_uthmani": "وَيَتَجَنَّبُهَا الْأَشْقَى",
+        "name_arabic": "الأعلى",
+        "chapter_id": 87,
+        "verse_number": 11,
+        "content": [
+          {
+            "red": "وَيَتَجَنَّبُهَا الْأَشْقَى"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الليل",
+        "sim_chapter_id": 92,
+        "sim_verse_number": 17,
+        "content": [
+          {
+            "red": "وَسَيُجَنَّبُهَا الْأَتْقَى"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5960,
+    "elements": [
+      {
+        "text_uthmani": "الَّذِي يَصْلَى النَّارَ الْكُبْرَى",
+        "verse_number": 12,
+        "chapter_id": 87,
+        "name_arabic": "الأعلى"
+      }
+    ]
+  },
+  {
+    "verse_id": 5961,
+    "elements": [
+      {
+        "text_uthmani": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَى",
+        "verse_number": 13,
+        "chapter_id": 87,
+        "name_arabic": "الأعلى"
+      }
+    ]
+  },
+  {
+    "verse_id": 5962,
+    "elements": [
+      {
+        "text_uthmani": "قَدْ أَفْلَحَ مَن تَزَكَّى",
+        "name_arabic": "الأعلى",
+        "chapter_id": 87,
+        "verse_number": 14,
+        "content": [
+          {
+            "red": "قَدْ أَفْلَحَ مَن"
+          },
+          {
+            "dimgray": "تَزَكَّىٰ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الشمس",
+        "sim_chapter_id": 91,
+        "sim_verse_number": 9,
+        "content": [
+          {
+            "red": "قَدْ أَفْلَحَ مَن"
+          },
+          {
+            "dimgray": "زَكَّاهَا"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5963,
+    "elements": [
+      {
+        "text_uthmani": "وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّى",
+        "verse_number": 15,
+        "chapter_id": 87,
+        "name_arabic": "الأعلى"
+      }
+    ]
+  },
+  {
+    "verse_id": 5964,
+    "elements": [
+      {
+        "text_uthmani": "بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا",
+        "verse_number": 16,
+        "chapter_id": 87,
+        "name_arabic": "الأعلى"
+      }
+    ]
+  },
+  {
+    "verse_id": 5965,
+    "elements": [
+      {
+        "text_uthmani": "وَالْآخِرَةُ خَيْرٌ وَأَبْقَى",
+        "verse_number": 17,
+        "chapter_id": 87,
+        "name_arabic": "الأعلى"
+      }
+    ]
+  },
+  {
+    "verse_id": 5966,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّ هَذَا لَفِي الصُّحُفِ الْأُولَى",
+        "verse_number": 18,
+        "chapter_id": 87,
+        "name_arabic": "الأعلى"
+      }
+    ]
+  },
+  {
+    "verse_id": 5967,
+    "elements": [
+      {
+        "text_uthmani": "صُحُفِ إِبْرَاهِيمَ وَمُوسَى",
+        "name_arabic": "الأعلى",
+        "chapter_id": 87,
+        "verse_number": 19,
+        "content": [
+          {
+            "red": "صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "النجم",
+        "sim_chapter_id": 53,
+        "sim_verse_number": 36,
+        "content": [
+          {
+            "black": "أَمْ لَمْ يُنَبَّأْ بِمَا فِي"
+          },
+          {
+            "red": "صُحُفِ مُوسَىٰ * وَإِبْرَاهِيمَ"
+          },
+          {
+            "black": "الَّذِي وَفَّىٰ"
+          }
+        ]
+      }
+    ]
+  }
+]

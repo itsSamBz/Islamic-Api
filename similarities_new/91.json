@@ -1,0 +1,346 @@
+[
+  {
+    "verse_id": 6044,
+    "elements": [
+      {
+        "text_uthmani": "وَالشَّمْسِ وَضُحَاهَا",
+        "verse_number": 1,
+        "chapter_id": 91,
+        "name_arabic": "الشمس"
+      }
+    ]
+  },
+  {
+    "verse_id": 6045,
+    "elements": [
+      {
+        "text_uthmani": "وَالْقَمَرِ إِذَا تَلَاهَا",
+        "verse_number": 2,
+        "chapter_id": 91,
+        "name_arabic": "الشمس"
+      }
+    ]
+  },
+  {
+    "verse_id": 6046,
+    "elements": [
+      {
+        "text_uthmani": "وَالنَّهَارِ إِذَا جَلَّاهَا",
+        "verse_number": 3,
+        "chapter_id": 91,
+        "name_arabic": "الشمس"
+      }
+    ]
+  },
+  {
+    "verse_id": 6047,
+    "elements": [
+      {
+        "text_uthmani": "وَاللَّيْلِ إِذَا يَغْشَاهَا",
+        "name_arabic": "الشمس",
+        "chapter_id": 91,
+        "verse_number": 4,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "dimgray": "يَغْشَاهَا"
+          }
+        ],
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "الليل",
+        "sim_chapter_id": 92,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "dimgray": "يَغْشَىٰ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المدثر",
+        "sim_chapter_id": 74,
+        "sim_verse_number": 33,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ"
+          },
+          {
+            "dimgray": "إِذْ"
+          },
+          {
+            "black": "أَدْبَرَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "التكوير",
+        "sim_chapter_id": 81,
+        "sim_verse_number": 17,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "عَسْعَسَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الفجر",
+        "sim_chapter_id": 89,
+        "sim_verse_number": 4,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "يَسْرِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الشمس",
+        "sim_chapter_id": 91,
+        "sim_verse_number": 4,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "يَغْشَاهَا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الليل",
+        "sim_chapter_id": 92,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "يَغْشَىٰ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الضحى",
+        "sim_chapter_id": 93,
+        "sim_verse_number": 2,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "سَجَىٰ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 6048,
+    "elements": [
+      {
+        "text_uthmani": "وَالسَّمَاء وَمَا بَنَاهَا",
+        "verse_number": 5,
+        "chapter_id": 91,
+        "name_arabic": "الشمس"
+      }
+    ]
+  },
+  {
+    "verse_id": 6049,
+    "elements": [
+      {
+        "text_uthmani": "وَالْأَرْضِ وَمَا طَحَاهَا",
+        "verse_number": 6,
+        "chapter_id": 91,
+        "name_arabic": "الشمس"
+      }
+    ]
+  },
+  {
+    "verse_id": 6050,
+    "elements": [
+      {
+        "text_uthmani": "وَنَفْسٍ وَمَا سَوَّاهَا",
+        "verse_number": 7,
+        "chapter_id": 91,
+        "name_arabic": "الشمس"
+      }
+    ]
+  },
+  {
+    "verse_id": 6051,
+    "elements": [
+      {
+        "text_uthmani": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا",
+        "verse_number": 8,
+        "chapter_id": 91,
+        "name_arabic": "الشمس"
+      }
+    ]
+  },
+  {
+    "verse_id": 6052,
+    "elements": [
+      {
+        "text_uthmani": "قَدْ أَفْلَحَ مَن زَكَّاهَا",
+        "name_arabic": "الشمس",
+        "chapter_id": 91,
+        "verse_number": 9,
+        "content": [
+          {
+            "red": "قَدْ أَفْلَحَ مَن"
+          },
+          {
+            "dimgray": "زَكَّاهَا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الأعلى",
+        "sim_chapter_id": 87,
+        "sim_verse_number": 14,
+        "content": [
+          {
+            "red": "قَدْ أَفْلَحَ مَن"
+          },
+          {
+            "dimgray": "تَزَكَّىٰ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 6053,
+    "elements": [
+      {
+        "text_uthmani": "وَقَدْ خَابَ مَن دَسَّاهَا",
+        "name_arabic": "الشمس",
+        "chapter_id": 91,
+        "verse_number": 10,
+        "content": [
+          {
+            "red": "وَقَدْ خَابَ مَن"
+          },
+          {
+            "black": "دَسَّاهَا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "طه",
+        "sim_chapter_id": 20,
+        "sim_verse_number": 61,
+        "content": [
+          {
+            "black": "قَالَ لَهُم مُّوسَىٰ وَيْلَكُمْ لَا تَفْتَرُوا عَلَى اللَّـهِ كَذِبًا فَيُسْحِتَكُم بِعَذَابٍ ۖ"
+          },
+          {
+            "red": "وَقَدْ خَابَ مَنِ"
+          },
+          {
+            "black": "افْتَرَىٰ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "طه",
+        "sim_chapter_id": 20,
+        "sim_verse_number": 111,
+        "content": [
+          {
+            "black": "وَعَنَتِ الْوُجُوهُ لِلْحَيِّ الْقَيُّومِ ۖ"
+          },
+          {
+            "red": "وَقَدْ خَابَ مَنْ"
+          },
+          {
+            "black": "حَمَلَ ظُلْمًا"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 6054,
+    "elements": [
+      {
+        "text_uthmani": "كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا",
+        "verse_number": 11,
+        "chapter_id": 91,
+        "name_arabic": "الشمس"
+      }
+    ]
+  },
+  {
+    "verse_id": 6055,
+    "elements": [
+      {
+        "text_uthmani": "إِذِ انبَعَثَ أَشْقَاهَا",
+        "verse_number": 12,
+        "chapter_id": 91,
+        "name_arabic": "الشمس"
+      }
+    ]
+  },
+  {
+    "verse_id": 6056,
+    "elements": [
+      {
+        "text_uthmani": "فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَسُقْيَاهَا",
+        "verse_number": 13,
+        "chapter_id": 91,
+        "name_arabic": "الشمس"
+      }
+    ]
+  },
+  {
+    "verse_id": 6057,
+    "elements": [
+      {
+        "text_uthmani": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنبِهِمْ فَسَوَّاهَا",
+        "sim_chapter_name": "",
+        "verse_number": 14,
+        "chapter_id": 91,
+        "name_arabic": "الشمس",
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "الأعراف",
+        "sim_chapter_id": 7,
+        "sim_verse_number": 77,
+        "content": [
+          {
+            "red": "فَعَقَرُوا النَّاقَةَ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "وباقي المواضع: ﴿فَعَقَرُوهَا﴾, تكررت 3 مرات: [هود: 65, الشعراء: 157, الشمس: 14]."
+    ]
+  },
+  {
+    "verse_id": 6058,
+    "elements": [
+      {
+        "text_uthmani": "وَلَا يَخَافُ عُقْبَاهَا",
+        "verse_number": 15,
+        "chapter_id": 91,
+        "name_arabic": "الشمس"
+      }
+    ]
+  }
+]

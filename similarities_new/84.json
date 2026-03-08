@@ -1,0 +1,624 @@
+[
+  {
+    "verse_id": 5885,
+    "elements": [
+      {
+        "text_uthmani": null,
+        "name_arabic": "الانشقاق",
+        "chapter_id": 84,
+        "verse_number": 1,
+        "content": [
+          {
+            "red": "إِذَا السَّمَاءُ"
+          },
+          {
+            "black": "انشَقَّتْ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الانفطار",
+        "sim_chapter_id": 82,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "إِذَا السَّمَاءُ"
+          },
+          {
+            "black": "انفَطَرَتْ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5886,
+    "elements": [
+      {
+        "text_uthmani": null,
+        "name_arabic": "الانشقاق",
+        "chapter_id": 84,
+        "verse_number": 2,
+        "content": [
+          {
+            "red": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الانشقاق",
+        "sim_chapter_id": 84,
+        "sim_verse_number": 5,
+        "content": [
+          {
+            "red": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5887,
+    "elements": [
+      {
+        "text_uthmani": "وَإِذَا الْأَرْضُ مُدَّتْ",
+        "verse_number": 3,
+        "chapter_id": 84,
+        "name_arabic": "الإنشقاق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5888,
+    "elements": [
+      {
+        "text_uthmani": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ",
+        "verse_number": 4,
+        "chapter_id": 84,
+        "name_arabic": "الإنشقاق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5889,
+    "elements": [
+      {
+        "text_uthmani": null,
+        "name_arabic": "الانشقاق",
+        "chapter_id": 84,
+        "verse_number": 5,
+        "content": [
+          {
+            "red": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الانشقاق",
+        "sim_chapter_id": 84,
+        "sim_verse_number": 2,
+        "content": [
+          {
+            "red": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5890,
+    "elements": [
+      {
+        "text_uthmani": null,
+        "name_arabic": "الانشقاق",
+        "chapter_id": 84,
+        "verse_number": 6,
+        "content": [
+          {
+            "red": "يَا أَيُّهَا الْإِنسَانُ"
+          },
+          {
+            "black": "إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَاقِيهِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الانفطار",
+        "sim_chapter_id": 82,
+        "sim_verse_number": 6,
+        "content": [
+          {
+            "red": "يَا أَيُّهَا الْإِنسَانُ"
+          },
+          {
+            "black": "مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5891,
+    "elements": [
+      {
+        "text_uthmani": null,
+        "name_arabic": "الانشقاق",
+        "chapter_id": 84,
+        "verse_number": 7,
+        "content": [
+          {
+            "red": "فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الإسراء",
+        "sim_chapter_id": 17,
+        "sim_verse_number": 71,
+        "content": [
+          {
+            "black": "..."
+          },
+          {
+            "red": "فَمَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ"
+          },
+          {
+            "black": "فَأُولَـٰئِكَ يَقْرَءُونَ كِتَابَهُمْ وَلَا يُظْلَمُونَ فَتِيلًا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحاقة",
+        "sim_chapter_id": 69,
+        "sim_verse_number": 19,
+        "content": [
+          {
+            "red": "فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ"
+          },
+          {
+            "black": "فَيَقُولُ هَاؤُمُ اقْرَءُوا كِتَابِيَهْ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "آية الإسراء الوحيدة: (فَمَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ), وباقي المواضع: (فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ)."
+    ]
+  },
+  {
+    "verse_id": 5892,
+    "elements": [
+      {
+        "text_uthmani": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
+        "verse_number": 8,
+        "chapter_id": 84,
+        "name_arabic": "الإنشقاق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5893,
+    "elements": [
+      {
+        "text_uthmani": "وَيَنقَلِبُ إِلَى أَهْلِهِ مَسْرُورًا",
+        "verse_number": 9,
+        "chapter_id": 84,
+        "name_arabic": "الإنشقاق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5894,
+    "elements": [
+      {
+        "text_uthmani": null,
+        "name_arabic": "الانشقاق",
+        "chapter_id": 84,
+        "verse_number": 10,
+        "content": [
+          {
+            "red": "وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ"
+          },
+          {
+            "black": "وَرَاءَ ظَهْرِهِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحاقة",
+        "sim_chapter_id": 69,
+        "sim_verse_number": 25,
+        "content": [
+          {
+            "red": "وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ"
+          },
+          {
+            "black": "بِشِمَالِهِ"
+          },
+          {
+            "black": "فَيَقُولُ يَا لَيْتَنِي لَمْ أُوتَ كِتَابِيَهْ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5895,
+    "elements": [
+      {
+        "text_uthmani": "فَسَوْفَ يَدْعُو ثُبُورًا",
+        "verse_number": 11,
+        "chapter_id": 84,
+        "name_arabic": "الإنشقاق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5896,
+    "elements": [
+      {
+        "text_uthmani": "وَيَصْلَى سَعِيرًا",
+        "verse_number": 12,
+        "chapter_id": 84,
+        "name_arabic": "الإنشقاق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5897,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا",
+        "verse_number": 13,
+        "chapter_id": 84,
+        "name_arabic": "الإنشقاق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5898,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّهُ ظَنَّ أَن لَّن يَحُورَ",
+        "verse_number": 14,
+        "chapter_id": 84,
+        "name_arabic": "الإنشقاق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5899,
+    "elements": [
+      {
+        "text_uthmani": "بَلَى إِنَّ رَبَّهُ كَانَ بِهِ بَصِيرًا",
+        "verse_number": 15,
+        "chapter_id": 84,
+        "name_arabic": "الإنشقاق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5900,
+    "elements": [
+      {
+        "text_uthmani": null,
+        "name_arabic": "الانشقاق",
+        "chapter_id": 84,
+        "verse_number": 16,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِالشَّفَقِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الواقعة",
+        "sim_chapter_id": 56,
+        "sim_verse_number": 75,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِمَوَاقِعِ النُّجُومِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحاقة",
+        "sim_chapter_id": 69,
+        "sim_verse_number": 38,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِمَا تُبْصِرُونَ * وَمَا لَا تُبْصِرُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المعارج",
+        "sim_chapter_id": 70,
+        "sim_verse_number": 40,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِرَبِّ الْمَشَارِقِ وَالْمَغَارِبِ إِنَّا لَقَادِرُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "التكوير",
+        "sim_chapter_id": 81,
+        "sim_verse_number": 15,
+        "content": [
+          {
+            "red": "فَلَا أُقْسِمُ"
+          },
+          {
+            "black": "بِالْخُنَّسِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القيامة",
+        "sim_chapter_id": 75,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "لَا أُقْسِمُ"
+          },
+          {
+            "black": "بِيَوْمِ الْقِيَامَةِ"
+          },
+          {
+            "dimgray": "* وَ"
+          },
+          {
+            "red": "لَا أُقْسِمُ"
+          },
+          {
+            "black": "بِالنَّفْسِ اللَّوَّامَةِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "البلد",
+        "sim_chapter_id": 90,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "لَا أُقْسِمُ"
+          },
+          {
+            "black": "بِهَـٰذَا الْبَلَدِ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5901,
+    "elements": [
+      {
+        "text_uthmani": "وَاللَّيْلِ وَمَا وَسَقَ",
+        "verse_number": 17,
+        "chapter_id": 84,
+        "name_arabic": "الإنشقاق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5902,
+    "elements": [
+      {
+        "text_uthmani": "وَالْقَمَرِ إِذَا اتَّسَقَ",
+        "verse_number": 18,
+        "chapter_id": 84,
+        "name_arabic": "الإنشقاق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5903,
+    "elements": [
+      {
+        "text_uthmani": "لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ",
+        "verse_number": 19,
+        "chapter_id": 84,
+        "name_arabic": "الإنشقاق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5904,
+    "elements": [
+      {
+        "text_uthmani": "فَمَا لَهُمْ لَا يُؤْمِنُونَ",
+        "verse_number": 20,
+        "chapter_id": 84,
+        "name_arabic": "الإنشقاق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5905,
+    "elements": [
+      {
+        "text_uthmani": "وَإِذَا قُرِئَ عَلَيْهِمُ الْقُرْآنُ لَا يَسْجُدُونَ",
+        "verse_number": 21,
+        "chapter_id": 84,
+        "name_arabic": "الإنشقاق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5906,
+    "elements": [
+      {
+        "text_uthmani": null,
+        "name_arabic": "الانشقاق",
+        "chapter_id": 84,
+        "verse_number": 22,
+        "content": [
+          {
+            "red": "بَلِ الَّذِينَ كَفَرُوا"
+          },
+          {
+            "dimgray": "يُكَذِّبُونَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "ص",
+        "sim_chapter_id": 38,
+        "sim_verse_number": 2,
+        "content": [
+          {
+            "red": "بَلِ الَّذِينَ كَفَرُوا فِي"
+          },
+          {
+            "black": "عِزَّةٍ وَشِقَاقٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "البروج",
+        "sim_chapter_id": 85,
+        "sim_verse_number": 19,
+        "content": [
+          {
+            "red": "بَلِ الَّذِينَ كَفَرُوا"
+          },
+          {
+            "dimgray": "فِي تَكْذِيبٍ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5907,
+    "elements": [
+      {
+        "text_uthmani": "وَاللَّهُ أَعْلَمُ بِمَا يُوعُونَ",
+        "verse_number": 23,
+        "chapter_id": 84,
+        "name_arabic": "الإنشقاق"
+      }
+    ]
+  },
+  {
+    "verse_id": 5908,
+    "elements": [
+      {
+        "text_uthmani": null,
+        "name_arabic": "الانشقاق",
+        "chapter_id": 84,
+        "verse_number": 24,
+        "content": [
+          {
+            "red": "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "آل عمران",
+        "sim_chapter_id": 3,
+        "sim_verse_number": 21,
+        "content": [
+          {
+            "black": "إِنَّ الَّذِينَ يَكْفُرُونَ بِآيَاتِ اللَّـهِ وَيَقْتُلُونَ النَّبِيِّينَ بِغَيْرِ حَقٍّ وَيَقْتُلُونَ الَّذِينَ يَأْمُرُونَ بِالْقِسْطِ مِنَ النَّاسِ"
+          },
+          {
+            "red": "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "التوبة",
+        "sim_chapter_id": 9,
+        "sim_verse_number": 34,
+        "content": [
+          {
+            "black": "... وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ وَالْفِضَّةَ وَلَا يُنفِقُونَهَا فِي سَبِيلِ اللَّـهِ"
+          },
+          {
+            "red": "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5909,
+    "elements": [
+      {
+        "text_uthmani": null,
+        "name_arabic": "الانشقاق",
+        "chapter_id": 84,
+        "verse_number": 25,
+        "content": [
+          {
+            "red": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "هود",
+        "sim_chapter_id": 11,
+        "sim_verse_number": 11,
+        "content": [
+          {
+            "red": "إِلَّا الَّذِينَ"
+          },
+          {
+            "black": "صَبَرُوا"
+          },
+          {
+            "red": "وَعَمِلُوا الصَّالِحَاتِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "فصلت",
+        "sim_chapter_id": 41,
+        "sim_verse_number": 8,
+        "content": [
+          {
+            "dimgray": "إِنَّ"
+          },
+          {
+            "red": "الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "التين",
+        "sim_chapter_id": 95,
+        "sim_verse_number": 6,
+        "content": [
+          {
+            "red": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ"
+          },
+          {
+            "dimgray": "فَ"
+          },
+          {
+            "red": "لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "وباقي المواضع: ﴿إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ﴾, تكررت في 5 مواضع: [الشعراء: 227, ص: 24, الانشقاق: 25, التين: 6, العصر: 3].",
+      "التين الوحيدة: (فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ), وباقي المواضع: (لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ)."
+    ]
+  }
+]

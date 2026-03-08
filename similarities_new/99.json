@@ -1,0 +1,316 @@
+[
+  {
+    "verse_id": 6139,
+    "elements": [
+      {
+        "text_uthmani": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+        "verse_number": 1,
+        "chapter_id": 99,
+        "name_arabic": "الزلزلة"
+      }
+    ]
+  },
+  {
+    "verse_id": 6140,
+    "elements": [
+      {
+        "text_uthmani": "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا",
+        "verse_number": 2,
+        "chapter_id": 99,
+        "name_arabic": "الزلزلة"
+      }
+    ]
+  },
+  {
+    "verse_id": 6141,
+    "elements": [
+      {
+        "text_uthmani": "وَقَالَ الْإِنسَانُ مَا لَهَا",
+        "verse_number": 3,
+        "chapter_id": 99,
+        "name_arabic": "الزلزلة"
+      }
+    ]
+  },
+  {
+    "verse_id": 6142,
+    "elements": [
+      {
+        "text_uthmani": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+        "verse_number": 4,
+        "chapter_id": 99,
+        "name_arabic": "الزلزلة"
+      }
+    ]
+  },
+  {
+    "verse_id": 6143,
+    "elements": [
+      {
+        "text_uthmani": "بِأَنَّ رَبَّكَ أَوْحَى لَهَا",
+        "verse_number": 5,
+        "chapter_id": 99,
+        "name_arabic": "الزلزلة"
+      }
+    ]
+  },
+  {
+    "verse_id": 6144,
+    "elements": [
+      {
+        "text_uthmani": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِّيُرَوْا أَعْمَالَهُمْ",
+        "name_arabic": "الزلزلة",
+        "chapter_id": 99,
+        "verse_number": 6,
+        "content": [
+          {
+            "black": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ"
+          },
+          {
+            "red": "أَشْتَاتًا"
+          },
+          {
+            "black": "لِّيُرَوْا أَعْمَالَهُمْ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "طه",
+        "sim_chapter_id": 20,
+        "sim_verse_number": 53,
+        "content": [
+          {
+            "black": "... فَأَخْرَجْنَا بِهِ أَزْوَاجًا مِّن نَّبَاتٍ"
+          },
+          {
+            "red": "شَتَّىٰ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحشر",
+        "sim_chapter_id": 59,
+        "sim_verse_number": 14,
+        "content": [
+          {
+            "black": "... تَحْسَبُهُمْ جَمِيعًا وَقُلُوبُهُمْ"
+          },
+          {
+            "red": "شَتَّىٰ"
+          },
+          {
+            "black": "..."
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الليل",
+        "sim_chapter_id": 92,
+        "sim_verse_number": 4,
+        "content": [
+          {
+            "black": "إِنَّ سَعْيَكُمْ"
+          },
+          {
+            "dimgray": "لَ"
+          },
+          {
+            "red": "شَتَّىٰ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "النور",
+        "sim_chapter_id": 24,
+        "sim_verse_number": 61,
+        "content": [
+          {
+            "black": "... لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَأْكُلُوا جَمِيعًا أَوْ"
+          },
+          {
+            "red": "أَشْتَاتًا"
+          },
+          {
+            "black": "..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 6145,
+    "elements": [
+      {
+        "text_uthmani": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+        "name_arabic": "الزلزلة",
+        "chapter_id": 99,
+        "verse_number": 7,
+        "content": [
+          {
+            "dimgray": "فَ"
+          },
+          {
+            "red": "مَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ"
+          },
+          {
+            "dimgray": "خَيْرًا"
+          },
+          {
+            "red": "يَرَهُ"
+          }
+        ],
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "الزلزلة",
+        "sim_chapter_id": 99,
+        "sim_verse_number": 8,
+        "content": [
+          {
+            "dimgray": "وَ"
+          },
+          {
+            "red": "مَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ"
+          },
+          {
+            "dimgray": "شَرًّا"
+          },
+          {
+            "red": "يَرَهُ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "يونس",
+        "sim_chapter_id": 10,
+        "sim_verse_number": 61,
+        "content": [
+          {
+            "red": "مِّثْقَالِ ذَرَّةٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "يونس",
+        "sim_chapter_id": 10,
+        "sim_verse_number": 61,
+        "content": [
+          {
+            "red": "مِّثْقَالِ ذَرَّةٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "سبأ",
+        "sim_chapter_id": 34,
+        "sim_verse_number": 3,
+        "content": [
+          {
+            "red": "مِثْقَالُ ذَرَّةٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "سبأ",
+        "sim_chapter_id": 34,
+        "sim_verse_number": 3,
+        "content": [
+          {
+            "red": "مِثْقَالُ ذَرَّةٍ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "وباقي المواضع: ﴿مِثْقَالَ ذَرَّةٍ﴾, تكررت في 4 مواضع: [النساء: 40, سبأ: 22, الزلزلة: 7, 8]."
+    ]
+  },
+  {
+    "verse_id": 6146,
+    "elements": [
+      {
+        "text_uthmani": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+        "name_arabic": "الزلزلة",
+        "chapter_id": 99,
+        "verse_number": 8,
+        "content": [
+          {
+            "dimgray": "وَ"
+          },
+          {
+            "red": "مَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ"
+          },
+          {
+            "dimgray": "شَرًّا"
+          },
+          {
+            "red": "يَرَهُ"
+          }
+        ],
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "الزلزلة",
+        "sim_chapter_id": 99,
+        "sim_verse_number": 7,
+        "content": [
+          {
+            "dimgray": "فَ"
+          },
+          {
+            "red": "مَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ"
+          },
+          {
+            "dimgray": "خَيْرًا"
+          },
+          {
+            "red": "يَرَهُ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "يونس",
+        "sim_chapter_id": 10,
+        "sim_verse_number": 61,
+        "content": [
+          {
+            "red": "مِّثْقَالِ ذَرَّةٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "يونس",
+        "sim_chapter_id": 10,
+        "sim_verse_number": 61,
+        "content": [
+          {
+            "red": "مِّثْقَالِ ذَرَّةٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "سبأ",
+        "sim_chapter_id": 34,
+        "sim_verse_number": 3,
+        "content": [
+          {
+            "red": "مِثْقَالُ ذَرَّةٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "سبأ",
+        "sim_chapter_id": 34,
+        "sim_verse_number": 3,
+        "content": [
+          {
+            "red": "مِثْقَالُ ذَرَّةٍ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "وباقي المواضع: ﴿مِثْقَالَ ذَرَّةٍ﴾, تكررت في 4 مواضع: [النساء: 40, سبأ: 22, الزلزلة: 7, 8]."
+    ]
+  }
+]

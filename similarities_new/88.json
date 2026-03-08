@@ -1,0 +1,503 @@
+[
+  {
+    "verse_id": 5968,
+    "elements": [
+      {
+        "text_uthmani": "هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ",
+        "sim_chapter_name": "",
+        "verse_number": 1,
+        "chapter_id": 88,
+        "name_arabic": "الغاشية",
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "الإنسان",
+        "sim_chapter_id": 76,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "هَلْ أَتَىٰ"
+          },
+          {
+            "black": "عَلَى الْإِنسَانِ حِينٌ مِّنَ الدَّهْرِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "ص",
+        "sim_chapter_id": 38,
+        "sim_verse_number": 21,
+        "content": [
+          {
+            "red": "وَهَلْ أَتَاكَ"
+          },
+          {
+            "unknown": "نَبَأُ"
+          },
+          {
+            "black": "الْخَصْمِ إِذْ تَسَوَّرُوا الْمِحْرَابَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "طه",
+        "sim_chapter_id": 20,
+        "sim_verse_number": 9,
+        "content": [
+          {
+            "red": "وَهَلْ أَتَاكَ"
+          },
+          {
+            "unknown": "حَدِيثُ"
+          },
+          {
+            "black": "مُوسَى"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "وباقي المواضع: ﴿هَلْ أَتَاكَ حَدِيثُ﴾, تكررت 4 مرات: [الذاريات: 24, النازعات: 15, البروج: 17, الغاشية: 1]."
+    ]
+  },
+  {
+    "verse_id": 5969,
+    "elements": [
+      {
+        "text_uthmani": "وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ",
+        "name_arabic": "الغاشية",
+        "chapter_id": 88,
+        "verse_number": 2,
+        "content": [
+          {
+            "red": "وُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "خَاشِعَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القيامة",
+        "sim_chapter_id": 75,
+        "sim_verse_number": 22,
+        "content": [
+          {
+            "red": "وُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "نَّاضِرَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "عبس",
+        "sim_chapter_id": 80,
+        "sim_verse_number": 38,
+        "content": [
+          {
+            "red": "وُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "مُّسْفِرَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الغاشية",
+        "sim_chapter_id": 88,
+        "sim_verse_number": 8,
+        "content": [
+          {
+            "red": "وُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "نَّاعِمَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القيامة",
+        "sim_chapter_id": 75,
+        "sim_verse_number": 24,
+        "content": [
+          {
+            "red": "وَوُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "بَاسِرَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "عبس",
+        "sim_chapter_id": 80,
+        "sim_verse_number": 40,
+        "content": [
+          {
+            "red": "وَوُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "عَلَيْهَا غَبَرَةٌ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5970,
+    "elements": [
+      {
+        "text_uthmani": "عَامِلَةٌ نَّاصِبَةٌ",
+        "verse_number": 3,
+        "chapter_id": 88,
+        "name_arabic": "الغاشية"
+      }
+    ]
+  },
+  {
+    "verse_id": 5971,
+    "elements": [
+      {
+        "text_uthmani": "تَصْلَى نَارًا حَامِيَةً",
+        "verse_number": 4,
+        "chapter_id": 88,
+        "name_arabic": "الغاشية"
+      }
+    ]
+  },
+  {
+    "verse_id": 5972,
+    "elements": [
+      {
+        "text_uthmani": "تُسْقَى مِنْ عَيْنٍ آنِيَةٍ",
+        "verse_number": 5,
+        "chapter_id": 88,
+        "name_arabic": "الغاشية"
+      }
+    ]
+  },
+  {
+    "verse_id": 5973,
+    "elements": [
+      {
+        "text_uthmani": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
+        "verse_number": 6,
+        "chapter_id": 88,
+        "name_arabic": "الغاشية"
+      }
+    ]
+  },
+  {
+    "verse_id": 5974,
+    "elements": [
+      {
+        "text_uthmani": "لَا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ",
+        "verse_number": 7,
+        "chapter_id": 88,
+        "name_arabic": "الغاشية"
+      }
+    ]
+  },
+  {
+    "verse_id": 5975,
+    "elements": [
+      {
+        "text_uthmani": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ",
+        "name_arabic": "الغاشية",
+        "chapter_id": 88,
+        "verse_number": 8,
+        "content": [
+          {
+            "red": "وُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "نَّاعِمَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القيامة",
+        "sim_chapter_id": 75,
+        "sim_verse_number": 22,
+        "content": [
+          {
+            "red": "وُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "نَّاضِرَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "عبس",
+        "sim_chapter_id": 80,
+        "sim_verse_number": 38,
+        "content": [
+          {
+            "red": "وُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "مُّسْفِرَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الغاشية",
+        "sim_chapter_id": 88,
+        "sim_verse_number": 2,
+        "content": [
+          {
+            "red": "وُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "خَاشِعَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "القيامة",
+        "sim_chapter_id": 75,
+        "sim_verse_number": 24,
+        "content": [
+          {
+            "red": "وَوُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "بَاسِرَةٌ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "عبس",
+        "sim_chapter_id": 80,
+        "sim_verse_number": 40,
+        "content": [
+          {
+            "red": "وَوُجُوهٌ يَوْمَئِذٍ"
+          },
+          {
+            "black": "عَلَيْهَا غَبَرَةٌ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5976,
+    "elements": [
+      {
+        "text_uthmani": "لِسَعْيِهَا رَاضِيَةٌ",
+        "verse_number": 9,
+        "chapter_id": 88,
+        "name_arabic": "الغاشية"
+      }
+    ]
+  },
+  {
+    "verse_id": 5977,
+    "elements": [
+      {
+        "text_uthmani": "فِي جَنَّةٍ عَالِيَةٍ",
+        "name_arabic": "الغاشية",
+        "chapter_id": 88,
+        "verse_number": 10,
+        "content": [
+          {
+            "red": "فِي جَنَّةٍ عَالِيَةٍ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الحاقة",
+        "sim_chapter_id": 69,
+        "sim_verse_number": 22,
+        "content": [
+          {
+            "red": "فِي جَنَّةٍ عَالِيَةٍ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 5978,
+    "elements": [
+      {
+        "text_uthmani": "لَّا تَسْمَعُ فِيهَا لَاغِيَةً",
+        "verse_number": 11,
+        "chapter_id": 88,
+        "name_arabic": "الغاشية"
+      }
+    ]
+  },
+  {
+    "verse_id": 5979,
+    "elements": [
+      {
+        "text_uthmani": "فِيهَا عَيْنٌ جَارِيَةٌ",
+        "verse_number": 12,
+        "chapter_id": 88,
+        "name_arabic": "الغاشية"
+      }
+    ]
+  },
+  {
+    "verse_id": 5980,
+    "elements": [
+      {
+        "text_uthmani": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
+        "verse_number": 13,
+        "chapter_id": 88,
+        "name_arabic": "الغاشية"
+      }
+    ]
+  },
+  {
+    "verse_id": 5981,
+    "elements": [
+      {
+        "text_uthmani": "وَأَكْوَابٌ مَّوْضُوعَةٌ",
+        "verse_number": 14,
+        "chapter_id": 88,
+        "name_arabic": "الغاشية"
+      }
+    ]
+  },
+  {
+    "verse_id": 5982,
+    "elements": [
+      {
+        "text_uthmani": "وَنَمَارِقُ مَصْفُوفَةٌ",
+        "verse_number": 15,
+        "chapter_id": 88,
+        "name_arabic": "الغاشية"
+      }
+    ]
+  },
+  {
+    "verse_id": 5983,
+    "elements": [
+      {
+        "text_uthmani": "وَزَرَابِيُّ مَبْثُوثَةٌ",
+        "verse_number": 16,
+        "chapter_id": 88,
+        "name_arabic": "الغاشية"
+      }
+    ]
+  },
+  {
+    "verse_id": 5984,
+    "elements": [
+      {
+        "text_uthmani": "أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ",
+        "verse_number": 17,
+        "chapter_id": 88,
+        "name_arabic": "الغاشية"
+      }
+    ]
+  },
+  {
+    "verse_id": 5985,
+    "elements": [
+      {
+        "text_uthmani": "وَإِلَى السَّمَاء كَيْفَ رُفِعَتْ",
+        "verse_number": 18,
+        "chapter_id": 88,
+        "name_arabic": "الغاشية"
+      }
+    ]
+  },
+  {
+    "verse_id": 5986,
+    "elements": [
+      {
+        "text_uthmani": "وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ",
+        "verse_number": 19,
+        "chapter_id": 88,
+        "name_arabic": "الغاشية"
+      }
+    ]
+  },
+  {
+    "verse_id": 5987,
+    "elements": [
+      {
+        "text_uthmani": "وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ",
+        "verse_number": 20,
+        "chapter_id": 88,
+        "name_arabic": "الغاشية"
+      }
+    ]
+  },
+  {
+    "verse_id": 5988,
+    "elements": [
+      {
+        "text_uthmani": "فَذَكِّرْ إِنَّمَا أَنتَ مُذَكِّرٌ",
+        "verse_number": 21,
+        "chapter_id": 88,
+        "name_arabic": "الغاشية"
+      }
+    ],
+    "spotlights": [
+      "وباقي المواضع: ﴿فَذَكِّرْ﴾, تكررت 4 مرات: [ق: 45, الطور: 29, الأعلى: 9, الغاشية: 21].",
+      "﴿وَذَكِّرْ﴾ تكررت مرتين: [الأنعام: 70, الذاريات: 55]."
+    ]
+  },
+  {
+    "verse_id": 5989,
+    "elements": [
+      {
+        "text_uthmani": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
+        "verse_number": 22,
+        "chapter_id": 88,
+        "name_arabic": "الغاشية"
+      }
+    ]
+  },
+  {
+    "verse_id": 5990,
+    "elements": [
+      {
+        "text_uthmani": "إِلَّا مَن تَوَلَّى وَكَفَرَ",
+        "verse_number": 23,
+        "chapter_id": 88,
+        "name_arabic": "الغاشية"
+      }
+    ]
+  },
+  {
+    "verse_id": 5991,
+    "elements": [
+      {
+        "text_uthmani": "فَيُعَذِّبُهُ اللَّهُ الْعَذَابَ الْأَكْبَرَ",
+        "verse_number": 24,
+        "chapter_id": 88,
+        "name_arabic": "الغاشية"
+      }
+    ]
+  },
+  {
+    "verse_id": 5992,
+    "elements": [
+      {
+        "text_uthmani": "إِنَّ إِلَيْنَا إِيَابَهُمْ",
+        "verse_number": 25,
+        "chapter_id": 88,
+        "name_arabic": "الغاشية"
+      }
+    ]
+  },
+  {
+    "verse_id": 5993,
+    "elements": [
+      {
+        "text_uthmani": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُمْ",
+        "verse_number": 26,
+        "chapter_id": 88,
+        "name_arabic": "الغاشية"
+      }
+    ]
+  }
+]

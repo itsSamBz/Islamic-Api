@@ -1,0 +1,42 @@
+[
+  {
+    "verse_id": 6226,
+    "text_uthmani": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+    "tafseer": "قل - أيها الرسول -:أعتصم بربّ الصبح، وأستجير به.",
+    "t_verse_number": 1,
+    "t_chapter_id": 113,
+    "t_name_arabic": "الفلق"
+  },
+  {
+    "verse_id": 6227,
+    "text_uthmani": "مِن شَرِّ مَا خَلَقَ",
+    "tafseer": "من شرّ ما يؤذي من المخلوقات.",
+    "t_verse_number": 2,
+    "t_chapter_id": 113,
+    "t_name_arabic": "الفلق"
+  },
+  {
+    "verse_id": 6228,
+    "text_uthmani": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+    "tafseer": "وأعتصم بالله من الشرور التي تظهر في الليل من دواب ولصوص.",
+    "t_verse_number": 3,
+    "t_chapter_id": 113,
+    "t_name_arabic": "الفلق"
+  },
+  {
+    "verse_id": 6229,
+    "text_uthmani": "وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+    "tafseer": "وأعتصم به من شرّ السواحر اللائي يَنْفُثْن في العُقَد.",
+    "t_verse_number": 4,
+    "t_chapter_id": 113,
+    "t_name_arabic": "الفلق"
+  },
+  {
+    "verse_id": 6230,
+    "text_uthmani": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+    "tafseer": "وأعتصم به من شرّ حاسد إذا عمل بما يدفعه إليه الحسد.",
+    "t_verse_number": 5,
+    "t_chapter_id": 113,
+    "t_name_arabic": "الفلق"
+  }
+]

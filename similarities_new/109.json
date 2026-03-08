@@ -1,0 +1,137 @@
+[
+  {
+    "verse_id": 6208,
+    "elements": [
+      {
+        "text_uthmani": "قُلْ يَا أَيُّهَا الْكَافِرُونَ",
+        "verse_number": 1,
+        "chapter_id": 109,
+        "name_arabic": "الكافرون"
+      }
+    ]
+  },
+  {
+    "verse_id": 6209,
+    "elements": [
+      {
+        "text_uthmani": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+        "verse_number": 2,
+        "chapter_id": 109,
+        "name_arabic": "الكافرون",
+        "comment": "الوحيدة في القرآن."
+      },
+      {
+        "sim_chapter_name": "الصافات",
+        "sim_chapter_id": 37,
+        "sim_verse_number": 85,
+        "content": [
+          {
+            "dimgray": "مَاذَا"
+          },
+          {
+            "red": "تَعْبُدُونَ"
+          }
+        ]
+      }
+    ],
+    "spotlights": [
+      "وباقي المواضع: ﴿مَا تَعْبُدُونَ﴾, تكررت في 4 مواضع: [البقرة: 133, يوسف: 40, الشعراء: 70, الكافرون: 2].",
+      "﴿وَمَا تَعْبُدُونَ﴾ تكررت في موضعين: [الأنبياء: 98, الصافات: 161]."
+    ]
+  },
+  {
+    "verse_id": 6210,
+    "elements": [
+      {
+        "text_uthmani": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
+        "name_arabic": "الكافرون",
+        "chapter_id": 109,
+        "verse_number": 3,
+        "content": [
+          {
+            "red": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الكافرون",
+        "sim_chapter_id": 109,
+        "sim_verse_number": 5,
+        "content": [
+          {
+            "red": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 6211,
+    "elements": [
+      {
+        "text_uthmani": "وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ",
+        "verse_number": 4,
+        "chapter_id": 109,
+        "name_arabic": "الكافرون"
+      }
+    ]
+  },
+  {
+    "verse_id": 6212,
+    "elements": [
+      {
+        "text_uthmani": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
+        "name_arabic": "الكافرون",
+        "chapter_id": 109,
+        "verse_number": 5,
+        "content": [
+          {
+            "red": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الكافرون",
+        "sim_chapter_id": 109,
+        "sim_verse_number": 3,
+        "content": [
+          {
+            "red": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 6213,
+    "elements": [
+      {
+        "text_uthmani": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+        "name_arabic": "الكافرون",
+        "chapter_id": 109,
+        "verse_number": 6,
+        "content": [
+          {
+            "black": "لَكُمْ دِينُكُمْ وَلِيَ"
+          },
+          {
+            "red": "دِينِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الزمر",
+        "sim_chapter_id": 39,
+        "sim_verse_number": 14,
+        "content": [
+          {
+            "black": "قُلِ اللَّـهَ أَعْبُدُ مُخْلِصًا لَّهُ"
+          },
+          {
+            "red": "دِينِي"
+          }
+        ]
+      }
+    ]
+  }
+]

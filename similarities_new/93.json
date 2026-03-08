@@ -1,0 +1,199 @@
+[
+  {
+    "verse_id": 6080,
+    "elements": [
+      {
+        "text_uthmani": "وَالضُّحَى",
+        "verse_number": 1,
+        "chapter_id": 93,
+        "name_arabic": "الضحى"
+      }
+    ]
+  },
+  {
+    "verse_id": 6081,
+    "elements": [
+      {
+        "text_uthmani": "وَاللَّيْلِ إِذَا سَجَى",
+        "name_arabic": "الضحى",
+        "chapter_id": 93,
+        "verse_number": 2,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "سَجَىٰ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "المدثر",
+        "sim_chapter_id": 74,
+        "sim_verse_number": 33,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ"
+          },
+          {
+            "dimgray": "إِذْ"
+          },
+          {
+            "black": "أَدْبَرَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "التكوير",
+        "sim_chapter_id": 81,
+        "sim_verse_number": 17,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "عَسْعَسَ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الفجر",
+        "sim_chapter_id": 89,
+        "sim_verse_number": 4,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "يَسْرِ"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الشمس",
+        "sim_chapter_id": 91,
+        "sim_verse_number": 4,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "يَغْشَاهَا"
+          }
+        ]
+      },
+      {
+        "sim_chapter_name": "الليل",
+        "sim_chapter_id": 92,
+        "sim_verse_number": 1,
+        "content": [
+          {
+            "red": "وَاللَّيْلِ إِذَا"
+          },
+          {
+            "black": "يَغْشَىٰ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "verse_id": 6082,
+    "elements": [
+      {
+        "text_uthmani": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَى",
+        "verse_number": 3,
+        "chapter_id": 93,
+        "name_arabic": "الضحى"
+      }
+    ]
+  },
+  {
+    "verse_id": 6083,
+    "elements": [
+      {
+        "text_uthmani": "وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَى",
+        "verse_number": 4,
+        "chapter_id": 93,
+        "name_arabic": "الضحى"
+      }
+    ]
+  },
+  {
+    "verse_id": 6084,
+    "elements": [
+      {
+        "text_uthmani": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَى",
+        "verse_number": 5,
+        "chapter_id": 93,
+        "name_arabic": "الضحى"
+      }
+    ]
+  },
+  {
+    "verse_id": 6085,
+    "elements": [
+      {
+        "text_uthmani": "أَلَمْ يَجِدْكَ يَتِيمًا فَآوَى",
+        "verse_number": 6,
+        "chapter_id": 93,
+        "name_arabic": "الضحى"
+      }
+    ]
+  },
+  {
+    "verse_id": 6086,
+    "elements": [
+      {
+        "text_uthmani": "وَوَجَدَكَ ضَالًّا فَهَدَى",
+        "verse_number": 7,
+        "chapter_id": 93,
+        "name_arabic": "الضحى"
+      }
+    ]
+  },
+  {
+    "verse_id": 6087,
+    "elements": [
+      {
+        "text_uthmani": "وَوَجَدَكَ عَائِلًا فَأَغْنَى",
+        "verse_number": 8,
+        "chapter_id": 93,
+        "name_arabic": "الضحى"
+      }
+    ]
+  },
+  {
+    "verse_id": 6088,
+    "elements": [
+      {
+        "text_uthmani": "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ",
+        "verse_number": 9,
+        "chapter_id": 93,
+        "name_arabic": "الضحى"
+      }
+    ]
+  },
+  {
+    "verse_id": 6089,
+    "elements": [
+      {
+        "text_uthmani": "وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ",
+        "verse_number": 10,
+        "chapter_id": 93,
+        "name_arabic": "الضحى"
+      }
+    ]
+  },
+  {
+    "verse_id": 6090,
+    "elements": [
+      {
+        "text_uthmani": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+        "verse_number": 11,
+        "chapter_id": 93,
+        "name_arabic": "الضحى"
+      }
+    ]
+  }
+]
