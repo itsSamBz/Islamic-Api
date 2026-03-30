@@ -15,3 +15,5 @@ Similarities → أوجه التشابه
 Tafseer → التفسير
 
 Tnasob → التناسب
+
+Sejda → مواضع ايات السجود
