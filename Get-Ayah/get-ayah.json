@@ -1,55 +1,214 @@
 [
-  "https://everyayah.com/data/AbdulSamad_64kbps_QuranExplorer.Com/",
-  "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/",
-  "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/",
-  "https://everyayah.com/data/Abdullaah_3awwaad_Al-Juhaynee_128kbps/",
-  "https://everyayah.com/data/Abdullah_Basfar_192kbps/",
-  "https://everyayah.com/data/Abdullah_Matroud_128kbps/",
-  "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/",
-  "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/",
-  "https://everyayah.com/data/Ahmed_Neana_128kbps/",
-  "https://everyayah.com/data/Ahmed_ibn_Ali_al-Ajamy_128kbps_ketaballah.net/",
-  "https://everyayah.com/data/Akram_AlAlaqimy_128kbps/",
-  "https://everyayah.com/data/Alafasy_128kbps/",
-  "https://everyayah.com/data/Ali_Hajjaj_AlSuesy_128kbps/",
-  "https://everyayah.com/data/Ali_Jaber_64kbps/",
-  "https://everyayah.com/data/Ayman_Sowaid_64kbps/",
-  "https://everyayah.com/data/Fares_Abbad_64kbps/",
-  "https://everyayah.com/data/Ghamadi_40kbps/",
-  "https://everyayah.com/data/Hani_Rifai_192kbps/",
-  "https://everyayah.com/data/Hudhaify_128kbps/",
-  "https://everyayah.com/data/Husary_128kbps/",
-  "https://everyayah.com/data/Husary_128kbps_Mujawwad/",
-  "https://everyayah.com/data/Husary_Muallim_128kbps/",
-  "https://everyayah.com/data/Ibrahim_Akhdar_64kbps/",
-  "https://everyayah.com/data/Karim_Mansoori_40kbps/",
-  "https://everyayah.com/data/Khaalid_Abdullaah_al-Qahtaanee_192kbps/",
-  "https://everyayah.com/data/MaherAlMuaiqly128kbps/",
-  "https://everyayah.com/data/Menshawi_32kbps/",
-  "https://everyayah.com/data/Minshawy_Mujawwad_192kbps/",
-  "https://everyayah.com/data/Minshawy_Murattal_128kbps/",
-  "https://everyayah.com/data/Mohammad_al_Tablaway_128kbps/",
-  "https://everyayah.com/data/Muhammad_AbdulKareem_128kbps/",
-  "https://everyayah.com/data/Muhammad_Ayyoub_128kbps/",
-  "https://everyayah.com/data/Muhammad_Jibreel_128kbps/",
-  "https://everyayah.com/data/Muhsin_Al_Qasim_192kbps/",
-  "https://everyayah.com/data/MultiLanguage/Basfar_Walk_192kbps/",
-  "https://everyayah.com/data/Mustafa_Ismail_48kbps/",
-  "https://everyayah.com/data/Nabil_Rifa3i_48kbps/",
-  "https://everyayah.com/data/Nasser_Alqatami_128kbps/",
-  "https://everyayah.com/data/Parhizgar_48kbps/",
-  "https://everyayah.com/data/Sahl_Yassin_128kbps/",
-  "https://everyayah.com/data/Salaah_AbdulRahman_Bukhatir_128kbps/",
-  "https://everyayah.com/data/Salah_Al_Budair_128kbps/",
-  "https://everyayah.com/data/Shuraym_128kbps/",
-  "https://everyayah.com/data/Yaser_Salamah_128kbps/",
-  "https://everyayah.com/data/Dussary_128kbps/",
-  "https://everyayah.com/data/ahmed_ibn_ali_al_ajamy_128kbps/",
-  "https://everyayah.com/data/aziz_alili_128kbps/",
-  "https://everyayah.com/data/khalefa_al_tunaiji_64kbps/",
-  "https://everyayah.com/data/mahmoud_ali_al_banna_32kbps/",
-  "https://everyayah.com/data/translations/Fooladvand_Hedayatfar_40Kbps/",
-  "https://everyayah.com/data/warsh/warsh_Abdul_Basit_128kbps/",
-  "https://everyayah.com/data/warsh/warsh_ibrahim_aldosary_128kbps/",
-  "https://everyayah.com/data/warsh/warsh_yassin_al_jazaery_64kbp/s"
+  {
+    "name_ar": "عبد الباسط عبد الصمد",
+    "url": "https://everyayah.com/data/AbdulSamad_64kbps_QuranExplorer.Com/"
+  },
+  {
+    "name_ar": "عبد الباسط عبد الصمد (مجود)",
+    "url": "https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/"
+  },
+  {
+    "name_ar": "عبد الباسط عبد الصمد (مرتل)",
+    "url": "https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/"
+  },
+  {
+    "name_ar": "عبد الله عواد الجهني",
+    "url": "https://everyayah.com/data/Abdullaah_3awwaad_Al-Juhaynee_128kbps/"
+  },
+  {
+    "name_ar": "عبد الله بصفر",
+    "url": "https://everyayah.com/data/Abdullah_Basfar_192kbps/"
+  },
+  {
+    "name_ar": "عبد الله مطرود",
+    "url": "https://everyayah.com/data/Abdullah_Matroud_128kbps/"
+  },
+  {
+    "name_ar": "عبد الرحمن السديس",
+    "url": "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/"
+  },
+  {
+    "name_ar": "أبو بكر الشاطري",
+    "url": "https://everyayah.com/data/Abu_Bakr_Ash-Shaatree_128kbps/"
+  },
+  {
+    "name_ar": "أحمد نعينع",
+    "url": "https://everyayah.com/data/Ahmed_Neana_128kbps/"
+  },
+  {
+    "name_ar": "أحمد بن علي العجمي",
+    "url": "https://everyayah.com/data/Ahmed_ibn_Ali_al-Ajamy_128kbps_ketaballah.net/"
+  },
+  {
+    "name_ar": "أكرم العلاقمي",
+    "url": "https://everyayah.com/data/Akram_AlAlaqimy_128kbps/"
+  },
+  {
+    "name_ar": "مشاري راشد العفاسي",
+    "url": "https://everyayah.com/data/Alafasy_128kbps/"
+  },
+  {
+    "name_ar": "علي حجاج السويسي",
+    "url": "https://everyayah.com/data/Ali_Hajjaj_AlSuesy_128kbps/"
+  },
+  {
+    "name_ar": "علي جابر",
+    "url": "https://everyayah.com/data/Ali_Jaber_64kbps/"
+  },
+  {
+    "name_ar": "أيمن سويد",
+    "url": "https://everyayah.com/data/Ayman_Sowaid_64kbps/"
+  },
+  {
+    "name_ar": "فارس عباد",
+    "url": "https://everyayah.com/data/Fares_Abbad_64kbps/"
+  },
+  {
+    "name_ar": "سعد الغامدي",
+    "url": "https://everyayah.com/data/Ghamadi_40kbps/"
+  },
+  {
+    "name_ar": "هاني الرفاعي",
+    "url": "https://everyayah.com/data/Hani_Rifai_192kbps/"
+  },
+  {
+    "name_ar": "علي بن عبد الرحمن الحذيفي",
+    "url": "https://everyayah.com/data/Hudhaify_128kbps/"
+  },
+  {
+    "name_ar": "محمود خليل الحصري",
+    "url": "https://everyayah.com/data/Husary_128kbps/"
+  },
+  {
+    "name_ar": "محمود خليل الحصري (مجود)",
+    "url": "https://everyayah.com/data/Husary_128kbps_Mujawwad/"
+  },
+  {
+    "name_ar": "محمود خليل الحصري (المعلم)",
+    "url": "https://everyayah.com/data/Husary_Muallim_128kbps/"
+  },
+  {
+    "name_ar": "إبراهيم الأخضر",
+    "url": "https://everyayah.com/data/Ibrahim_Akhdar_64kbps/"
+  },
+  {
+    "name_ar": "كريم منصوري",
+    "url": "https://everyayah.com/data/Karim_Mansoori_40kbps/"
+  },
+  {
+    "name_ar": "خالد عبد الله القحطاني",
+    "url": "https://everyayah.com/data/Khaalid_Abdullaah_al-Qahtaanee_192kbps/"
+  },
+  {
+    "name_ar": "ماهر المعيقلي",
+    "url": "https://everyayah.com/data/MaherAlMuaiqly128kbps/"
+  },
+  {
+    "name_ar": "محمد صديق المنشاوي",
+    "url": "https://everyayah.com/data/Menshawi_32kbps/"
+  },
+  {
+    "name_ar": "محمد صديق المنشاوي (مجود)",
+    "url": "https://everyayah.com/data/Minshawy_Mujawwad_192kbps/"
+  },
+  {
+    "name_ar": "محمد صديق المنشاوي (مرتل)",
+    "url": "https://everyayah.com/data/Minshawy_Murattal_128kbps/"
+  },
+  {
+    "name_ar": "محمد محمود الطبلاوي",
+    "url": "https://everyayah.com/data/Mohammad_al_Tablaway_128kbps/"
+  },
+  {
+    "name_ar": "محمد عبد الكريم",
+    "url": "https://everyayah.com/data/Muhammad_AbdulKareem_128kbps/"
+  },
+  {
+    "name_ar": "محمد أيوب",
+    "url": "https://everyayah.com/data/Muhammad_Ayyoub_128kbps/"
+  },
+  {
+    "name_ar": "محمد جبريل",
+    "url": "https://everyayah.com/data/Muhammad_Jibreel_128kbps/"
+  },
+  {
+    "name_ar": "عبد المحسن القاسم",
+    "url": "https://everyayah.com/data/Muhsin_Al_Qasim_192kbps/"
+  },
+  {
+    "name_ar": "عبد الله بصفر (إنجليزي/عربي)",
+    "url": "https://everyayah.com/data/MultiLanguage/Basfar_Walk_192kbps/"
+  },
+  {
+    "name_ar": "مصطفى إسماعيل",
+    "url": "https://everyayah.com/data/Mustafa_Ismail_48kbps/"
+  },
+  {
+    "name_ar": "نبيل الرفاعي",
+    "url": "https://everyayah.com/data/Nabil_Rifa3i_48kbps/"
+  },
+  {
+    "name_ar": "ناصر القطامي",
+    "url": "https://everyayah.com/data/Nasser_Alqatami_128kbps/"
+  },
+  {
+    "name_ar": "شهريار برهيزكار",
+    "url": "https://everyayah.com/data/Parhizgar_48kbps/"
+  },
+  {
+    "name_ar": "سهل ياسين",
+    "url": "https://everyayah.com/data/Sahl_Yassin_128kbps/"
+  },
+  {
+    "name_ar": "صلاح عبد الرحمن بو خاطر",
+    "url": "https://everyayah.com/data/Salaah_AbdulRahman_Bukhatir_128kbps/"
+  },
+  {
+    "name_ar": "صلاح البدير",
+    "url": "https://everyayah.com/data/Salah_Al_Budair_128kbps/"
+  },
+  {
+    "name_ar": "سعود الشريم",
+    "url": "https://everyayah.com/data/Shuraym_128kbps/"
+  },
+  {
+    "name_ar": "ياسر سلامة",
+    "url": "https://everyayah.com/data/Yaser_Salamah_128kbps/"
+  },
+  {
+    "name_ar": "ياسر الدوسري",
+    "url": "https://everyayah.com/data/Dussary_128kbps/"
+  },
+  {
+    "name_ar": "أحمد بن علي العجمي (نسخة ثانية)",
+    "url": "https://everyayah.com/data/ahmed_ibn_ali_al_ajamy_128kbps/"
+  },
+  {
+    "name_ar": "عزيز عليلي",
+    "url": "https://everyayah.com/data/aziz_alili_128kbps/"
+  },
+  {
+    "name_ar": "خليفة الطنيجي",
+    "url": "https://everyayah.com/data/khalefa_al_tunaiji_64kbps/"
+  },
+  {
+    "name_ar": "محمود علي البنا",
+    "url": "https://everyayah.com/data/mahmoud_ali_al_banna_32kbps/"
+  },
+  {
+    "name_ar": "فولادوند وهدايت فر (ترجمة)",
+    "url": "https://everyayah.com/data/translations/Fooladvand_Hedayatfar_40Kbps/"
+  },
+  {
+    "name_ar": "عبد الباسط عبد الصمد (ورش)",
+    "url": "https://everyayah.com/data/warsh/warsh_Abdul_Basit_128kbps/"
+  },
+  {
+    "name_ar": "إبراهيم الدوسري (ورش)",
+    "url": "https://everyayah.com/data/warsh/warsh_ibrahim_aldosary_128kbps/"
+  },
+  {
+    "name_ar": "ياسين الجزائري (ورش)",
+    "url": "https://everyayah.com/data/warsh/warsh_yassin_al_jazaery_64kbp/s"
+  }
 ]
