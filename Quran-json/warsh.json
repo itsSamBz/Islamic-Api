@@ -6,10 +6,10 @@
 		"sura_no": 1,
 		"sura_name_en": "Al-Fātiḥah",
 		"sura_name_ar": "الفَاتِحة ",
-		"line_start": 3,
-		"line_end": 3,
+		"line_start": 2,
+		"line_end": 2,
 		"aya_no": 1,
-		"aya_text": "اِلْحَمْدُ لِلهِ رَبِّ اِلْعَٰلَمِينَ ﰀ"
+		"aya_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
 	},
 	{
 		"id": 2,
@@ -19,9 +19,9 @@
 		"sura_name_en": "Al-Fātiḥah",
 		"sura_name_ar": "الفَاتِحة ",
 		"line_start": 3,
-		"line_end": 4,
+		"line_end": 3,
 		"aya_no": 2,
-		"aya_text": "اَلرَّحْمَٰنِ اِلرَّحِيمِ ﰁ"
+		"aya_text": "اِلْحَمْدُ لِلهِ رَبِّ اِلْعَٰلَمِينَ ﰀ"
 	},
 	{
 		"id": 3,
@@ -30,10 +30,10 @@
 		"sura_no": 1,
 		"sura_name_en": "Al-Fātiḥah",
 		"sura_name_ar": "الفَاتِحة ",
-		"line_start": 4,
+		"line_start": 3,
 		"line_end": 4,
 		"aya_no": 3,
-		"aya_text": "مَلِكِ يَوْمِ اِلدِّينِۖ ﰂ"
+		"aya_text": "اَلرَّحْمَٰنِ اِلرَّحِيمِ ﰁ"
 	},
 	{
 		"id": 4,
@@ -43,9 +43,9 @@
 		"sura_name_en": "Al-Fātiḥah",
 		"sura_name_ar": "الفَاتِحة ",
 		"line_start": 4,
-		"line_end": 5,
+		"line_end": 4,
 		"aya_no": 4,
-		"aya_text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُۖ ﰃ"
+		"aya_text": "مَلِكِ يَوْمِ اِلدِّينِۖ ﰂ"
 	},
 	{
 		"id": 5,
@@ -54,10 +54,10 @@
 		"sura_no": 1,
 		"sura_name_en": "Al-Fātiḥah",
 		"sura_name_ar": "الفَاتِحة ",
-		"line_start": 5,
-		"line_end": 6,
+		"line_start": 4,
+		"line_end": 5,
 		"aya_no": 5,
-		"aya_text": "اُ۪هْدِنَا اَلصِّرَٰطَ اَلْمُسْتَقِيمَ ﰄ"
+		"aya_text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُۖ ﰃ"
 	},
 	{
 		"id": 6,
@@ -66,10 +66,10 @@
 		"sura_no": 1,
 		"sura_name_en": "Al-Fātiḥah",
 		"sura_name_ar": "الفَاتِحة ",
-		"line_start": 6,
-		"line_end": 7,
+		"line_start": 5,
+		"line_end": 6,
 		"aya_no": 6,
-		"aya_text": "صِرَٰطَ اَلذِينَ أَنْعَمْتَ عَلَيْهِمْ ﰅ"
+		"aya_text": "اُ۪هْدِنَا اَلصِّرَٰطَ اَلْمُسْتَقِيمَ ﰄ"
 	},
 	{
 		"id": 7,
@@ -81,7 +81,7 @@
 		"line_start": 7,
 		"line_end": 8,
 		"aya_no": 7,
-		"aya_text": "غَيْرِ اِلْمَغْضُوبِ عَلَيْهِمْ وَلَا اَلضَّآلِّينَۖ ﰆ"
+		"aya_text": "صِرَٰطَ اَلذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ اِلْمَغْضُوبِ عَلَيْهِمْ وَلَا اَلضَّآلِّينَۖ ﰆ"
 	},
 	{
 		"id": 8,
